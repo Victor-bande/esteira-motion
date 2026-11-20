@@ -1,10 +1,13 @@
 # 01-BASE · métodos
+v2 · 20/11/2026 · orquestrador
 
-Pendentes (vêm do projeto do Claude "TTK-00 · @dicasdamalu8 · BR"):
-- [ ] `JESSICA_METODO.md` · base de persona, pecado, gancho, CTA
-- [ ] `NICK_METODO.md` · completo (aqui só há trechos em `NICK_METODO-trechos.md`)
-- [ ] `PROCESSO_CONTA.md`
-- [ ] `DOSSIE-ANGULOS.md` · completo (aqui só há trechos) · **obrigatório** para dossie-produto e cardapio-matriz
-- [ ] `MARCAS-PARCEIRAS.md`
-- [ ] `NICK/DIRECIONAMENTO-*.md` do mês
-- não precisa mais: `PROMPTS-FLOW.md`, `PRODUCAO-UGC-IA.md` (visual agora é motion)
+| Arquivo | Status |
+|---|---|
+| `JESSICA_METODO.md` | ✅ completo |
+| `NICK_METODO.md` | ✅ completo (v1 · 21/10) |
+| `DOSSIE-ANGULOS.md` | ✅ completo (v1 · 13/11) |
+| `MARCAS-PARCEIRAS.md` | ✅ completo (v1 · 05/10) |
+| `PROCESSO_CONTA.md` | ⏳ falta (as skills citam a Fase 7 e a Fase 8; sem ele, vale o que está nas skills) |
+| `NICK/DIRECIONAMENTO-*.md` do mês | ⏳ falta |
+
+Não precisa mais: `PROMPTS-FLOW.md`, `PRODUCAO-UGC-IA.md`, `PROMPTS-PADRAO-UGC.md` (visual agora é motion). Os roteiros dos vídeos feitos no Flow estão em `05-VIDEOS/_historico-flow/`.

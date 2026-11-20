@@ -1,8 +1,3 @@
-# EXEMPLO · PRODUTO.md real · Soufit Creatina 3 em 1
-
-> O que a skill gera: o dossiê completo, com bancos, fonte, risco e linha vermelha. Na máquina, a seção 12 ganha a oferta atemporal (ver GERA-SECAO-12-OFERTA-ATEMPORAL-MG.md).
-> Fonte: PRODUTOS/PRODUTO-SOUFIT-CREATINA3EM1.md (projeto, v1 · 22/10). Texto copiado sem mudança; o que é ilustrativo está marcado [EXEMPLO] no próprio original.
-
 # PRODUTO · Soufit · Creatina 3 em 1 (Pink Lemonade)
 
 v1 · 22/10/2026 · Fase 7 [PROCESSO] · salvar em `PRODUTOS/` · status: **COMPLETO para começar** (rótulo, página, comissão, briefing e 10 copys do produto) · faltam: fotos 2 a 9 da página, views e vendas de cada vídeo, a alegação exata permitida pela Anvisa
@@ -896,4 +891,3 @@ O link tá aqui em cima. Vai lá.
 ---
 
 **Fontes:** página do produto no TikTok Shop e avaliações (prints do dono, 22/10) · briefing oficial Soufit (enviado pelo dono) · [Creatina 3 em 1 · site Soufit](https://soufit.com/produto/606/creatina-3-em-1-300g-30-dias-com-gaba-e-l-teanina-sabor-pink-lemonade) · [IN 431/2026 · Anvisa](https://www.legisweb.com.br/legislacao/?id=493671) · [IN 373/2025 · Anvisa](https://www.normasbrasil.com.br/norma/instrucao-normativa-373-2025_479296.html)
-
