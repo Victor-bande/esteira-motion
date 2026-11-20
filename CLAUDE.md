@@ -6,6 +6,16 @@ v1 · 20/11/2026 · Claude (orquestrador). Este arquivo é lido em toda sessão 
 Vídeo de venda para TikTok Shop em **motion** (gráfico em código, com voz de IA). A copy **modela a estrutura de um viral que já vendeu**; o visual sai em motion, não em avatar/Flow.
 Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 
+## Leis da venda (do dono · valem em toda copy, toda skill)
+1. **A copy é o trabalho.** O motion só visualiza: dinâmico, prende o olho, segue os princípios de vídeo que vende. Template fixo (`02-CONTAS/{CONTA}/KIT-VISUAL.md`); cada vídeo troca só o conteúdo. Não gastar esforço reinventando visual.
+2. **Modelar com perfeição.** A estrutura e a psicologia do viral que vendeu ficam; entra tudo do nosso produto no lugar.
+3. **Gancho:** curiosidade + motivo para continuar assistindo, nos 3 primeiros segundos. Vários ganchos por corpo.
+4. **Corpo decide 100% da compra:** deseja na emoção, compra no racional. Vários corpos por matriz.
+5. **Todo ângulo nasce de um pecado capital e fala com uma persona.** SEMPRE dizer o que a persona quer ouvir.
+6. **Soar como indicação.** NINGUÉM GOSTA DE VENDEDOR. Levantar a bola para ela cortar; CTA breve, uma ação só. Vídeo que parece venda não vende.
+7. **Pedir ao dono só o necessário** para produzir (ver `00-SISTEMA/ENTREGAS.md`). Entre skills, só os cartões de `ENTREGAS.md`: claros, objetivos, mesmo formato sempre.
+8. **Economia:** respostas curtas; não reler o que já está no contexto; não refazer perícia de estilo; ler do `ORIGINAL.md` só a seção que a etapa usa.
+
 ## O time (cada papel é uma skill em `.claude/skills/`)
 | Papel | Skill | Faz | Escreve em |
 |---|---|---|---|
