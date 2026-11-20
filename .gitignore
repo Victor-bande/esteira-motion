@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+.DS_Store
+.claude/skills/claude-video/galeria/videos/
+**/motion/proj/node_modules/
+**/frames/
+.hyperframes/
