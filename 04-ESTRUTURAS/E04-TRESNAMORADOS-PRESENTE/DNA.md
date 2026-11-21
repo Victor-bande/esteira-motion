@@ -1,5 +1,5 @@
 # E04-TRESNAMORADOS-PRESENTE [DUO] · rico, classe média e pobre: quem deu o melhor presente
-v1 · 21/11/2026 · Garrincha · exemplos: 1 · fonte: vídeo do dono (WhatsApp 21/11) · @ não informado · EUA · **status: aguardando ✋ G0**
+v1 · 21/11/2026 · Garrincha · exemplos: 1 · fonte: vídeo do dono (WhatsApp 21/11) · @ não informado · EUA · **status: ✅ G0 aprovado 21/11**
 
 ```
 E04-TRESNAMORADOS-PRESENTE · "o pobre deu o melhor presente" · 0:50 · views/vendas: não informado
@@ -83,7 +83,7 @@ Fim do E1, **0:05** ("…quem deu o melhor presente?"). O corpo começa em "Bom,
 - Precisa ter: 2 alternativas reais e conhecidas do público, cada uma com um defeito que o nosso resolve [FATO no PRODUTO.md] · uma vantagem "ridiculamente fácil" para fechar.
 - ⚠️ Não vem para o nosso: "promoção de fim de ano", "esgotando rápido", "antes que acabe" (REGRAS 8 · oferta atemporal). Troca segura do E5: "o único problema é que quem descobre não volta pro [alternativa cara]" / "se o carrinho laranja ainda aparecer pra você…".
 - ⚠️ Comparar com marca concorrente pelo nome = risco. Usar a categoria ("o suplemento importado caro", "os 3 potes separados").
-- ⚠️ "Pobre/rico" pode soar ofensivo; testar variante neutra ("a que gasta muito / a esperta").
+- Rótulos "rica / classe média / pobre" **ficam** (decisão do dono 21/11: dentro das diretrizes).
 
 ## 8b. Para que produto e ângulo serve
 - **Produto:** o que substitui algo mais caro, várias coisas separadas ou um processo trabalhoso (ex.: Creatina 3 em 1 contra "3 potes separados" e "creatina pura que não dissolve"; Tetra Magnésio contra "magnésio comum que dá dor de barriga"); presentes de fim de ano.

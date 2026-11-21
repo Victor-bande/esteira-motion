@@ -7,3 +7,4 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 14/11/2026 | cardapio-matriz | No MG2, ganchos G2 e G4 não emendavam na 1ª fala do corpo | O gancho termina numa frase que a 1ª fala seguinte continua | → promovida (regra 3 do ORIGINAL) |
 | 20/11/2026 | todas | Esforço indo para o visual (galeria de estilos, perícia) | O motion só visualiza; o trabalho é a copy. Visual = template fixo do KIT-VISUAL; entre skills só os cartões de ENTREGAS.md; pedir ao dono só o necessário | → promovida (CLAUDE.md, Leis da venda 1, 7, 8) |
 | 21/11/2026 | voz | ElevenLabs travou na chave | Voz local Kokoro, sem chave | → promovida (VOZ.md, CLAUDE.md) |
+| 21/11/2026 | extrair-dna | Marquei "pobre/rico" como risco | Rótulos sociais (rica/pobre) estão dentro das diretrizes; não sinalizar | pendente |
