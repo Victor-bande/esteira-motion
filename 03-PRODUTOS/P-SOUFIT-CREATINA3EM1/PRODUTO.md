@@ -12,6 +12,18 @@ v1 · 22/10/2026 · Fase 7 [PROCESSO] · salvar em `PRODUTOS/` · status: **COMP
 > - ⚠️ = risco de política, em uma linha; a decisão é do dono.
 > **Conta:** nicho Saúde e bem-estar · público-mãe **mulheres, de todas as idades a partir de 19** (o rótulo indica ≥19 anos) · decisão do dono, 22/10.
 
+## Atualização 21/11/2026 (prints da página · `fotos/prints-pagina/`)
+| Item | Dado | Fonte |
+|---|---|---|
+| Avaliação | **4,8 · 10 mil avaliações** | [FATO] página 21/11 |
+| Vendidos | **62,8 mil vendidos on-line** | [FATO] página 21/11 |
+| Comissão | **R$ 9,33 a R$ 14,82 por venda** | [FATO] página 21/11 |
+| Preço do dia | a partir de R$ 54,90 (riscado R$ 99,90 · Black Friday 12/11–3/12) | [FATO] · não entra em fala (oferta atemporal) |
+| Página (foto 2/9) | "Creatina 5g · ajuda a manter força e massa muscular" · "GABA 300mg · ajuda a reduzir o estresse e a dormir melhor" · "L-teanina 200mg · ajuda no foco e na concentração, sem dar sono" | [FATO] página ⚠️ alegação da marca |
+| Página (foto 7/9) | Como tomar: 2 scoops (10 g) · 200 ml de água ou suco · todo dia no mesmo horário · **"Tome mesmo sem treinar"** | [FATO] página |
+| Fotos limpas (sem faixa de preço) | `FRASCO-CR.png` (frente) · `FOTO-CR-01-frente.jpg` · `FOTO-CR-02-na-mao.jpg` · `FOTO-CR-03-copo-rosa.jpg` | recorte dos prints |
+Pisos que só crescem (para fala): "mais de dez mil avaliações" · "mais de sessenta mil vendidos" · "nota quatro vírgula oito".
+
 ---
 
 ## 0. Ficha

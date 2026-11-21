@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Baloo+2:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: #1a1240; }
+  #palco { position: relative; width: 1080px; height: 1920px; overflow: hidden; font-family: 'Baloo 2', sans-serif; }
+  .fundo { position: absolute; inset: 0; }
+  .chao { position: absolute; left: 0; right: 0; bottom: 0; height: 560px; }
+  .balcao { position: absolute; left: -40px; right: -40px; bottom: 470px; height: 60px; border-radius: 18px; }
+  .titulo { position: absolute; top: 150px; left: 60px; right: 60px; text-align: center; font-family: 'Lilita One'; font-size: 96px; line-height: 1.02; color: #fff; -webkit-text-stroke: 10px #111; paint-order: stroke fill; }
+  .legenda { position: absolute; top: 1240px; left: 0; right: 0; text-align: center; font-family: 'Lilita One'; font-size: 120px; color: #fff; -webkit-text-stroke: 14px #111; paint-order: stroke fill; z-index: 20; }
+  .pop { position: absolute; font-family: 'Lilita One'; font-size: 110px; color: #FF2E2E; -webkit-text-stroke: 12px #fff; paint-order: stroke fill; transform: rotate(-6deg); z-index: 15; text-shadow: 0 8px 0 rgba(0,0,0,.25); }
+  .rotulo { position: absolute; font-family: 'Lilita One'; font-size: 54px; color: #fff; -webkit-text-stroke: 8px #111; paint-order: stroke fill; text-align: center; width: 340px; }
+  .masc { position: absolute; }
+  .foto { position: absolute; border-radius: 36px; box-shadow: 0 30px 60px rgba(0,0,0,.35); border: 10px solid #fff; object-fit: cover; }
+  .pote { position: absolute; width: 150px; height: 200px; border-radius: 26px 26px 34px 34px; border: 6px solid #222; display: flex; align-items: center; justify-content: center; text-align: center; font-weight: 800; font-size: 30px; line-height: 1; color: #fff; }
+  .pote::before { content: ''; position: absolute; top: -34px; left: 8px; right: 8px; height: 38px; border-radius: 12px; background: #333; border: 6px solid #222; }
+  .check { position: absolute; left: 80px; font-family: 'Lilita One'; font-size: 74px; color: #fff; -webkit-text-stroke: 9px #111; paint-order: stroke fill; }
+  .check b { color: #3BE07A; -webkit-text-stroke: 9px #111; }
+  .cel { position: absolute; left: 290px; top: 200px; width: 600px; height: 1000px; background: #111; border-radius: 70px; padding: 26px; box-shadow: 0 40px 80px rgba(0,0,0,.4); }
+  .tela { width: 100%; height: 100%; background: #fff; border-radius: 50px; overflow: hidden; padding: 40px 34px; }
+  .estrelas { color: #FFB400; font-size: 64px; letter-spacing: 4px; }
+  .seta { position: absolute; font-size: 170px; z-index: 16; }
+  .copo { position: absolute; }
+</style></head>
+<body><div id="palco"></div>
+<script src="mascote.js"></script>
+<script>
+const P = new URLSearchParams(location.search);
+const cenas = {
+  // E1 · trio
+  1: () => fundo('#2B1C6B', '#F4D06F', '#C98B4B') +
+     masc('rica', 'esperta', 340, 10, 560) + masc('media', 'duvida', 340, 370, 560) + masc('pobre', 'feliz', 340, 730, 560) +
+     rot('RICA 💰', 10, 470) + rot('CLASSE<br>MÉDIA 😐', 370, 420) + rot('POBRE ❌💰', 730, 470) +
+     tit('QUAL TOMA A MELHOR CREATINA?') + leg('creatina?'),
+  // E2 · rica + 3 potes
+  2: () => fundo('#4A1E8C', '#E9C46A', '#B07C3A') + rot('RICA 💰', 40, 300) +
+     masc('rica', 'esperta', 420, 40, 380) +
+     pote('CREA<br>TINA', '#555', 520, 760) + pote('GABA', '#6B5B95', 700, 760) + pote('L-TEA<br>NINA', '#3D6D8C', 880, 760) +
+     pop('❌ 3 POTES', 470, 520) + leg('mas'),
+  // E3 · média + copo empelotado
+  3: () => fundo('#37476B', '#D9D2C3', '#9C8F7B') + rot('CLASSE<br>MÉDIA 😐', 40, 220) +
+     masc('media', 'nojo', 420, 40, 380) + copo(560, 640) +
+     pop('❌ EMPELOTA', 440, 470) + leg('empelota'),
+  // E4 · pobre + pote real
+  4: () => fundo('#FF8FB5', '#FFE3EC', '#F7B7CB') + rot('POBRE ❌💰', 20, 300) +
+     masc('pobre', 'esperta', 400, 20, 380) +
+     foto('FRASCO-CR.png', 470, 420, 560, 860) + leg('essa'),
+  // E4 · checklist
+  5: () => fundo('#FF8FB5', '#FFE3EC', '#F7B7CB') +
+     foto('FRASCO-CR.png', 300, 640, 480, 560) +
+     chk('3 EM 1', 160) + chk('GOSTO DE SUCO', 270) + chk('ZERO CALORIA', 380) + chk('30 DOSES', 490) + leg('suco'),
+  // E4 · copo rosa (o gesto mais simples)
+  6: () => fundo('#FF8FB5', '#FFE3EC', '#F7B7CB') +
+     foto('FOTO-CR-03-copo-rosa.jpg', 150, 260, 780, 1180) +
+     pop('2 DOSADORES + ÁGUA', 70, 1480) + leg('pronto'),
+  // E5 · celular com avaliações + marca + seta
+  7: () => fundo('#2B1C6B', '#F4D06F', '#C98B4B') + masc('pobre', 'esperta', 300, -20, 1000) +
+     `<div class="cel"><div class="tela">
+        <img src="fotos/FRASCO-CR.png" style="width:100%;height:440px;object-fit:cover;border-radius:28px">
+        <div style="font-size:52px;font-weight:800;line-height:1.1;margin-top:24px;color:#111">Creatina 3 em 1 · Soufit · Pink Lemonade</div>
+        <div class="estrelas">★★★★★</div>
+        <div style="font-size:58px;font-weight:800;color:#111">4,8 · 10 mil avaliações</div>
+      </div></div>` + `<div class="seta" style="left:820px;top:1560px">👇</div>` + leg('avaliações'),
+};
+function fundo(ceu, chao, balcao) { return `<div class="fundo" style="background:linear-gradient(${ceu},${ceu} 55%,#000 160%)"></div><div class="chao" style="background:${chao}"></div><div class="balcao" style="background:${balcao}"></div>`; }
+function masc(t, e, w, x, y) { return `<div class="masc" style="left:${x}px;top:${y}px">${mascote(t, e, w)}</div>`; }
+function rot(t, x, y) { return `<div class="rotulo" style="left:${x}px;top:${y}px">${t}</div>`; }
+function tit(t) { return `<div class="titulo">${t}</div>`; }
+function leg(t) { return `<div class="legenda">${t}</div>`; }
+function pop(t, x, y) { return `<div class="pop" style="left:${x}px;top:${y}px">${t}</div>`; }
+function pote(t, c, x, y) { return `<div class="pote" style="left:${x}px;top:${y}px;background:${c}">${t}</div>`; }
+function foto(f, x, y, w, h) { return `<img class="foto" src="fotos/${f}" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px">`; }
+function chk(t, y) { return `<div class="check" style="top:${y}px"><b>✓</b> ${t}</div>`; }
+function copo(x, y) { return `<svg class="copo" style="left:${x}px;top:${y}px" width="360" height="460" viewBox="0 0 360 460">
+  <path d="M40 20 L320 20 L285 440 L75 440 Z" fill="rgba(220,235,255,.55)" stroke="#222" stroke-width="8"/>
+  <path d="M60 140 L300 140 L285 430 L75 430 Z" fill="#E8E1D0"/>
+  ${[[120,380],[200,400],[160,330],[240,350],[110,300],[220,280]].map(([a,b])=>`<circle cx="${a}" cy="${b}" r="${18+((a+b)%14)}" fill="#C9BFA8" stroke="#222" stroke-width="4"/>`).join('')}
+  <rect x="230" y="-60" width="22" height="300" rx="10" fill="#9aa3ad" stroke="#222" stroke-width="5" transform="rotate(18 240 100)"/></svg>`; }
+document.getElementById('palco').innerHTML = cenas[P.get('c') || 1]();
+</script></body></html>
