@@ -15,6 +15,10 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 6. **Soar como indicação.** NINGUÉM GOSTA DE VENDEDOR. Levantar a bola para ela cortar; CTA breve, uma ação só. Vídeo que parece venda não vende.
 7. **Pedir ao dono só o necessário** para produzir (ver `00-SISTEMA/ENTREGAS.md`). Entre skills, só os cartões de `ENTREGAS.md`: claros, objetivos, mesmo formato sempre.
 8. **Economia:** respostas curtas; não reler o que já está no contexto; não refazer perícia de estilo; ler do `ORIGINAL.md` só a seção que a etapa usa.
+   - **1 sessão nova por vídeo** (contexto limpo custa muito menos que uma conversa longa).
+   - O roteiro lê o **`CARTAO.md`** do produto (1 página), não o dossiê inteiro; o dossiê só se o cartão não responder.
+   - DNA: 1 folha de quadros (1 fps) + transcrição; nada de quadros soltos extras.
+   - Motion: template fixo; cada vídeo = só a lista de cenas; 1 folha de checagem (com a grade de margens) e pronto.
 
 ## Ordem dos testes (do dono · 21/11)
 1. **Sempre nasce 1 vídeo: 1 corpo + 1 gancho.** Nada de produzir a matriz inteira de uma vez.

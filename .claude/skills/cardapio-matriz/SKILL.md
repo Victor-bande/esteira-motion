@@ -17,7 +17,8 @@ v1 · 20/11/2026 · adaptado para o Claude Code + motion. O procedimento complet
 7. **Como o dono responde:** "A1 com E1a, E3b + G1, G2, G3 · A2 + G1, G2 · A3 depois · A4 não". Depois do G2, nenhuma palavra muda sem ele.
 8. Ingrediente, selo ou benefício fora do rótulo nunca entra.
 9. **Marca só no fim** (dono 21/11): durante o vídeo, o produto é "essa aqui" / "a minha" e fica explícito que é o melhor pela psicologia; o nome (marca e apelido) só é falado no E final, junto do CTA. Frases curtas, uma ideia por frase (a voz local perde dicção em frase longa).
-10. Correção do dono → `00-SISTEMA/CORRECOES.md`.
+10. **Fidelidade frase a frase** (dono 21/11): o A1 segue a **psicologia exata do viral, frase por frase**, não só bloco por bloco. Cada frase do viral tem uma função (aposta, benefício, defeito, virada "mais barato", prova visual, urgência…) e a nossa frase tem a mesma. Quando uma regra (oferta atemporal) proíbe a frase, troca por outra com a **mesma função** (urgência vira urgência suave, nunca outra coisa). A tabela de encaixe é por frase e marca ✓/✗.
+11. Correção do dono → `00-SISTEMA/CORRECOES.md`.
 
 ## Entrega
 - `05-VIDEOS/{MATRIZ}/CARDAPIO.md` → `extrair-dna` (conferir-cardapio) → ✋ G2.
