@@ -15,6 +15,7 @@ Cada voz é escolhida **uma vez** (✋ G3: o dono ouve 3 amostras e escolhe); de
 | V3 · desconfiada que testou | cética, nível 4/5 | _a escolher_ | irônica no começo, aliviada no fim | pendente |
 
 ## Regras
+- **Dicção primeiro** (dono 21/11): velocidade até 1,12 e **sem mudar o tom** (o ajuste de tom deixava a fala embolada). Personagens se diferenciam pelo ritmo e pela legenda/rótulo na tela. O ritmo rápido do vídeo vem dos cortes, não da voz.
 - O pecado do ângulo dá a emoção da leitura (Ira = indignada · Inveja = cochichando segredo · Preguiça = aliviada · Avareza = "achei barato").
 - Ritmo acelerado e sem silêncio (KIT-VISUAL); número por extenso na copy.
 - Modelo e ajustes (estabilidade, estilo, velocidade) salvos aqui na 1ª aprovação de cada voz.

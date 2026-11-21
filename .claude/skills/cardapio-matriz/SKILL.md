@@ -16,7 +16,8 @@ v1 · 20/11/2026 · adaptado para o Claude Code + motion. O procedimento complet
 6. **O ROTEIRO.md aprovado leva, por bloco:** a fala final · a função do bloco no DNA · a mecânica visual do viral em 1 linha · os pop-ups (palavra-gatilho → o que aparece, de qual foto ou avaliação). É a entrada exata do motion. Nada de takes, prompts ou notas de avatar.
 7. **Como o dono responde:** "A1 com E1a, E3b + G1, G2, G3 · A2 + G1, G2 · A3 depois · A4 não". Depois do G2, nenhuma palavra muda sem ele.
 8. Ingrediente, selo ou benefício fora do rótulo nunca entra.
-9. Correção do dono → `00-SISTEMA/CORRECOES.md`.
+9. **Marca só no fim** (dono 21/11): durante o vídeo, o produto é "essa aqui" / "a minha" e fica explícito que é o melhor pela psicologia; o nome (marca e apelido) só é falado no E final, junto do CTA. Frases curtas, uma ideia por frase (a voz local perde dicção em frase longa).
+10. Correção do dono → `00-SISTEMA/CORRECOES.md`.
 
 ## Entrega
 - `05-VIDEOS/{MATRIZ}/CARDAPIO.md` → `extrair-dna` (conferir-cardapio) → ✋ G2.

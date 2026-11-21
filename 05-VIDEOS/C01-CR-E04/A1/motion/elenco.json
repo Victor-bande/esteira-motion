@@ -1,3 +1,3 @@
-{"rica": {"voz": "pf_dora", "vel": 1.18, "tom": 0.93, "respiro": 0.08},
- "media": {"voz": "pf_dora", "vel": 1.3, "tom": 1.0, "respiro": 0.08},
- "pobre": {"voz": "pf_dora", "vel": 1.32, "tom": 1.07, "respiro": 0.08}}
+{"rica": {"voz": "pf_dora", "vel": 1.08, "respiro": 0.06},
+ "media": {"voz": "pf_dora", "vel": 1.12, "respiro": 0.06},
+ "pobre": {"voz": "pf_dora", "vel": 1.12, "respiro": 0.06}}

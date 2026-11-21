@@ -8,3 +8,5 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 20/11/2026 | todas | Esforço indo para o visual (galeria de estilos, perícia) | O motion só visualiza; o trabalho é a copy. Visual = template fixo do KIT-VISUAL; entre skills só os cartões de ENTREGAS.md; pedir ao dono só o necessário | → promovida (CLAUDE.md, Leis da venda 1, 7, 8) |
 | 21/11/2026 | voz | ElevenLabs travou na chave | Voz local Kokoro, sem chave | → promovida (VOZ.md, CLAUDE.md) |
 | 21/11/2026 | extrair-dna | Marquei "pobre/rico" como risco | Rótulos sociais (rica/pobre) estão dentro das diretrizes; não sinalizar | pendente |
+| 21/11/2026 | voz | Voz rápida e com tom alterado: dicção pouco clara | Velocidade ≤ 1,12, sem mudar o tom; o ritmo vem dos cortes | → promovida (VOZ.md) |
+| 21/11/2026 | cardapio-matriz | Marca falada no meio do corpo (E4) | Produto vira "essa aqui" no corpo; marca só no fim, junto do CTA | → promovida (regra 9 da skill) |
