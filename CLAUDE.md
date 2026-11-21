@@ -16,6 +16,11 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 7. **Pedir ao dono só o necessário** para produzir (ver `00-SISTEMA/ENTREGAS.md`). Entre skills, só os cartões de `ENTREGAS.md`: claros, objetivos, mesmo formato sempre.
 8. **Economia:** respostas curtas; não reler o que já está no contexto; não refazer perícia de estilo; ler do `ORIGINAL.md` só a seção que a etapa usa.
 
+## Ordem dos testes (do dono · 21/11)
+1. **Sempre nasce 1 vídeo: 1 corpo + 1 gancho.** Nada de produzir a matriz inteira de uma vez.
+2. Desse vídeo nascem as variações, nesta ordem: **(a)** outros ganchos do mesmo corpo → **(b)** outros corpos/ângulos/personas da mesma matriz → **(c)** outra estrutura viral com o mesmo produto → **(d)** a mesma estrutura com outro produto → e assim por diante.
+3. **Um público por conta.** Não rodar nichos, públicos nem muitos produtos diferentes: o conteúdo é para um público só, para o TikTok aprender e entregar para ele. Produto novo só se for do mesmo público.
+
 ## O time (cada papel é uma skill em `.claude/skills/`)
 | Papel | Skill | Faz | Escreve em |
 |---|---|---|---|

@@ -23,6 +23,7 @@ A leitura pronta (`REGISTRO.md` §Leituras) + `MATRIZ.md` (o que já foi testado
 | Corpo validado (> 3 mil views e 1 venda a cada 3 mil ou menos) | **Escala 1**: mais ganchos e iterações do mesmo corpo; depois Escala 2 e 3 [NICK §7.3] | mesma matriz → depois outro produto que resolve a mesma dor |
 
 ## Regras
+0. **Ordem fixa do dono:** ganchos do mesmo corpo → outros corpos/personas da matriz → outra estrutura com o mesmo produto → a mesma estrutura com outro produto. Sempre 1 vídeo novo por vez. Nunca sair do público da conta (produto novo só se for do mesmo público).
 1. **1 variável por vez.** Nunca o mesmo gancho no mesmo dia. 1 versão por dia por matriz [NICK §7.1].
 2. **Nunca repostar o mesmo vídeo trocando só texto, legenda ou cor** (conteúdo repetitivo).
 3. Variável do motion (estilo, ritmo, voz) é **formato** (`-F{n}`) e conta como a única variável daquele teste.

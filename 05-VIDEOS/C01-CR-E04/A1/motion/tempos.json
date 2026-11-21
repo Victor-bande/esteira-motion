@@ -1,0 +1,918 @@
+[
+ {
+  "quem": "rica",
+  "frase": "Eu sou a rica.",
+  "inicio": 0.0,
+  "fim": 0.928,
+  "palavras": [
+   {
+    "p": "Eu",
+    "inicio": 0.0
+   },
+   {
+    "p": "sou",
+    "inicio": 0.186
+   },
+   {
+    "p": "a",
+    "inicio": 0.433
+   },
+   {
+    "p": "rica.",
+    "inicio": 0.557
+   }
+  ]
+ },
+ {
+  "quem": "media",
+  "frase": "Eu sou a classe média.",
+  "inicio": 1.008,
+  "fim": 2.224,
+  "palavras": [
+   {
+    "p": "Eu",
+    "inicio": 1.008
+   },
+   {
+    "p": "sou",
+    "inicio": 1.167
+   },
+   {
+    "p": "a",
+    "inicio": 1.378
+   },
+   {
+    "p": "classe",
+    "inicio": 1.484
+   },
+   {
+    "p": "média.",
+    "inicio": 1.854
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "E eu sou a pobre. Qual de nós três toma a melhor creatina?",
+  "inicio": 2.304,
+  "fim": 4.899,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 2.304
+   },
+   {
+    "p": "eu",
+    "inicio": 2.392
+   },
+   {
+    "p": "sou",
+    "inicio": 2.524
+   },
+   {
+    "p": "a",
+    "inicio": 2.7
+   },
+   {
+    "p": "pobre.",
+    "inicio": 2.788
+   },
+   {
+    "p": "Qual",
+    "inicio": 3.096
+   },
+   {
+    "p": "de",
+    "inicio": 3.316
+   },
+   {
+    "p": "nós",
+    "inicio": 3.448
+   },
+   {
+    "p": "três",
+    "inicio": 3.624
+   },
+   {
+    "p": "toma",
+    "inicio": 3.843
+   },
+   {
+    "p": "a",
+    "inicio": 4.063
+   },
+   {
+    "p": "melhor",
+    "inicio": 4.151
+   },
+   {
+    "p": "creatina?",
+    "inicio": 4.459
+   }
+  ]
+ },
+ {
+  "quem": "rica",
+  "frase": "Bom, eu compro tudo separado: a creatina, o GABA e a L-teanina, três potes importados.",
+  "inicio": 4.979,
+  "fim": 9.911,
+  "palavras": [
+   {
+    "p": "Bom,",
+    "inicio": 4.979
+   },
+   {
+    "p": "eu",
+    "inicio": 5.262
+   },
+   {
+    "p": "compro",
+    "inicio": 5.433
+   },
+   {
+    "p": "tudo",
+    "inicio": 5.829
+   },
+   {
+    "p": "separado:",
+    "inicio": 6.113
+   },
+   {
+    "p": "a",
+    "inicio": 6.68
+   },
+   {
+    "p": "creatina,",
+    "inicio": 6.793
+   },
+   {
+    "p": "o",
+    "inicio": 7.36
+   },
+   {
+    "p": "GABA",
+    "inicio": 7.473
+   },
+   {
+    "p": "e",
+    "inicio": 7.757
+   },
+   {
+    "p": "a",
+    "inicio": 7.87
+   },
+   {
+    "p": "L-teanina,",
+    "inicio": 7.984
+   },
+   {
+    "p": "três",
+    "inicio": 8.607
+   },
+   {
+    "p": "potes",
+    "inicio": 8.891
+   },
+   {
+    "p": "importados.",
+    "inicio": 9.231
+   }
+  ]
+ },
+ {
+  "quem": "rica",
+  "frase": "É tudo de qualidade, mas são três dosadores, três potes no armário, e sempre acaba um antes do outro.",
+  "inicio": 9.991,
+  "fim": 15.393,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 9.991
+   },
+   {
+    "p": "tudo",
+    "inicio": 10.097
+   },
+   {
+    "p": "de",
+    "inicio": 10.362
+   },
+   {
+    "p": "qualidade,",
+    "inicio": 10.521
+   },
+   {
+    "p": "mas",
+    "inicio": 11.103
+   },
+   {
+    "p": "são",
+    "inicio": 11.315
+   },
+   {
+    "p": "três",
+    "inicio": 11.527
+   },
+   {
+    "p": "dosadores,",
+    "inicio": 11.792
+   },
+   {
+    "p": "três",
+    "inicio": 12.374
+   },
+   {
+    "p": "potes",
+    "inicio": 12.639
+   },
+   {
+    "p": "no",
+    "inicio": 12.957
+   },
+   {
+    "p": "armário,",
+    "inicio": 13.116
+   },
+   {
+    "p": "e",
+    "inicio": 13.592
+   },
+   {
+    "p": "sempre",
+    "inicio": 13.698
+   },
+   {
+    "p": "acaba",
+    "inicio": 14.069
+   },
+   {
+    "p": "um",
+    "inicio": 14.387
+   },
+   {
+    "p": "antes",
+    "inicio": 14.546
+   },
+   {
+    "p": "do",
+    "inicio": 14.863
+   },
+   {
+    "p": "outro.",
+    "inicio": 15.022
+   }
+  ]
+ },
+ {
+  "quem": "media",
+  "frase": "Eu também tomo creatina, a pura, que é mais em conta.",
+  "inicio": 15.473,
+  "fim": 17.884,
+  "palavras": [
+   {
+    "p": "Eu",
+    "inicio": 15.473
+   },
+   {
+    "p": "também",
+    "inicio": 15.607
+   },
+   {
+    "p": "tomo",
+    "inicio": 15.919
+   },
+   {
+    "p": "creatina,",
+    "inicio": 16.143
+   },
+   {
+    "p": "a",
+    "inicio": 16.589
+   },
+   {
+    "p": "pura,",
+    "inicio": 16.678
+   },
+   {
+    "p": "que",
+    "inicio": 16.946
+   },
+   {
+    "p": "é",
+    "inicio": 17.125
+   },
+   {
+    "p": "mais",
+    "inicio": 17.214
+   },
+   {
+    "p": "em",
+    "inicio": 17.437
+   },
+   {
+    "p": "conta.",
+    "inicio": 17.571
+   }
+  ]
+ },
+ {
+  "quem": "media",
+  "frase": "Mas pra tomar eu tenho que encher o copo, mexer, mexer de novo, ela empelota no fundo, eu tomo com cara feia, e na metade do pote eu largo.",
+  "inicio": 17.964,
+  "fim": 24.15,
+  "palavras": [
+   {
+    "p": "Mas",
+    "inicio": 17.964
+   },
+   {
+    "p": "pra",
+    "inicio": 18.14
+   },
+   {
+    "p": "tomar",
+    "inicio": 18.317
+   },
+   {
+    "p": "eu",
+    "inicio": 18.582
+   },
+   {
+    "p": "tenho",
+    "inicio": 18.715
+   },
+   {
+    "p": "que",
+    "inicio": 18.98
+   },
+   {
+    "p": "encher",
+    "inicio": 19.157
+   },
+   {
+    "p": "o",
+    "inicio": 19.466
+   },
+   {
+    "p": "copo,",
+    "inicio": 19.554
+   },
+   {
+    "p": "mexer,",
+    "inicio": 19.82
+   },
+   {
+    "p": "mexer",
+    "inicio": 20.129
+   },
+   {
+    "p": "de",
+    "inicio": 20.394
+   },
+   {
+    "p": "novo,",
+    "inicio": 20.527
+   },
+   {
+    "p": "ela",
+    "inicio": 20.792
+   },
+   {
+    "p": "empelota",
+    "inicio": 20.969
+   },
+   {
+    "p": "no",
+    "inicio": 21.366
+   },
+   {
+    "p": "fundo,",
+    "inicio": 21.499
+   },
+   {
+    "p": "eu",
+    "inicio": 21.808
+   },
+   {
+    "p": "tomo",
+    "inicio": 21.941
+   },
+   {
+    "p": "com",
+    "inicio": 22.162
+   },
+   {
+    "p": "cara",
+    "inicio": 22.338
+   },
+   {
+    "p": "feia,",
+    "inicio": 22.559
+   },
+   {
+    "p": "e",
+    "inicio": 22.825
+   },
+   {
+    "p": "na",
+    "inicio": 22.913
+   },
+   {
+    "p": "metade",
+    "inicio": 23.046
+   },
+   {
+    "p": "do",
+    "inicio": 23.355
+   },
+   {
+    "p": "pote",
+    "inicio": 23.487
+   },
+   {
+    "p": "eu",
+    "inicio": 23.708
+   },
+   {
+    "p": "largo.",
+    "inicio": 23.841
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "E é por isso que eu tomo a creatina rosa da Soufit.",
+  "inicio": 24.23,
+  "fim": 26.598,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 24.23
+   },
+   {
+    "p": "é",
+    "inicio": 24.321
+   },
+   {
+    "p": "por",
+    "inicio": 24.412
+   },
+   {
+    "p": "isso",
+    "inicio": 24.595
+   },
+   {
+    "p": "que",
+    "inicio": 24.822
+   },
+   {
+    "p": "eu",
+    "inicio": 25.004
+   },
+   {
+    "p": "tomo",
+    "inicio": 25.141
+   },
+   {
+    "p": "a",
+    "inicio": 25.368
+   },
+   {
+    "p": "creatina",
+    "inicio": 25.46
+   },
+   {
+    "p": "rosa",
+    "inicio": 25.869
+   },
+   {
+    "p": "da",
+    "inicio": 26.097
+   },
+   {
+    "p": "Soufit.",
+    "inicio": 26.234
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "É três em um: cinco gramas de creatina, com GABA e L-teanina no mesmo pote.",
+  "inicio": 26.678,
+  "fim": 30.354,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 26.678
+   },
+   {
+    "p": "três",
+    "inicio": 26.774
+   },
+   {
+    "p": "em",
+    "inicio": 27.016
+   },
+   {
+    "p": "um:",
+    "inicio": 27.161
+   },
+   {
+    "p": "cinco",
+    "inicio": 27.355
+   },
+   {
+    "p": "gramas",
+    "inicio": 27.645
+   },
+   {
+    "p": "de",
+    "inicio": 27.984
+   },
+   {
+    "p": "creatina,",
+    "inicio": 28.129
+   },
+   {
+    "p": "com",
+    "inicio": 28.613
+   },
+   {
+    "p": "GABA",
+    "inicio": 28.806
+   },
+   {
+    "p": "e",
+    "inicio": 29.048
+   },
+   {
+    "p": "L-teanina",
+    "inicio": 29.145
+   },
+   {
+    "p": "no",
+    "inicio": 29.629
+   },
+   {
+    "p": "mesmo",
+    "inicio": 29.774
+   },
+   {
+    "p": "pote.",
+    "inicio": 30.064
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "Tem gosto de pink lemonade, parece que você tá tomando um suco.",
+  "inicio": 30.434,
+  "fim": 33.456,
+  "palavras": [
+   {
+    "p": "Tem",
+    "inicio": 30.434
+   },
+   {
+    "p": "gosto",
+    "inicio": 30.623
+   },
+   {
+    "p": "de",
+    "inicio": 30.906
+   },
+   {
+    "p": "pink",
+    "inicio": 31.048
+   },
+   {
+    "p": "lemonade,",
+    "inicio": 31.284
+   },
+   {
+    "p": "parece",
+    "inicio": 31.756
+   },
+   {
+    "p": "que",
+    "inicio": 32.086
+   },
+   {
+    "p": "você",
+    "inicio": 32.275
+   },
+   {
+    "p": "tá",
+    "inicio": 32.511
+   },
+   {
+    "p": "tomando",
+    "inicio": 32.653
+   },
+   {
+    "p": "um",
+    "inicio": 33.031
+   },
+   {
+    "p": "suco.",
+    "inicio": 33.172
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "Zero caloria. Um pote rende trinta doses.",
+  "inicio": 33.536,
+  "fim": 35.616,
+  "palavras": [
+   {
+    "p": "Zero",
+    "inicio": 33.536
+   },
+   {
+    "p": "caloria.",
+    "inicio": 33.783
+   },
+   {
+    "p": "Um",
+    "inicio": 34.229
+   },
+   {
+    "p": "pote",
+    "inicio": 34.378
+   },
+   {
+    "p": "rende",
+    "inicio": 34.625
+   },
+   {
+    "p": "trinta",
+    "inicio": 34.923
+   },
+   {
+    "p": "doses.",
+    "inicio": 35.269
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "E pra tomar é só colocar dois dosadores num copo de água, e pronto. Não empelota, não fica grossa.",
+  "inicio": 35.696,
+  "fim": 40.444,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 35.696
+   },
+   {
+    "p": "pra",
+    "inicio": 35.792
+   },
+   {
+    "p": "tomar",
+    "inicio": 35.984
+   },
+   {
+    "p": "é",
+    "inicio": 36.272
+   },
+   {
+    "p": "só",
+    "inicio": 36.368
+   },
+   {
+    "p": "colocar",
+    "inicio": 36.511
+   },
+   {
+    "p": "dois",
+    "inicio": 36.895
+   },
+   {
+    "p": "dosadores",
+    "inicio": 37.135
+   },
+   {
+    "p": "num",
+    "inicio": 37.614
+   },
+   {
+    "p": "copo",
+    "inicio": 37.806
+   },
+   {
+    "p": "de",
+    "inicio": 38.046
+   },
+   {
+    "p": "água,",
+    "inicio": 38.19
+   },
+   {
+    "p": "e",
+    "inicio": 38.478
+   },
+   {
+    "p": "pronto.",
+    "inicio": 38.574
+   },
+   {
+    "p": "Não",
+    "inicio": 38.957
+   },
+   {
+    "p": "empelota,",
+    "inicio": 39.149
+   },
+   {
+    "p": "não",
+    "inicio": 39.629
+   },
+   {
+    "p": "fica",
+    "inicio": 39.82
+   },
+   {
+    "p": "grossa.",
+    "inicio": 40.06
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "O único problema é que, depois que você prova, a creatina normal fica encostada no armário.",
+  "inicio": 40.524,
+  "fim": 44.931,
+  "palavras": [
+   {
+    "p": "O",
+    "inicio": 40.524
+   },
+   {
+    "p": "único",
+    "inicio": 40.62
+   },
+   {
+    "p": "problema",
+    "inicio": 40.907
+   },
+   {
+    "p": "é",
+    "inicio": 41.338
+   },
+   {
+    "p": "que,",
+    "inicio": 41.434
+   },
+   {
+    "p": "depois",
+    "inicio": 41.673
+   },
+   {
+    "p": "que",
+    "inicio": 42.009
+   },
+   {
+    "p": "você",
+    "inicio": 42.2
+   },
+   {
+    "p": "prova,",
+    "inicio": 42.44
+   },
+   {
+    "p": "a",
+    "inicio": 42.775
+   },
+   {
+    "p": "creatina",
+    "inicio": 42.871
+   },
+   {
+    "p": "normal",
+    "inicio": 43.302
+   },
+   {
+    "p": "fica",
+    "inicio": 43.637
+   },
+   {
+    "p": "encostada",
+    "inicio": 43.877
+   },
+   {
+    "p": "no",
+    "inicio": 44.356
+   },
+   {
+    "p": "armário.",
+    "inicio": 44.5
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "Tem milhares de avaliações com nota alta.",
+  "inicio": 45.011,
+  "fim": 47.091,
+  "palavras": [
+   {
+    "p": "Tem",
+    "inicio": 45.011
+   },
+   {
+    "p": "milhares",
+    "inicio": 45.209
+   },
+   {
+    "p": "de",
+    "inicio": 45.655
+   },
+   {
+    "p": "avaliações",
+    "inicio": 45.803
+   },
+   {
+    "p": "com",
+    "inicio": 46.348
+   },
+   {
+    "p": "nota",
+    "inicio": 46.546
+   },
+   {
+    "p": "alta.",
+    "inicio": 46.794
+   }
+  ]
+ },
+ {
+  "quem": "pobre",
+  "frase": "Se o carrinho laranja ainda aparecer aí embaixo pra você, dá uma olhada nas avaliações.",
+  "inicio": 47.171,
+  "fim": 51.366,
+  "palavras": [
+   {
+    "p": "Se",
+    "inicio": 47.171
+   },
+   {
+    "p": "o",
+    "inicio": 47.314
+   },
+   {
+    "p": "carrinho",
+    "inicio": 47.41
+   },
+   {
+    "p": "laranja",
+    "inicio": 47.839
+   },
+   {
+    "p": "ainda",
+    "inicio": 48.22
+   },
+   {
+    "p": "aparecer",
+    "inicio": 48.506
+   },
+   {
+    "p": "aí",
+    "inicio": 48.935
+   },
+   {
+    "p": "embaixo",
+    "inicio": 49.078
+   },
+   {
+    "p": "pra",
+    "inicio": 49.459
+   },
+   {
+    "p": "você,",
+    "inicio": 49.65
+   },
+   {
+    "p": "dá",
+    "inicio": 49.936
+   },
+   {
+    "p": "uma",
+    "inicio": 50.079
+   },
+   {
+    "p": "olhada",
+    "inicio": 50.269
+   },
+   {
+    "p": "nas",
+    "inicio": 50.603
+   },
+   {
+    "p": "avaliações.",
+    "inicio": 50.794
+   }
+  ]
+ }
+]
