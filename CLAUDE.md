@@ -51,7 +51,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 
 ## Ponte para o motion (v0 · será escrita de verdade no 1º teste)
 1. Entrada: `ROTEIRO.md` aprovado + `DNA.md` (mecânica visual de cada bloco e tabela de pop-ups com segundo e palavra) + `03-PRODUTOS/P-…/fotos/` + `02-CONTAS/{CONTA}/KIT-VISUAL.md` e `VOZ.md`.
-2. Voz: gerada aqui mesmo, junto do motion. A persona do corpo escolhe a voz no banco de `VOZ.md` e o pecado dá a emoção da leitura. ElevenLabs com tempo por palavra (a chave fica no ambiente, nunca no repositório nem no chat). O tempo da fala manda no tempo das cenas e da legenda.
+2. Voz: gerada aqui mesmo, junto do motion. A persona do corpo escolhe a voz no banco de `VOZ.md` e o pecado dá a emoção da leitura. Voz local Kokoro (`06-FERRAMENTAS/voz/`), sem chave; gera `voz.wav` + `tempos.json`. O tempo da fala manda no tempo das cenas e da legenda.
 3. As 5 perguntas da `claude-video` já estão respondidas pela conta: **9:16 (1080 × 1920)**, duração = a da voz, sem loop, marca do `KIT-VISUAL.md`, mídia = fotos reais do produto.
 4. Cada bloco do DNA vira uma cena com **a mesma função psicológica**; a mecânica visual do viral é traduzida para motion e registrada em `00-SISTEMA/MECANICAS-MOTION.md` (a biblioteca de traduções cresce a cada vídeo).
 5. Regras do TikTok Shop sobrepõem as da `claude-video` onde conflitam (ex.: legenda da fala na tela é permitida, e o limite de "6 palavras na tela" vale para os títulos, não para a legenda).
