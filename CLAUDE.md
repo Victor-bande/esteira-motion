@@ -85,6 +85,11 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 - Toda resposta fecha com **"Próximo passo:"** (quem faz e o que o dono manda). Portão = parar.
 - Resumo no chat, detalhe no arquivo.
 
+## Entregas e fontes externas
+- **Vídeos prontos → Google Drive**, pasta "ESTEIRA MOTION · C01 Malu · vídeos prontos" (id `13w05LBDR4t6VZaV7wU0ow3IH85cAPPbZ`). Limite de envio do conector: ~3 MB por arquivo.
+- **Hub do Nick (MVM):** `01-BASE/MVM/MVM.md` (virais por nicho, biblioteca de copys validadas gancho + corpo, marcas e produtos com comissão, dores/psicologia/alternativas por nicho, curso). Atualizar com `06-FERRAMENTAS/mvm/atualizar.sh`. **Antes de cada criação, procurar ali** viral, gancho e corpo validados do produto.
+- Sessão nova: rodar uma vez `bash 06-FERRAMENTAS/voz/instalar.sh` (voz local).
+
 ## Mapa do repositório
 ```
 CLAUDE.md                 este arquivo (orquestrador)
