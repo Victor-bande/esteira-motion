@@ -6,3 +6,6 @@ node_modules/
 **/motion/proj/node_modules/
 **/frames/
 .hyperframes/
+
+# voz de trabalho do motion (a versão .mp3 é a que fica)
+05-VIDEOS/**/motion/voz.wav
