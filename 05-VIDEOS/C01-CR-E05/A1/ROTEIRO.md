@@ -23,3 +23,10 @@ Corpo A1 literal · Preguiça + Gula · P4 Sandra 51 · nível 3/5 · voz: Dora 
 | E6 | escassez suave + ação | Se o carrinho tiver aparecendo aí embaixo pra você, confere aí. | = |
 
 ⚠️ (o dono decide): "mesmo sem treinar" (citado da página) · "quase um quilo de carne" [CONFERIR].
+
+## Gancho G2 · "nunca pisou numa academia" · v1 · 22/11/2026
+Troca só as 2 primeiras falas (E1 · público + objeção + pergunta); da 3ª em diante = corpo A1 acima, palavra por palavra. Voz: Thalita (neural). 71,8 s. Cenas: `G2/cenas.js`.
+| E | Função | Fala |
+|---|---|---|
+| E1 | público + objeção | Passou dos quarenta e nunca pisou numa academia? |
+| E1 | pergunta | Será que creatina serve pra você? |

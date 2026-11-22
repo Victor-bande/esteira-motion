@@ -60,7 +60,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 
 ## Ponte para o motion (v0 · será escrita de verdade no 1º teste)
 1. Entrada: `ROTEIRO.md` aprovado + `DNA.md` (mecânica visual de cada bloco e tabela de pop-ups com segundo e palavra) + `03-PRODUTOS/P-…/fotos/` + `02-CONTAS/{CONTA}/KIT-VISUAL.md` e `VOZ.md`.
-2. Voz: gerada aqui mesmo, junto do motion. A persona do corpo escolhe a voz no banco de `VOZ.md` e o pecado dá a emoção da leitura. Voz local Kokoro (`06-FERRAMENTAS/voz/`), sem chave; gera `voz.wav` + `tempos.json`. O tempo da fala manda no tempo das cenas e da legenda.
+2. Voz: gerada aqui mesmo, junto do motion. A persona do corpo escolhe a voz no banco de `VOZ.md` e o pecado dá a emoção da leitura. Voz neural Microsoft (`06-FERRAMENTAS/voz/falar_neural.py`, Thalita), sem chave; gera `voz.wav` + `tempos.json` com o tempo real de cada palavra (Kokoro saiu em 22/11). O tempo da fala manda no tempo das cenas e da legenda.
 3. As 5 perguntas da `claude-video` já estão respondidas pela conta: **9:16 (1080 × 1920)**, duração = a da voz, sem loop, marca do `KIT-VISUAL.md`, mídia = fotos reais do produto.
 4. Cada bloco do DNA vira uma cena com **a mesma função psicológica**; a mecânica visual do viral é traduzida para motion e registrada em `00-SISTEMA/MECANICAS-MOTION.md` (a biblioteca de traduções cresce a cada vídeo).
 5. Regras do TikTok Shop sobrepõem as da `claude-video` onde conflitam (ex.: legenda da fala na tela é permitida, e o limite de "6 palavras na tela" vale para os títulos, não para a legenda).
@@ -88,7 +88,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 ## Entregas e fontes externas
 - **Vídeos prontos → Google Drive**, pasta "ESTEIRA MOTION · C01 Malu · vídeos prontos" (id `13w05LBDR4t6VZaV7wU0ow3IH85cAPPbZ`). Limite de envio do conector: ~3 MB por arquivo → sobe a versão `-drive.mp4` (ffmpeg `-crf 28 -maxrate 380k -bufsize 760k`, áudio 64k; ~2,3 MB em 55 s); a versão cheia fica no repositório.
 - **Hub do Nick (MVM):** `01-BASE/MVM/MVM.md` (virais por nicho, biblioteca de copys validadas gancho + corpo, marcas e produtos com comissão, dores/psicologia/alternativas por nicho, curso). Atualizar com `06-FERRAMENTAS/mvm/atualizar.sh`. **Sempre puxar do link do Nick** (https://mvm-wellness.pages.dev/, dono 22/11): antes de cada criação, rodar o `atualizar.sh` e procurar ali viral, gancho e corpo validados do produto; o vídeo do viral vem do link do Drive da biblioteca (download direto).
-- Sessão nova: rodar uma vez `bash 06-FERRAMENTAS/voz/instalar.sh` (voz local).
+- Sessão nova: rodar uma vez `bash 06-FERRAMENTAS/voz/instalar.sh` (instala a voz).
 
 ## Mapa do repositório
 ```

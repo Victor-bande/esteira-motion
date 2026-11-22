@@ -1,0 +1,91 @@
+<!doctype html>
+<!-- template v2 · 22/11/2026 · fixo. Cada vídeo traz só o seu cenas.js (window.CENAS + window.ROTEIRO), passado em ?c=caminho.
+     Legenda fora do zoom e dentro da zona útil (KIT-VISUAL · Margens). ?grade=1 desenha a grade de margens (folha de checagem). -->
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Baloo+2:wght@700;800&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1080px; height: 1920px; overflow: hidden; background: #1a1240; }
+  #palco { position: relative; width: 1080px; height: 1920px; overflow: hidden; font-family: 'Baloo 2', sans-serif; }
+  #cena { position: absolute; inset: 0; transform-origin: 450px 700px; }
+  .fundo { position: absolute; inset: 0; }
+  .chao { position: absolute; left: 0; right: 0; bottom: 0; height: 560px; }
+  .balcao { position: absolute; left: -40px; right: -40px; bottom: 470px; height: 60px; border-radius: 18px; }
+  .titulo { position: absolute; top: 260px; left: 130px; width: 800px; text-align: center; font-family: 'Lilita One'; font-size: 84px; line-height: 1.02; color: #fff; -webkit-text-stroke: 10px #111; paint-order: stroke fill; z-index: 12; }
+  #leg { position: absolute; top: 1100px; left: 120px; width: 660px; text-align: center; font-family: 'Lilita One'; font-size: 112px; line-height: 1; color: #fff; -webkit-text-stroke: 14px #111; paint-order: stroke fill; z-index: 30; white-space: nowrap; }
+  .pop { position: absolute; font-family: 'Lilita One'; font-size: 92px; line-height: 1; color: #FF2E2E; -webkit-text-stroke: 11px #fff; paint-order: stroke fill; z-index: 15; text-shadow: 0 8px 0 rgba(0,0,0,.25); white-space: nowrap; }
+  .rotulo { position: absolute; font-family: 'Lilita One'; font-size: 54px; line-height: 1.05; color: #fff; -webkit-text-stroke: 8px #111; paint-order: stroke fill; text-align: center; }
+  .masc { position: absolute; z-index: 5; }
+  .foto { position: absolute; border-radius: 36px; box-shadow: 0 30px 60px rgba(0,0,0,.35); border: 10px solid #fff; object-fit: cover; background: #fff; z-index: 6; }
+  .pote { position: absolute; width: 150px; height: 200px; border-radius: 26px 26px 34px 34px; border: 6px solid #222; display: flex; align-items: center; justify-content: center; text-align: center; font-weight: 800; font-size: 30px; line-height: 1; color: #fff; }
+  .pote::before { content: ''; position: absolute; top: -34px; left: 8px; right: 8px; height: 38px; border-radius: 12px; background: #333; border: 6px solid #222; }
+  .chip { position: absolute; font-family: 'Lilita One'; font-size: 64px; line-height: 1; color: #fff; -webkit-text-stroke: 8px #111; paint-order: stroke fill; z-index: 14; white-space: nowrap; }
+  .chip b { color: #3BE07A; }
+  .cel { position: absolute; width: 360px; height: 560px; background: #111; border-radius: 56px; padding: 18px; box-shadow: 0 40px 80px rgba(0,0,0,.4); z-index: 7; }
+  .tela { width: 100%; height: 100%; background: #fff; border-radius: 40px; overflow: hidden; }
+  .tela img { width: 100%; display: block; }
+  .emo { position: absolute; line-height: 1; z-index: 9; }
+  .x { position: absolute; font-family: 'Lilita One'; color: #FF2E2E; line-height: 1; -webkit-text-stroke: 8px #fff; paint-order: stroke fill; z-index: 16; }
+  .grade { position: absolute; inset: 0; z-index: 99; pointer-events: none; }
+</style></head>
+<body><div id="palco"><div id="cena"></div><div id="leg"></div></div>
+<script src="mascote.js"></script>
+<script>
+// ---------- peças fixas (cada cenas.js só monta com elas) ----------
+const W = (w, html) => html.replace(/^<(\w+) /, `<$1 data-w="${w}" `);
+function fundo(ceu, chao, balcao) { return `<div class="fundo" style="background:linear-gradient(${ceu},${ceu} 55%,#000 160%)"></div><div class="chao" style="background:${chao}"></div><div class="balcao" style="background:${balcao}"></div>`; }
+function masc(t, e, w, x, y) { return `<div class="masc" style="left:${x}px;top:${y}px">${mascote(t, e, w)}</div>`; }
+function rot(t, x, y, w) { return `<div class="rotulo" style="left:${x}px;top:${y}px;width:${w||340}px">${t}</div>`; }
+function tit(t) { return `<div class="titulo">${t}</div>`; }
+function pop(t, x, y, s) { return `<div class="pop" style="left:${x}px;top:${y}px;${s?'font-size:'+s+'px':''}">${t}</div>`; }
+function chip(t, x, y, s) { return `<div class="chip" style="left:${x}px;top:${y}px;${s?'font-size:'+s+'px':''}">${t}</div>`; }
+function pote(t, c, x, y) { return `<div class="pote" style="left:${x}px;top:${y}px;background:${c}">${t}</div>`; }
+function foto(f, x, y, w, h, fit) { return `<img class="foto" src="fotos/${f}" style="left:${x}px;top:${y}px;width:${w}px;height:${h}px;object-fit:${fit||'cover'}">`; }
+function emo(e, x, y, s) { return `<div class="emo" style="left:${x}px;top:${y}px;font-size:${s||140}px">${e}</div>`; }
+function xis(x, y, s) { return `<div class="x" style="left:${x}px;top:${y}px;font-size:${s||200}px">✕</div>`; }
+function cel(x, y, dentro) { return `<div class="cel" style="left:${x}px;top:${y}px"><div class="tela">${dentro}</div></div>`; }
+
+// ---------- cenas do vídeo ----------
+const Q = new URLSearchParams(location.search);
+document.write(`<script src="${Q.get('c')}"><\/script>`);
+</script>
+<script>
+const palco = document.getElementById('palco'), cenaEl = document.getElementById('cena'), legEl = document.getElementById('leg');
+if (Q.get('grade')) palco.insertAdjacentHTML('beforeend', `<svg class="grade" width="1080" height="1920">
+  <rect x="120" y="240" width="840" height="600" fill="none" stroke="#0f0" stroke-width="4"/>
+  <rect x="120" y="840" width="660" height="420" fill="none" stroke="#0f0" stroke-width="4"/>
+  <rect x="0" y="0" width="1080" height="240" fill="rgba(255,0,0,.18)"/><rect x="0" y="1260" width="1080" height="660" fill="rgba(255,0,0,.18)"/>
+  <rect x="780" y="840" width="300" height="420" fill="rgba(255,0,0,.18)"/></svg>`);
+let atual = -1, plano = [], palavras = [];
+const limpa = w => w.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[.,:;!?…]/g, '');
+window.setup = (tempos) => {
+  palavras = tempos.flatMap(f => f.palavras.map(p => ({ ...p, w: p.p.replace(/[.,:;!?]/g,'') })));
+  plano = ROTEIRO.map(([c, idx]) => ({ c, ini: tempos[idx[0]].inicio, fim: tempos[idx[idx.length-1]].fim, ws: idx.flatMap(i => tempos[i].palavras) }));
+  plano[0].ini = 0; for (let i = 0; i < plano.length - 1; i++) plano[i].fim = plano[i+1].ini;
+  plano[plano.length-1].fim += 0.8; return plano[plano.length-1].fim;
+};
+const ease = x => 1 - Math.pow(1 - Math.min(Math.max(x,0),1), 3);
+const bounce = x => x <= 0 ? 0 : x >= 1 ? 1 : 1 + 0.25 * Math.sin(x * Math.PI) * (1 - x) + (ease(x) - 1);
+window.render = (t) => {
+  const k = plano.findIndex(p => t >= p.ini && t < p.fim); const i = k < 0 ? plano.length - 1 : k; const p = plano[i];
+  if (i !== atual) {
+    atual = i; cenaEl.innerHTML = CENAS[p.c]();
+    cenaEl.querySelectorAll('[data-w]').forEach(el => {
+      const alvo = limpa(el.dataset.w); const hit = p.ws.find(w => limpa(w.p).startsWith(alvo));
+      el.dataset.t = hit ? hit.inicio : p.ini; el.style.transformOrigin = 'center';
+    });
+  }
+  const loc = t - p.ini, dur = p.fim - p.ini;
+  const punch = (Math.floor(loc / 1.5) % 2) ? 0.03 * ease((loc % 1.5) / 0.15) : 0.03 * (1 - ease((loc % 1.5) / 0.15));
+  const zoom = 1 + 0.02 * (loc / dur) + punch + 0.04 * (1 - ease(loc / 0.25));
+  cenaEl.style.transform = `scale(${zoom})`;
+  cenaEl.querySelectorAll('[data-t]').forEach(el => {
+    const x = (t - +el.dataset.t) / 0.22;
+    el.style.opacity = x <= 0 ? 0 : 1; el.style.transform = `scale(${Math.max(bounce(x), 0.001)})`;
+  });
+  let w = null; for (const q of palavras) { if (q.inicio <= t) w = q; else break; }
+  legEl.textContent = w ? w.w : '';
+  legEl.style.fontSize = (w && w.w.length > 9 ? Math.round(112 * 9 / w.w.length) : 112) + 'px';
+  const lx = w ? (t - w.inicio) / 0.12 : 1; legEl.style.transform = `scale(${0.85 + 0.15 * ease(lx)})`;
+};
+</script></body></html>

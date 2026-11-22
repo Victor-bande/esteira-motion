@@ -1,7 +1,9 @@
 # VOZ · C01 · Malu · BR
 v1 · 20/11/2026 · orquestrador
 
-**Provedor: voz local Kokoro (pt-BR), sem chave** · `06-FERRAMENTAS/voz/` (instalar.sh uma vez por sessão; falar.py gera voz.wav + tempos.json). ElevenLabs saiu (21/11, decisão do dono). Vozes: `pf_dora` (feminina) · `pm_alex` · `pm_santa` (masculinas).
+**v2 · 22/11/2026 · Provedor: voz neural Microsoft pt-BR** (`06-FERRAMENTAS/voz/falar_neural.py`, sem chave, tempo real de cada palavra). Padrão: `pt-BR-ThalitaMultilingualNeural`, rate +6%. Kokoro saiu (dono 22/11: "robótica e sem graça"). ⚠️ serviço gratuito de leitura em voz alta da Microsoft, uso não oficial.
+
+(histórico) **Provedor: voz local Kokoro (pt-BR), sem chave** · `06-FERRAMENTAS/voz/` (instalar.sh uma vez por sessão; falar.py gera voz.wav + tempos.json). ElevenLabs saiu (21/11, decisão do dono). Vozes: `pf_dora` (feminina) · `pm_alex` · `pm_santa` (masculinas).
 
 A voz é gerada **dentro da etapa do motion**, sem passo extra: o ROTEIRO aprovado diz a persona do corpo → eu pego a voz daquela persona neste banco → gero a fala com o tempo de cada palavra → o tempo da fala monta as cenas e a legenda.
 

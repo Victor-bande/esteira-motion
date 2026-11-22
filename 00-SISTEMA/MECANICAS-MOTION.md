@@ -8,3 +8,5 @@ v1 · 20/11/2026 · orquestrador. Cresce a cada vídeo: toda tradução aprovada
 | Print de estudo/página por cima da fala | autoridade | print REAL da página (sem faixa de preço) dentro de um celular | V-C01-CR-E05-A1-G1 | testada 22/11 |
 | Abrir o pacote enquanto lista ingredientes | expectativa até a revelação | caixa fechada → aberta → pote sai com ✨ na palavra "essa" | V-C01-CR-E05-A1-G1 | testada 22/11 |
 | Dois potes (um no fim, um chegando) | recompra | 2 fotos do pote + barra "FINALZINHO" vermelha + "📦 CHEGANDO" | V-C01-CR-E05-A1-G1 | testada 22/11 |
+| Ilustração por frase (REF-02) | prende o olho | Fluent 3D grande na palavra + bonequinho reagindo + manchas pastel | V-C01-CR-E05-A1-G2 | testada 22/11 |
+| "força indo embora" | dor que dá medo | medidor com ponteiro caindo do verde ao vermelho + gráfico descendo | V-C01-CR-E05-A1-G2 | testada 22/11 |

@@ -1,4 +1,16 @@
 # KIT-VISUAL · C01 · Malu · BR
+v2 · 22/11/2026 · orquestrador · **VALE ESTA SEÇÃO (v2); o resto é histórico.**
+
+## v2 · estilo REF-02 (dono 22/11: "muito feio; tem que ser bonito, colorido, vivo, bonitinho, fazer a pessoa parar")
+Referência: `referencia-visual/REF-02-motion-bonito.mp4` (68 s) · folhas em `referencia-visual/REF-02-quadros/`. Template: `06-FERRAMENTAS/motion-template/video.html` (v3).
+- **Fundo claro** (#FBF6EE) com **manchas pastel** coloridas por cena; nada de fundo escuro chapado.
+- **Ilustração caprichada e colorida**, grande, ocupando o centro: Fluent Emoji 3D (`motion-template/ilustras/`, MIT) + bonequinho narrador de cabeça redonda (estilo REF-02, laço rosa) + **fotos reais** do pote.
+- **Um desenho novo a cada ~1 s**, entrando na palavra; tudo flutua de leve (nada parado). Setas vermelhas que se desenham, medidor com ponteiro, barra que enche, etiquetas coloridas, número grande vermelho.
+- **Legenda** em blocos de até 3 palavras, branca com contorno escuro, **palavra da vez em amarelo** (y 1080–1240, x 120–780).
+- Margens (abaixo) continuam obrigatórias: nada importante no extremo direito nem embaixo.
+- Imagem que faltar (antes/depois, problema comum): buscar (Google, sites) ou pedir o link ao dono; produto continua só foto real.
+
+# (histórico) v1
 v1 · 20/11/2026 · orquestrador · referência escolhida pelo dono: `referencia-visual/REF-01-curiosidades.mp4` (56 s, 9:16, canal de curiosidades em cartoon).
 
 > O motion é só a forma de visualizar a copy: dinâmico, que segura o olho, e que segue os princípios de vídeo que vende. **O trabalho de verdade é a copy.** O visual é um template fixo; cada vídeo só troca o conteúdo.

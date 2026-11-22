@@ -1,4 +1,4 @@
-// v2 · 22/11/2026 · uso: node render.js <pasta-motion> <saida.mp4> [fps=30] [workers=4] [escala=1]
+// v3 · 22/11/2026 · template = env TPL (padrão video.html; o G1 do E05 usa TPL=video-v2.html) · uso: node render.js <pasta-motion> <saida.mp4> [fps=30] [workers=4] [escala=1]
 //                       node render.js <pasta-motion> <prefixo> 30 --frames t1,t2,...   (quadros soltos COM a grade de margens)
 // A pasta-motion tem: cenas.js (a lista de cenas do vídeo) · tempos.json · voz.wav. O template (video.html) é fixo.
 const { chromium } = require('playwright'); const { execFileSync } = require('child_process'); const fs = require('fs'); const path = require('path');
@@ -6,7 +6,7 @@ const { chromium } = require('playwright'); const { execFileSync } = require('ch
   const [dirArg, out, fpsArg, w4, lista] = process.argv.slice(2); const fps = +(fpsArg || 30); const dir = path.resolve(dirArg);
   const tempos = JSON.parse(fs.readFileSync(path.join(dir, 'tempos.json')));
   const frames = w4 === '--frames'; const escala = frames ? 0.5 : +(process.argv[6] || 1);
-  const url = 'file://' + path.join(__dirname, 'video.html') + '?c=' + encodeURIComponent('file://' + path.join(dir, 'cenas.js')) + (frames ? '&grade=1' : '');
+  const url = 'file://' + path.join(__dirname, process.env.TPL || 'video.html') + '?c=' + encodeURIComponent('file://' + path.join(dir, 'cenas.js')) + (frames ? '&grade=1' : '');
   const b = await chromium.launch();
   const abre = async () => { const p = await b.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: escala });
     await p.goto(url); await p.waitForLoadState('networkidle'); await p.evaluate(() => document.fonts.ready);
