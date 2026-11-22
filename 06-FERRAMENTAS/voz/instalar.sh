@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Instala a voz local (Kokoro, pt-BR) uma vez por sessão. Modelo fica fora do git (~330 MB).
 set -euo pipefail
-D="$(cd "$(dirname "$0")" && pwd)/modelo"; mkdir -p "$D"
+D="$(cd "$(dirname "$0")" && pwd)/modelo"; [ -L "$D" ] && [ ! -e "$D" ] && rm "$D"; mkdir -p "$D"
 pip install -q --break-system-packages kokoro-onnx soundfile >/dev/null 2>&1 || pip install -q kokoro-onnx soundfile
 B=https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX/resolve/main
 [ -s "$D/model.onnx" ] || curl -sL -o "$D/model.onnx" $B/onnx/model.onnx

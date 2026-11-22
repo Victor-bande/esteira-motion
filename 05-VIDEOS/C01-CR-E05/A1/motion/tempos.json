@@ -1,0 +1,1054 @@
+[
+ {
+  "quem": "malu",
+  "frase": "Creatina pra quem já passou dos quarenta e não treina.",
+  "inicio": 0.0,
+  "fim": 2.923,
+  "palavras": [
+   {
+    "p": "Creatina",
+    "inicio": 0.0
+   },
+   {
+    "p": "pra",
+    "inicio": 0.44
+   },
+   {
+    "p": "quem",
+    "inicio": 0.62
+   },
+   {
+    "p": "já",
+    "inicio": 0.82
+   },
+   {
+    "p": "passou",
+    "inicio": 1.12
+   },
+   {
+    "p": "dos",
+    "inicio": 1.48
+   },
+   {
+    "p": "quarenta",
+    "inicio": 1.66
+   },
+   {
+    "p": "e",
+    "inicio": 1.98
+   },
+   {
+    "p": "não",
+    "inicio": 2.3
+   },
+   {
+    "p": "treina.",
+    "inicio": 2.42
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Será que adianta alguma coisa?",
+  "inicio": 3.003,
+  "fim": 4.88,
+  "palavras": [
+   {
+    "p": "Será",
+    "inicio": 3.02
+   },
+   {
+    "p": "que",
+    "inicio": 3.2
+   },
+   {
+    "p": "adianta",
+    "inicio": 3.42
+   },
+   {
+    "p": "alguma",
+    "inicio": 3.9
+   },
+   {
+    "p": "coisa?",
+    "inicio": 4.16
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Olha só: essa colherzinha de creatina equivale a quase um quilo de carne.",
+  "inicio": 4.96,
+  "fim": 8.949,
+  "palavras": [
+   {
+    "p": "Olha",
+    "inicio": 5.02
+   },
+   {
+    "p": "só:",
+    "inicio": 5.14
+   },
+   {
+    "p": "essa",
+    "inicio": 5.42
+   },
+   {
+    "p": "colherzinha",
+    "inicio": 5.76
+   },
+   {
+    "p": "de",
+    "inicio": 6.38
+   },
+   {
+    "p": "creatina",
+    "inicio": 6.5
+   },
+   {
+    "p": "equivale",
+    "inicio": 7.04
+   },
+   {
+    "p": "a",
+    "inicio": 7.5
+   },
+   {
+    "p": "quase",
+    "inicio": 7.7
+   },
+   {
+    "p": "um",
+    "inicio": 7.98
+   },
+   {
+    "p": "quilo",
+    "inicio": 8.12
+   },
+   {
+    "p": "de",
+    "inicio": 8.34
+   },
+   {
+    "p": "carne.",
+    "inicio": 8.5
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Se tem um suplemento que não pode faltar na nossa rotina, é a creatina.",
+  "inicio": 9.029,
+  "fim": 13.04,
+  "palavras": [
+   {
+    "p": "Se",
+    "inicio": 9.06
+   },
+   {
+    "p": "tem",
+    "inicio": 9.14
+   },
+   {
+    "p": "um",
+    "inicio": 9.34
+   },
+   {
+    "p": "suplemento",
+    "inicio": 9.5
+   },
+   {
+    "p": "que",
+    "inicio": 10.16
+   },
+   {
+    "p": "não",
+    "inicio": 10.28
+   },
+   {
+    "p": "pode",
+    "inicio": 10.42
+   },
+   {
+    "p": "faltar",
+    "inicio": 10.66
+   },
+   {
+    "p": "na",
+    "inicio": 11.12
+   },
+   {
+    "p": "nossa",
+    "inicio": 11.22
+   },
+   {
+    "p": "rotina,",
+    "inicio": 11.42
+   },
+   {
+    "p": "é",
+    "inicio": 12.1
+   },
+   {
+    "p": "a",
+    "inicio": 12.28
+   },
+   {
+    "p": "creatina.",
+    "inicio": 12.36
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E esquece essa ideia de que creatina é só pra quem quer ficar marombada.",
+  "inicio": 13.12,
+  "fim": 17.024,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 13.16
+   },
+   {
+    "p": "esquece",
+    "inicio": 13.22
+   },
+   {
+    "p": "essa",
+    "inicio": 13.56
+   },
+   {
+    "p": "ideia",
+    "inicio": 13.8
+   },
+   {
+    "p": "de",
+    "inicio": 14.12
+   },
+   {
+    "p": "que",
+    "inicio": 14.28
+   },
+   {
+    "p": "creatina",
+    "inicio": 14.4
+   },
+   {
+    "p": "é",
+    "inicio": 15.02
+   },
+   {
+    "p": "só",
+    "inicio": 15.28
+   },
+   {
+    "p": "pra",
+    "inicio": 15.44
+   },
+   {
+    "p": "quem",
+    "inicio": 15.58
+   },
+   {
+    "p": "quer",
+    "inicio": 15.76
+   },
+   {
+    "p": "ficar",
+    "inicio": 15.98
+   },
+   {
+    "p": "marombada.",
+    "inicio": 16.24
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Depois dos quarenta, a força começa a ir embora, e a creatina ajuda a manter a força e a massa muscular.",
+  "inicio": 17.104,
+  "fim": 23.077,
+  "palavras": [
+   {
+    "p": "Depois",
+    "inicio": 17.12
+   },
+   {
+    "p": "dos",
+    "inicio": 17.34
+   },
+   {
+    "p": "quarenta,",
+    "inicio": 17.54
+   },
+   {
+    "p": "a",
+    "inicio": 18.32
+   },
+   {
+    "p": "força",
+    "inicio": 18.42
+   },
+   {
+    "p": "começa",
+    "inicio": 18.64
+   },
+   {
+    "p": "a",
+    "inicio": 19.02
+   },
+   {
+    "p": "ir",
+    "inicio": 19.28
+   },
+   {
+    "p": "embora,",
+    "inicio": 19.4
+   },
+   {
+    "p": "e",
+    "inicio": 19.72
+   },
+   {
+    "p": "a",
+    "inicio": 20.26
+   },
+   {
+    "p": "creatina",
+    "inicio": 20.36
+   },
+   {
+    "p": "ajuda",
+    "inicio": 20.88
+   },
+   {
+    "p": "a",
+    "inicio": 21.12
+   },
+   {
+    "p": "manter",
+    "inicio": 21.3
+   },
+   {
+    "p": "a",
+    "inicio": 21.54
+   },
+   {
+    "p": "força",
+    "inicio": 21.66
+   },
+   {
+    "p": "e",
+    "inicio": 21.96
+   },
+   {
+    "p": "a",
+    "inicio": 22.16
+   },
+   {
+    "p": "massa",
+    "inicio": 22.24
+   },
+   {
+    "p": "muscular.",
+    "inicio": 22.4
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E depois de pesquisar muito, eu encontrei a creatina mais completinha que eu já vi.",
+  "inicio": 23.157,
+  "fim": 27.765,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 23.16
+   },
+   {
+    "p": "depois",
+    "inicio": 23.26
+   },
+   {
+    "p": "de",
+    "inicio": 23.54
+   },
+   {
+    "p": "pesquisar",
+    "inicio": 23.72
+   },
+   {
+    "p": "muito,",
+    "inicio": 24.16
+   },
+   {
+    "p": "eu",
+    "inicio": 24.92
+   },
+   {
+    "p": "encontrei",
+    "inicio": 24.98
+   },
+   {
+    "p": "a",
+    "inicio": 25.42
+   },
+   {
+    "p": "creatina",
+    "inicio": 25.48
+   },
+   {
+    "p": "mais",
+    "inicio": 26.02
+   },
+   {
+    "p": "completinha",
+    "inicio": 26.32
+   },
+   {
+    "p": "que",
+    "inicio": 27.02
+   },
+   {
+    "p": "eu",
+    "inicio": 27.18
+   },
+   {
+    "p": "já",
+    "inicio": 27.28
+   },
+   {
+    "p": "vi.",
+    "inicio": 27.48
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Ela é três em um: cinco gramas de creatina, e a própria página fala: pode tomar mesmo sem treinar.",
+  "inicio": 27.845,
+  "fim": 33.435,
+  "palavras": [
+   {
+    "p": "Ela",
+    "inicio": 27.845
+   },
+   {
+    "p": "é",
+    "inicio": 28.0
+   },
+   {
+    "p": "três",
+    "inicio": 28.12
+   },
+   {
+    "p": "em",
+    "inicio": 28.36
+   },
+   {
+    "p": "um:",
+    "inicio": 28.48
+   },
+   {
+    "p": "cinco",
+    "inicio": 28.9
+   },
+   {
+    "p": "gramas",
+    "inicio": 29.12
+   },
+   {
+    "p": "de",
+    "inicio": 29.48
+   },
+   {
+    "p": "creatina,",
+    "inicio": 29.62
+   },
+   {
+    "p": "e",
+    "inicio": 30.18
+   },
+   {
+    "p": "a",
+    "inicio": 30.32
+   },
+   {
+    "p": "própria",
+    "inicio": 30.4
+   },
+   {
+    "p": "página",
+    "inicio": 30.64
+   },
+   {
+    "p": "fala:",
+    "inicio": 31.04
+   },
+   {
+    "p": "pode",
+    "inicio": 31.66
+   },
+   {
+    "p": "tomar",
+    "inicio": 31.9
+   },
+   {
+    "p": "mesmo",
+    "inicio": 32.2
+   },
+   {
+    "p": "sem",
+    "inicio": 32.58
+   },
+   {
+    "p": "treinar.",
+    "inicio": 32.82
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E ainda tem GABA e L-teanina, que ajudam a ter menos tensão e mais foco no dia a dia.",
+  "inicio": 33.515,
+  "fim": 38.485,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 33.52
+   },
+   {
+    "p": "ainda",
+    "inicio": 33.62
+   },
+   {
+    "p": "tem",
+    "inicio": 33.82
+   },
+   {
+    "p": "GABA",
+    "inicio": 34.04
+   },
+   {
+    "p": "e",
+    "inicio": 34.4
+   },
+   {
+    "p": "L-teanina,",
+    "inicio": 34.6
+   },
+   {
+    "p": "que",
+    "inicio": 35.44
+   },
+   {
+    "p": "ajudam",
+    "inicio": 35.54
+   },
+   {
+    "p": "a",
+    "inicio": 35.86
+   },
+   {
+    "p": "ter",
+    "inicio": 36.0
+   },
+   {
+    "p": "menos",
+    "inicio": 36.1
+   },
+   {
+    "p": "tensão",
+    "inicio": 36.36
+   },
+   {
+    "p": "e",
+    "inicio": 36.92
+   },
+   {
+    "p": "mais",
+    "inicio": 37.04
+   },
+   {
+    "p": "foco",
+    "inicio": 37.26
+   },
+   {
+    "p": "no",
+    "inicio": 37.62
+   },
+   {
+    "p": "dia",
+    "inicio": 37.74
+   },
+   {
+    "p": "a",
+    "inicio": 37.98
+   },
+   {
+    "p": "dia.",
+    "inicio": 38.1
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E a creatina que eu tô falando é essa aqui.",
+  "inicio": 38.565,
+  "fim": 40.912,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 38.58
+   },
+   {
+    "p": "a",
+    "inicio": 38.66
+   },
+   {
+    "p": "creatina",
+    "inicio": 38.76
+   },
+   {
+    "p": "que",
+    "inicio": 39.3
+   },
+   {
+    "p": "eu",
+    "inicio": 39.5
+   },
+   {
+    "p": "tô",
+    "inicio": 39.62
+   },
+   {
+    "p": "falando",
+    "inicio": 39.74
+   },
+   {
+    "p": "é",
+    "inicio": 40.1
+   },
+   {
+    "p": "essa",
+    "inicio": 40.34
+   },
+   {
+    "p": "aqui.",
+    "inicio": 40.52
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É tudo num pote só, e ainda é gostosa: sabor pink lemonade, parece suco.",
+  "inicio": 40.992,
+  "fim": 45.237,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 41.04
+   },
+   {
+    "p": "tudo",
+    "inicio": 41.1
+   },
+   {
+    "p": "num",
+    "inicio": 41.24
+   },
+   {
+    "p": "pote",
+    "inicio": 41.4
+   },
+   {
+    "p": "só,",
+    "inicio": 41.78
+   },
+   {
+    "p": "e",
+    "inicio": 41.98
+   },
+   {
+    "p": "ainda",
+    "inicio": 42.18
+   },
+   {
+    "p": "é",
+    "inicio": 42.36
+   },
+   {
+    "p": "gostosa:",
+    "inicio": 42.44
+   },
+   {
+    "p": "sabor",
+    "inicio": 43.26
+   },
+   {
+    "p": "pink",
+    "inicio": 43.46
+   },
+   {
+    "p": "lemonade,",
+    "inicio": 43.76
+   },
+   {
+    "p": "parece",
+    "inicio": 44.38
+   },
+   {
+    "p": "suco.",
+    "inicio": 44.64
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Dissolve fácil e não deixa resíduo nenhum no copo.",
+  "inicio": 45.317,
+  "fim": 48.197,
+  "palavras": [
+   {
+    "p": "Dissolve",
+    "inicio": 45.36
+   },
+   {
+    "p": "fácil",
+    "inicio": 45.64
+   },
+   {
+    "p": "e",
+    "inicio": 46.12
+   },
+   {
+    "p": "não",
+    "inicio": 46.38
+   },
+   {
+    "p": "deixa",
+    "inicio": 46.48
+   },
+   {
+    "p": "resíduo",
+    "inicio": 46.8
+   },
+   {
+    "p": "nenhum",
+    "inicio": 47.3
+   },
+   {
+    "p": "no",
+    "inicio": 47.56
+   },
+   {
+    "p": "copo.",
+    "inicio": 47.74
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E olha esse detalhe: mais de duas mil pessoas já voltaram pra comprar de novo.",
+  "inicio": 48.277,
+  "fim": 52.373,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 48.3
+   },
+   {
+    "p": "olha",
+    "inicio": 48.4
+   },
+   {
+    "p": "esse",
+    "inicio": 48.56
+   },
+   {
+    "p": "detalhe:",
+    "inicio": 48.74
+   },
+   {
+    "p": "mais",
+    "inicio": 49.48
+   },
+   {
+    "p": "de",
+    "inicio": 49.7
+   },
+   {
+    "p": "duas",
+    "inicio": 49.88
+   },
+   {
+    "p": "mil",
+    "inicio": 50.04
+   },
+   {
+    "p": "pessoas",
+    "inicio": 50.24
+   },
+   {
+    "p": "já",
+    "inicio": 50.64
+   },
+   {
+    "p": "voltaram",
+    "inicio": 50.9
+   },
+   {
+    "p": "pra",
+    "inicio": 51.32
+   },
+   {
+    "p": "comprar",
+    "inicio": 51.46
+   },
+   {
+    "p": "de",
+    "inicio": 51.76
+   },
+   {
+    "p": "novo.",
+    "inicio": 51.94
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É aquele pote que, quando tá no finalzinho, já tem outro chegando.",
+  "inicio": 52.453,
+  "fim": 55.931,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 52.453
+   },
+   {
+    "p": "aquele",
+    "inicio": 52.54
+   },
+   {
+    "p": "pote",
+    "inicio": 52.74
+   },
+   {
+    "p": "que,",
+    "inicio": 53.22
+   },
+   {
+    "p": "quando",
+    "inicio": 53.42
+   },
+   {
+    "p": "tá",
+    "inicio": 53.54
+   },
+   {
+    "p": "no",
+    "inicio": 53.76
+   },
+   {
+    "p": "finalzinho,",
+    "inicio": 53.86
+   },
+   {
+    "p": "já",
+    "inicio": 54.62
+   },
+   {
+    "p": "tem",
+    "inicio": 54.78
+   },
+   {
+    "p": "outro",
+    "inicio": 55.0
+   },
+   {
+    "p": "chegando.",
+    "inicio": 55.3
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Se você quiser incluir essa creatina completinha na sua rotina, é a creatina rosa da Soufit, e tá aqui dentro do TikTok.",
+  "inicio": 56.011,
+  "fim": 63.328,
+  "palavras": [
+   {
+    "p": "Se",
+    "inicio": 56.011
+   },
+   {
+    "p": "você",
+    "inicio": 56.1
+   },
+   {
+    "p": "quiser",
+    "inicio": 56.3
+   },
+   {
+    "p": "incluir",
+    "inicio": 56.62
+   },
+   {
+    "p": "essa",
+    "inicio": 57.14
+   },
+   {
+    "p": "creatina",
+    "inicio": 57.32
+   },
+   {
+    "p": "completinha",
+    "inicio": 57.9
+   },
+   {
+    "p": "na",
+    "inicio": 58.58
+   },
+   {
+    "p": "sua",
+    "inicio": 58.7
+   },
+   {
+    "p": "rotina,",
+    "inicio": 58.88
+   },
+   {
+    "p": "é",
+    "inicio": 59.7
+   },
+   {
+    "p": "a",
+    "inicio": 59.82
+   },
+   {
+    "p": "creatina",
+    "inicio": 59.92
+   },
+   {
+    "p": "rosa",
+    "inicio": 60.4
+   },
+   {
+    "p": "da",
+    "inicio": 60.72
+   },
+   {
+    "p": "Soufit,",
+    "inicio": 60.82
+   },
+   {
+    "p": "e",
+    "inicio": 61.42
+   },
+   {
+    "p": "tá",
+    "inicio": 61.74
+   },
+   {
+    "p": "aqui",
+    "inicio": 61.92
+   },
+   {
+    "p": "dentro",
+    "inicio": 62.12
+   },
+   {
+    "p": "do",
+    "inicio": 62.44
+   },
+   {
+    "p": "TikTok.",
+    "inicio": 62.58
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Geralmente tem promoção no carrinho laranja.",
+  "inicio": 63.408,
+  "fim": 66.011,
+  "palavras": [
+   {
+    "p": "Geralmente",
+    "inicio": 63.5
+   },
+   {
+    "p": "tem",
+    "inicio": 63.98
+   },
+   {
+    "p": "promoção",
+    "inicio": 64.28
+   },
+   {
+    "p": "no",
+    "inicio": 64.88
+   },
+   {
+    "p": "carrinho",
+    "inicio": 65.0
+   },
+   {
+    "p": "laranja.",
+    "inicio": 65.36
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Se o carrinho tiver aparecendo aí embaixo pra você, confere aí.",
+  "inicio": 66.091,
+  "fim": 69.504,
+  "palavras": [
+   {
+    "p": "Se",
+    "inicio": 66.12
+   },
+   {
+    "p": "o",
+    "inicio": 66.18
+   },
+   {
+    "p": "carrinho",
+    "inicio": 66.24
+   },
+   {
+    "p": "tiver",
+    "inicio": 66.56
+   },
+   {
+    "p": "aparecendo",
+    "inicio": 66.86
+   },
+   {
+    "p": "aí",
+    "inicio": 67.56
+   },
+   {
+    "p": "embaixo",
+    "inicio": 67.74
+   },
+   {
+    "p": "pra",
+    "inicio": 68.1
+   },
+   {
+    "p": "você,",
+    "inicio": 68.34
+   },
+   {
+    "p": "confere",
+    "inicio": 68.76
+   },
+   {
+    "p": "aí.",
+    "inicio": 69.12
+   }
+  ]
+ }
+]

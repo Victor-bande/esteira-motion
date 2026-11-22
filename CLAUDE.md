@@ -87,7 +87,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 
 ## Entregas e fontes externas
 - **Vídeos prontos → Google Drive**, pasta "ESTEIRA MOTION · C01 Malu · vídeos prontos" (id `13w05LBDR4t6VZaV7wU0ow3IH85cAPPbZ`). Limite de envio do conector: ~3 MB por arquivo → sobe a versão `-drive.mp4` (ffmpeg `-crf 28 -maxrate 380k -bufsize 760k`, áudio 64k; ~2,3 MB em 55 s); a versão cheia fica no repositório.
-- **Hub do Nick (MVM):** `01-BASE/MVM/MVM.md` (virais por nicho, biblioteca de copys validadas gancho + corpo, marcas e produtos com comissão, dores/psicologia/alternativas por nicho, curso). Atualizar com `06-FERRAMENTAS/mvm/atualizar.sh`. **Antes de cada criação, procurar ali** viral, gancho e corpo validados do produto.
+- **Hub do Nick (MVM):** `01-BASE/MVM/MVM.md` (virais por nicho, biblioteca de copys validadas gancho + corpo, marcas e produtos com comissão, dores/psicologia/alternativas por nicho, curso). Atualizar com `06-FERRAMENTAS/mvm/atualizar.sh`. **Sempre puxar do link do Nick** (https://mvm-wellness.pages.dev/, dono 22/11): antes de cada criação, rodar o `atualizar.sh` e procurar ali viral, gancho e corpo validados do produto; o vídeo do viral vem do link do Drive da biblioteca (download direto).
 - Sessão nova: rodar uma vez `bash 06-FERRAMENTAS/voz/instalar.sh` (voz local).
 
 ## Mapa do repositório
