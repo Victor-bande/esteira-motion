@@ -1,0 +1,938 @@
+[
+ {
+  "quem": "malu",
+  "frase": "Ei, já reparou que, quando você tá estressada, o seu ombro fica duro feito pedra?",
+  "inicio": 0.048,
+  "fim": 4.741,
+  "palavras": [
+   {
+    "p": "Ei,",
+    "inicio": 0.048
+   },
+   {
+    "p": "já",
+    "inicio": 0.555
+   },
+   {
+    "p": "reparou",
+    "inicio": 0.708
+   },
+   {
+    "p": "que,",
+    "inicio": 1.239
+   },
+   {
+    "p": "quando",
+    "inicio": 1.663
+   },
+   {
+    "p": "você",
+    "inicio": 1.84
+   },
+   {
+    "p": "tá",
+    "inicio": 2.041
+   },
+   {
+    "p": "estressada,",
+    "inicio": 2.159
+   },
+   {
+    "p": "o",
+    "inicio": 3.043
+   },
+   {
+    "p": "seu",
+    "inicio": 3.067
+   },
+   {
+    "p": "ombro",
+    "inicio": 3.314
+   },
+   {
+    "p": "fica",
+    "inicio": 3.55
+   },
+   {
+    "p": "duro",
+    "inicio": 3.821
+   },
+   {
+    "p": "feito",
+    "inicio": 4.081
+   },
+   {
+    "p": "pedra?",
+    "inicio": 4.352
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E nem deitando ele relaxa. Sabe por quê?",
+  "inicio": 5.06,
+  "fim": 7.759,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 5.06
+   },
+   {
+    "p": "nem",
+    "inicio": 5.142
+   },
+   {
+    "p": "deitando",
+    "inicio": 5.39
+   },
+   {
+    "p": "ele",
+    "inicio": 5.909
+   },
+   {
+    "p": "relaxa.",
+    "inicio": 6.015
+   },
+   {
+    "p": "Sabe",
+    "inicio": 6.887
+   },
+   {
+    "p": "por",
+    "inicio": 7.311
+   },
+   {
+    "p": "quê?",
+    "inicio": 7.488
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Todo músculo funciona com dois minerais: o cálcio, que contrai, e o magnésio, que solta.",
+  "inicio": 8.09,
+  "fim": 13.821,
+  "palavras": [
+   {
+    "p": "Todo",
+    "inicio": 8.09
+   },
+   {
+    "p": "músculo",
+    "inicio": 8.337
+   },
+   {
+    "p": "funciona",
+    "inicio": 8.785
+   },
+   {
+    "p": "com",
+    "inicio": 9.245
+   },
+   {
+    "p": "dois",
+    "inicio": 9.41
+   },
+   {
+    "p": "minerais:",
+    "inicio": 9.705
+   },
+   {
+    "p": "o",
+    "inicio": 10.59
+   },
+   {
+    "p": "cálcio,",
+    "inicio": 10.684
+   },
+   {
+    "p": "que",
+    "inicio": 11.321
+   },
+   {
+    "p": "contrai,",
+    "inicio": 11.415
+   },
+   {
+    "p": "e",
+    "inicio": 12.241
+   },
+   {
+    "p": "o",
+    "inicio": 12.323
+   },
+   {
+    "p": "magnésio,",
+    "inicio": 12.358
+   },
+   {
+    "p": "que",
+    "inicio": 13.219
+   },
+   {
+    "p": "solta.",
+    "inicio": 13.325
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É tipo um carro: o cálcio é o acelerador e o magnésio é o freio.",
+  "inicio": 14.151,
+  "fim": 17.925,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 14.151
+   },
+   {
+    "p": "tipo",
+    "inicio": 14.233
+   },
+   {
+    "p": "um",
+    "inicio": 14.481
+   },
+   {
+    "p": "carro:",
+    "inicio": 14.575
+   },
+   {
+    "p": "o",
+    "inicio": 15.189
+   },
+   {
+    "p": "cálcio",
+    "inicio": 15.283
+   },
+   {
+    "p": "é",
+    "inicio": 15.708
+   },
+   {
+    "p": "o",
+    "inicio": 15.778
+   },
+   {
+    "p": "acelerador",
+    "inicio": 15.837
+   },
+   {
+    "p": "e",
+    "inicio": 16.545
+   },
+   {
+    "p": "o",
+    "inicio": 16.616
+   },
+   {
+    "p": "magnésio",
+    "inicio": 16.651
+   },
+   {
+    "p": "é",
+    "inicio": 17.37
+   },
+   {
+    "p": "o",
+    "inicio": 17.453
+   },
+   {
+    "p": "freio.",
+    "inicio": 17.488
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E aqui tá o que ninguém te conta: quando você vive estressada, o corpo gasta mais magnésio.",
+  "inicio": 18.255,
+  "fim": 23.102,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 18.255
+   },
+   {
+    "p": "aqui",
+    "inicio": 18.338
+   },
+   {
+    "p": "tá",
+    "inicio": 18.621
+   },
+   {
+    "p": "o",
+    "inicio": 18.727
+   },
+   {
+    "p": "que",
+    "inicio": 18.774
+   },
+   {
+    "p": "ninguém",
+    "inicio": 18.857
+   },
+   {
+    "p": "te",
+    "inicio": 19.222
+   },
+   {
+    "p": "conta:",
+    "inicio": 19.34
+   },
+   {
+    "p": "quando",
+    "inicio": 19.895
+   },
+   {
+    "p": "você",
+    "inicio": 20.083
+   },
+   {
+    "p": "vive",
+    "inicio": 20.331
+   },
+   {
+    "p": "estressada,",
+    "inicio": 20.626
+   },
+   {
+    "p": "o",
+    "inicio": 21.428
+   },
+   {
+    "p": "corpo",
+    "inicio": 21.51
+   },
+   {
+    "p": "gasta",
+    "inicio": 21.829
+   },
+   {
+    "p": "mais",
+    "inicio": 22.159
+   },
+   {
+    "p": "magnésio.",
+    "inicio": 22.501
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Aí o acelerador fica ligado e o freio falha. Por isso você vive tensa, cansada e não descansa nem dormindo.",
+  "inicio": 23.432,
+  "fim": 30.33,
+  "palavras": [
+   {
+    "p": "Aí",
+    "inicio": 23.432
+   },
+   {
+    "p": "o",
+    "inicio": 23.762
+   },
+   {
+    "p": "acelerador",
+    "inicio": 23.833
+   },
+   {
+    "p": "fica",
+    "inicio": 24.458
+   },
+   {
+    "p": "ligado",
+    "inicio": 24.671
+   },
+   {
+    "p": "e",
+    "inicio": 25.284
+   },
+   {
+    "p": "o",
+    "inicio": 25.378
+   },
+   {
+    "p": "freio",
+    "inicio": 25.402
+   },
+   {
+    "p": "falha.",
+    "inicio": 25.708
+   },
+   {
+    "p": "Por",
+    "inicio": 26.509
+   },
+   {
+    "p": "isso",
+    "inicio": 26.651
+   },
+   {
+    "p": "você",
+    "inicio": 26.958
+   },
+   {
+    "p": "vive",
+    "inicio": 27.205
+   },
+   {
+    "p": "tensa,",
+    "inicio": 27.512
+   },
+   {
+    "p": "cansada",
+    "inicio": 28.101
+   },
+   {
+    "p": "e",
+    "inicio": 28.856
+   },
+   {
+    "p": "não",
+    "inicio": 28.903
+   },
+   {
+    "p": "descansa",
+    "inicio": 29.068
+   },
+   {
+    "p": "nem",
+    "inicio": 29.575
+   },
+   {
+    "p": "dormindo.",
+    "inicio": 29.788
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Aí você tenta massagem: alivia na hora, e no dia seguinte tá tudo duro de novo.",
+  "inicio": 30.649,
+  "fim": 35.237,
+  "palavras": [
+   {
+    "p": "Aí",
+    "inicio": 30.649
+   },
+   {
+    "p": "você",
+    "inicio": 30.897
+   },
+   {
+    "p": "tenta",
+    "inicio": 31.109
+   },
+   {
+    "p": "massagem:",
+    "inicio": 31.404
+   },
+   {
+    "p": "alivia",
+    "inicio": 32.194
+   },
+   {
+    "p": "na",
+    "inicio": 32.666
+   },
+   {
+    "p": "hora,",
+    "inicio": 32.807
+   },
+   {
+    "p": "e",
+    "inicio": 33.291
+   },
+   {
+    "p": "no",
+    "inicio": 33.35
+   },
+   {
+    "p": "dia",
+    "inicio": 33.456
+   },
+   {
+    "p": "seguinte",
+    "inicio": 33.633
+   },
+   {
+    "p": "tá",
+    "inicio": 34.081
+   },
+   {
+    "p": "tudo",
+    "inicio": 34.187
+   },
+   {
+    "p": "duro",
+    "inicio": 34.553
+   },
+   {
+    "p": "de",
+    "inicio": 34.777
+   },
+   {
+    "p": "novo.",
+    "inicio": 34.883
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Tenta alongar: melhora por uns minutos.",
+  "inicio": 35.566,
+  "fim": 37.995,
+  "palavras": [
+   {
+    "p": "Tenta",
+    "inicio": 35.566
+   },
+   {
+    "p": "alongar:",
+    "inicio": 35.79
+   },
+   {
+    "p": "melhora",
+    "inicio": 36.521
+   },
+   {
+    "p": "por",
+    "inicio": 36.981
+   },
+   {
+    "p": "uns",
+    "inicio": 37.158
+   },
+   {
+    "p": "minutos.",
+    "inicio": 37.382
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E aí você decide fazer um spa toda semana, e o cartão de crédito chora.",
+  "inicio": 38.314,
+  "fim": 42.324,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 38.314
+   },
+   {
+    "p": "aí",
+    "inicio": 38.397
+   },
+   {
+    "p": "você",
+    "inicio": 38.68
+   },
+   {
+    "p": "decide",
+    "inicio": 38.88
+   },
+   {
+    "p": "fazer",
+    "inicio": 39.293
+   },
+   {
+    "p": "um",
+    "inicio": 39.553
+   },
+   {
+    "p": "spa",
+    "inicio": 39.647
+   },
+   {
+    "p": "toda",
+    "inicio": 39.906
+   },
+   {
+    "p": "semana,",
+    "inicio": 40.272
+   },
+   {
+    "p": "e",
+    "inicio": 40.932
+   },
+   {
+    "p": "o",
+    "inicio": 41.003
+   },
+   {
+    "p": "cartão",
+    "inicio": 41.038
+   },
+   {
+    "p": "de",
+    "inicio": 41.428
+   },
+   {
+    "p": "crédito",
+    "inicio": 41.51
+   },
+   {
+    "p": "chora.",
+    "inicio": 41.911
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Finalmente, entra o magnésio três em um.",
+  "inicio": 42.642,
+  "fim": 45.225,
+  "palavras": [
+   {
+    "p": "Finalmente,",
+    "inicio": 42.642
+   },
+   {
+    "p": "entra",
+    "inicio": 43.562
+   },
+   {
+    "p": "o",
+    "inicio": 43.821
+   },
+   {
+    "p": "magnésio",
+    "inicio": 43.833
+   },
+   {
+    "p": "três",
+    "inicio": 44.494
+   },
+   {
+    "p": "em",
+    "inicio": 44.777
+   },
+   {
+    "p": "um.",
+    "inicio": 45.013
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Três tipos numa cápsula só: o quelato, que o corpo absorve bem, o dimalato, ligado à energia, e o treonato, o mais estudado pro cérebro.",
+  "inicio": 45.542,
+  "fim": 53.88,
+  "palavras": [
+   {
+    "p": "Três",
+    "inicio": 45.542
+   },
+   {
+    "p": "tipos",
+    "inicio": 45.802
+   },
+   {
+    "p": "numa",
+    "inicio": 46.167
+   },
+   {
+    "p": "cápsula",
+    "inicio": 46.392
+   },
+   {
+    "p": "só:",
+    "inicio": 46.84
+   },
+   {
+    "p": "o",
+    "inicio": 47.441
+   },
+   {
+    "p": "quelato,",
+    "inicio": 47.512
+   },
+   {
+    "p": "que",
+    "inicio": 48.231
+   },
+   {
+    "p": "o",
+    "inicio": 48.302
+   },
+   {
+    "p": "corpo",
+    "inicio": 48.373
+   },
+   {
+    "p": "absorve",
+    "inicio": 48.632
+   },
+   {
+    "p": "bem,",
+    "inicio": 49.116
+   },
+   {
+    "p": "o",
+    "inicio": 49.611
+   },
+   {
+    "p": "dimalato,",
+    "inicio": 49.658
+   },
+   {
+    "p": "ligado",
+    "inicio": 50.436
+   },
+   {
+    "p": "à",
+    "inicio": 50.719
+   },
+   {
+    "p": "energia,",
+    "inicio": 50.743
+   },
+   {
+    "p": "e",
+    "inicio": 51.509
+   },
+   {
+    "p": "o",
+    "inicio": 51.58
+   },
+   {
+    "p": "treonato,",
+    "inicio": 51.663
+   },
+   {
+    "p": "o",
+    "inicio": 52.406
+   },
+   {
+    "p": "mais",
+    "inicio": 52.465
+   },
+   {
+    "p": "estudado",
+    "inicio": 52.724
+   },
+   {
+    "p": "pro",
+    "inicio": 53.231
+   },
+   {
+    "p": "cérebro.",
+    "inicio": 53.361
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Ele ajuda no funcionamento dos músculos e do sistema nervoso, sem açúcar e sem glúten.",
+  "inicio": 54.199,
+  "fim": 58.951,
+  "palavras": [
+   {
+    "p": "Ele",
+    "inicio": 54.199
+   },
+   {
+    "p": "ajuda",
+    "inicio": 54.34
+   },
+   {
+    "p": "no",
+    "inicio": 54.73
+   },
+   {
+    "p": "funcionamento",
+    "inicio": 54.8
+   },
+   {
+    "p": "dos",
+    "inicio": 55.413
+   },
+   {
+    "p": "músculos",
+    "inicio": 55.567
+   },
+   {
+    "p": "e",
+    "inicio": 56.027
+   },
+   {
+    "p": "do",
+    "inicio": 56.133
+   },
+   {
+    "p": "sistema",
+    "inicio": 56.215
+   },
+   {
+    "p": "nervoso,",
+    "inicio": 56.593
+   },
+   {
+    "p": "sem",
+    "inicio": 57.347
+   },
+   {
+    "p": "açúcar",
+    "inicio": 57.571
+   },
+   {
+    "p": "e",
+    "inicio": 58.138
+   },
+   {
+    "p": "sem",
+    "inicio": 58.185
+   },
+   {
+    "p": "glúten.",
+    "inicio": 58.48
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "O seu corpo não precisa de mais acelerador. Precisa de freio.",
+  "inicio": 59.27,
+  "fim": 63.231,
+  "palavras": [
+   {
+    "p": "O",
+    "inicio": 59.27
+   },
+   {
+    "p": "seu",
+    "inicio": 59.352
+   },
+   {
+    "p": "corpo",
+    "inicio": 59.576
+   },
+   {
+    "p": "não",
+    "inicio": 59.965
+   },
+   {
+    "p": "precisa",
+    "inicio": 60.13
+   },
+   {
+    "p": "de",
+    "inicio": 60.755
+   },
+   {
+    "p": "mais",
+    "inicio": 60.838
+   },
+   {
+    "p": "acelerador.",
+    "inicio": 61.038
+   },
+   {
+    "p": "Precisa",
+    "inicio": 62.052
+   },
+   {
+    "p": "de",
+    "inicio": 62.677
+   },
+   {
+    "p": "freio.",
+    "inicio": 62.783
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É o magnésio três em um da Blasmax. Mais de dezoito mil pessoas já levaram. Toca no carrinho laranja e confere.",
+  "inicio": 63.561,
+  "fim": 70.708,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 63.561
+   },
+   {
+    "p": "o",
+    "inicio": 63.679
+   },
+   {
+    "p": "magnésio",
+    "inicio": 63.703
+   },
+   {
+    "p": "três",
+    "inicio": 64.328
+   },
+   {
+    "p": "em",
+    "inicio": 64.611
+   },
+   {
+    "p": "um",
+    "inicio": 64.835
+   },
+   {
+    "p": "da",
+    "inicio": 64.953
+   },
+   {
+    "p": "Blasmax.",
+    "inicio": 65.059
+   },
+   {
+    "p": "Mais",
+    "inicio": 66.121
+   },
+   {
+    "p": "de",
+    "inicio": 66.428
+   },
+   {
+    "p": "dezoito",
+    "inicio": 66.534
+   },
+   {
+    "p": "mil",
+    "inicio": 67.017
+   },
+   {
+    "p": "pessoas",
+    "inicio": 67.159
+   },
+   {
+    "p": "já",
+    "inicio": 67.678
+   },
+   {
+    "p": "levaram.",
+    "inicio": 67.831
+   },
+   {
+    "p": "Toca",
+    "inicio": 68.703
+   },
+   {
+    "p": "no",
+    "inicio": 68.962
+   },
+   {
+    "p": "carrinho",
+    "inicio": 69.045
+   },
+   {
+    "p": "laranja",
+    "inicio": 69.387
+   },
+   {
+    "p": "e",
+    "inicio": 70.035
+   },
+   {
+    "p": "confere.",
+    "inicio": 70.118
+   }
+  ]
+ }
+]

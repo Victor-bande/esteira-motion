@@ -69,8 +69,9 @@ const boneco = (b, o = {}) => { const i = _bi++; BON[i] = b; return `<div class=
 // p = { x, y: pés, h: altura, poses: [[palavra|null, 'pose', 'a'], …], pula: [[palavra, xNovo], …], vira }
 // Entra pulando; troca de pose na palavra com "squash" de desenho animado; respira e balança; pula de um lado pro outro.
 const PER = [];
+const T3 = []; const tres = (nome, op = {}) => { T3.push([nome, op]); return `<div class="tres3d" data-t3="${T3.length - 1}"></div>`; };
 const persona = (pp, o = {}) => { const i = PER.length; PER.push(pp); return `<div class="peca persona" ${A({ a: 'fade', som: 'pop', ...o })} data-pi="${i}" style="left:0;top:0"></div>`; };
-window.CN = { persona, fundo, ilu, foto, titulo, grande, etq, preco, xis, ok, svgp, seta, balao, medidor, barra, colunas, lista, calendario, copo, bateria, botaoCarrinho, card, boneco, CEN };
+window.CN = { tres, persona, fundo, ilu, foto, titulo, grande, etq, preco, xis, ok, svgp, seta, balao, medidor, barra, colunas, lista, calendario, copo, bateria, botaoCarrinho, card, boneco, CEN };
 Object.assign(window, window.CN);
 // ---------- motor ----------
 const Q = new URLSearchParams(location.search);
@@ -97,7 +98,8 @@ window.render = async (t) => {
   const k = plano.findIndex(p => t >= p.ini && t < p.fim); const i = k < 0 ? plano.length - 1 : k; const p = plano[i];
   const cena = document.getElementById('cena'), leg = document.getElementById('leg');
   if (i !== atual) {
-    atual = i; _bi = 0; BON.length = 0; PER.length = 0; cena.innerHTML = CENAS[p.c]();
+    atual = i; _bi = 0; BON.length = 0; PER.length = 0; T3.length = 0; cena.innerHTML = CENAS[p.c]();
+    if (window.TRES) { if (T3.length) TRES.monta(T3[0][0], T3[0][1], w => hitT(p, w)); else TRES.apaga(); }
     await Promise.all([...cena.querySelectorAll('img')].map(im => im.decode().catch(() => { })));
     cena.querySelectorAll('[data-a]').forEach((el, n) => {
       const ti = el.dataset.w ? hitT(p, el.dataset.w) : null; el.dataset.t = (ti ?? p.ini) + (+el.dataset.d || 0) - 0.06;
@@ -108,6 +110,7 @@ window.render = async (t) => {
       pp._j = [{ t: p.ini, x: pp.x }].concat((pp.pula || []).map(([w, x]) => ({ t: hitT(p, w) ?? p.ini, x }))); });
     BON.forEach(b => { b._k = (b.poses || [[null, 'em_pe', 'neutro']]).map(([w, pose, expr]) => ({ t: w ? (hitT(p, w) ?? p.ini) : p.ini, pose, expr })); if (b.mover && b.mover[2]) b._fim = hitT(p, b.mover[2]); });
   }
+  if (window.TRES) TRES.quadro(t);
   const loc = t - p.ini, dur = p.fim - p.ini;
   cena.style.transform = `scale(${1.0 + 0.04 * ease(loc / Math.max(dur, 1)) + 0.06 * (1 - ease(loc / 0.3))})`;
   cena.querySelectorAll('[data-a]').forEach(el => {
