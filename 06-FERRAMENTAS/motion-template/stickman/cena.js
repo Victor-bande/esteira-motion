@@ -65,7 +65,12 @@ const card = (x, y, w, dentro, o = {}) => `<div class="peca card" ${A(o)} style=
 // ---------- boneco (registrado; desenhado a cada quadro pelo motor) ----------
 // b = { x, y (pés), w, poses: [[palavra|null, pose, expr], ...], ciclo, mover:[x0,x1,'palavraFim'], acc:'laco', vira, olhar, segura:'ilustra' }
 const boneco = (b, o = {}) => { const i = _bi++; BON[i] = b; return `<div class="peca boneco" ${A({ a: 'fade', ...o })} data-bi="${i}" style="left:0;top:0"></div>`; };
-window.CN = { fundo, ilu, foto, titulo, grande, etq, preco, xis, ok, svgp, seta, balao, medidor, barra, colunas, lista, calendario, copo, bateria, botaoCarrinho, card, boneco, CEN };
+// ---------- PERSONA (bonequinho do Nano Banana, poses em PNG · persona/poses/{pose}_{a|b|c}.png) ----------
+// p = { x, y: pés, h: altura, poses: [[palavra|null, 'pose', 'a'], …], pula: [[palavra, xNovo], …], vira }
+// Entra pulando; troca de pose na palavra com "squash" de desenho animado; respira e balança; pula de um lado pro outro.
+const PER = [];
+const persona = (pp, o = {}) => { const i = PER.length; PER.push(pp); return `<div class="peca persona" ${A({ a: 'fade', som: 'pop', ...o })} data-pi="${i}" style="left:0;top:0"></div>`; };
+window.CN = { persona, fundo, ilu, foto, titulo, grande, etq, preco, xis, ok, svgp, seta, balao, medidor, barra, colunas, lista, calendario, copo, bateria, botaoCarrinho, card, boneco, CEN };
 Object.assign(window, window.CN);
 // ---------- motor ----------
 const Q = new URLSearchParams(location.search);
@@ -92,13 +97,15 @@ window.render = async (t) => {
   const k = plano.findIndex(p => t >= p.ini && t < p.fim); const i = k < 0 ? plano.length - 1 : k; const p = plano[i];
   const cena = document.getElementById('cena'), leg = document.getElementById('leg');
   if (i !== atual) {
-    atual = i; _bi = 0; BON.length = 0; cena.innerHTML = CENAS[p.c]();
+    atual = i; _bi = 0; BON.length = 0; PER.length = 0; cena.innerHTML = CENAS[p.c]();
     await Promise.all([...cena.querySelectorAll('img')].map(im => im.decode().catch(() => { })));
     cena.querySelectorAll('[data-a]').forEach((el, n) => {
       const ti = el.dataset.w ? hitT(p, el.dataset.w) : null; el.dataset.t = (ti ?? p.ini) + (+el.dataset.d || 0) - 0.06;
       el.dataset.to = el.dataset.o ? (hitT(p, el.dataset.o, +el.dataset.t) ?? 1e9) - 0.05 : 1e9; el.dataset.n = n;
       const tr = el.querySelector('.tr'); if (tr) { const L = tr.getTotalLength(); tr.style.strokeDasharray = L; el.dataset.L = L; }
     });
+    PER.forEach(pp => { pp._k = (pp.poses || [[null, 'acenando', 'a']]).map(([w, pose, v]) => ({ t: w ? (hitT(p, w) ?? p.ini) : p.ini, pose, v: v || 'a' }));
+      pp._j = [{ t: p.ini, x: pp.x }].concat((pp.pula || []).map(([w, x]) => ({ t: hitT(p, w) ?? p.ini, x }))); });
     BON.forEach(b => { b._k = (b.poses || [[null, 'em_pe', 'neutro']]).map(([w, pose, expr]) => ({ t: w ? (hitT(p, w) ?? p.ini) : p.ini, pose, expr })); if (b.mover && b.mover[2]) b._fim = hitT(p, b.mover[2]); });
   }
   const loc = t - p.ini, dur = p.fim - p.ini;
@@ -122,6 +129,7 @@ window.render = async (t) => {
     el.querySelectorAll('.cresce').forEach(c => { const h = +c.dataset.h * easeIO(x / 1.6); c.setAttribute('height', h); c.setAttribute('y', 420 - h); });
     el.querySelectorAll('.dia').forEach(d => { const on = +d.dataset.i < +d.dataset.n && x > 0.4 + +d.dataset.i * 0.05; d.querySelector('.mk').setAttribute('opacity', on ? 1 : 0); });
     if (el.classList.contains('boneco')) desenhaBoneco(el, t, p);
+    if (el.classList.contains('persona')) desenhaPersona(el, t, p, x);
   });
   // legenda (pílula no topo, palavra da vez em vermelho)
   let w = -1; for (let j = 0; j < palavras.length; j++) { if (palavras[j].inicio <= t) w = j; else break; }
@@ -130,6 +138,18 @@ window.render = async (t) => {
   leg.innerHTML = `<span>${bl.map(j => j === w ? `<em>${palavras[j].w}</em>` : palavras[j].w).join(' ')}</span>`;
   leg.firstChild.style.transform = `scale(${0.9 + 0.1 * ease((t - palavras[bl[0]].inicio) / 0.12)})`;
 };
+function desenhaPersona(el, t, p, xe) {
+  const pp = PER[+el.dataset.pi]; if (!pp) return;
+  let k = 0; for (let j = 0; j < pp._k.length; j++) if (pp._k[j].t <= t) k = j;
+  const cur = pp._k[k], dt = t - cur.t;
+  // pulo de um lado pro outro: arco de 0,45 s
+  let jx = pp._j[0].x, jy = 0; for (let j = 1; j < pp._j.length; j++) { const J = pp._j[j]; if (t >= J.t) { const f = cl((t - J.t) / .45); jx = pp._j[j - 1].x + (J.x - pp._j[j - 1].x) * easeIO(f); jy = -Math.sin(Math.PI * f) * 120; if (f >= 1) jx = J.x; } }
+  const entra = cl(xe) < 1 ? -(1 - back(xe)) * 260 : 0;                       // entra pulando de baixo
+  const sq = k > 0 && dt < .28 ? 1 - .12 * Math.sin(Math.PI * dt / .28) : 1;   // squash na troca de pose
+  const resp = 1 + .012 * Math.sin(t * 2.6), bob = Math.sin(t * 2.2) * 6, rot = Math.sin(t * 1.4) * 1.6;
+  const h = pp.h || 700, vira = pp.vira ? -1 : 1;
+  el.innerHTML = `<img src="stickman/persona/poses/${cur.pose}_${cur.v}.png" style="position:absolute;left:${jx}px;top:${pp.y + jy + bob - entra}px;height:${h * resp * sq}px;transform:translate(-50%,-100%) rotate(${rot}deg) scaleX(${vira * (2 - sq)});transform-origin:50% 100%;filter:drop-shadow(0 14px 10px rgba(0,0,0,.22))">`;
+}
 function desenhaBoneco(el, t, p) {
   const b = BON[+el.dataset.bi]; if (!b) return;
   let k = 0; for (let j = 0; j < b._k.length; j++) if (b._k[j].t <= t) k = j;

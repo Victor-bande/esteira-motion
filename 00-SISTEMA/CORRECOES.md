@@ -23,7 +23,7 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 27/11/2026 | stickman | Motion antes do roteiro aprovado | Sempre roteiro primeiro (✋ G2), como no master prompt; depois motion | pendente |
 | 27/11/2026 | stickman/roteiro | Ganchos secos e cortados ("Repara: quando a sua calça…") | Gancho é CONVERSA com a pessoa, frase completa: "Ei, você acorda e se sente assim?", "Já aconteceu isso com você?", "Já reparou que…?". Nada de frase recortada | pendente |
 | 27/11/2026 | stickman | Emojis 3D com cara de amador ("emoji de pobre") | Sair dos emojis; ilustração com acabamento de motion profissional | pendente |
-| 27/11/2026 | stickman | Bonequinho diferente do vídeo do LicbeAI | Bonequinho no estilo exato da REF-S05/print do dono (rosto expressivo, luva branca de 4 dedos, sapato, acessório no pescoço) | pendente |
+| 27/11/2026 | stickman | Bonequinho diferente do vídeo do LicbeAI | Bonequinho no estilo exato da REF-S05/print do dono (rosto expressivo, luva branca de 4 dedos, sapato, acessório no pescoço) | → feito: persona Nano Banana (33 poses) no motor, `persona()` |
 | 27/11/2026 | extrair-dna | DNA sem a psicologia por bloco | Todo DNA: o que foi dito, na ordem, a função de venda, a psicologia e o visual de CADA bloco (como E11) | pendente |
 | 27/11/2026 | stickman | Vídeo com cara de venda; sem informação nova | Toda aula traz 1 fato novo com nome + analogia do dia a dia; produto só como resposta no fim (FORMATO v2 §0) | → promovida (FORMATO v2, skill stickman) |
 | 27/11/2026 | stickman | Foto do produto no motion | Produto animado/desenhado na cena como nos virais (⚠️ fiel ao pote real; foto 1 s no CTA) | pendente (dono decide o ⚠️) |

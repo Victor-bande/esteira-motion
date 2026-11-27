@@ -28,6 +28,7 @@ Todas aceitam `o = { w, o, d, a, som }`: `w` = palavra em que entra, `o` = palav
   - Explicação: `raios(cor1,cor2)` · `pontos(cor)` · `liso(cor)`.
   - Mecanismo: `dentro` (corpo por dentro).
   - Pacote pintado: `img('nome')` (se existir `stickman/cenarios/nome.jpg`).
+- **`persona({ x, y: pés, h: 700, poses: [[palavra|null, 'pose', 'a'|'b'|'c'], …], pula: [[palavra, xNovo], …], vira })`**: o APRESENTADOR oficial (Nano Banana, lenço rosa), desde 27/11. Usar ele, não o `boneco` antigo. Poses em `stickman/persona/POSES.txt`: acenando, apontando, apontando_baixo, apresentando, pensando, cansado, triste, surpreso, comemorando, dor_barriga, bravo, joinha (variantes a/b/c). Pose nova = gerar folha nova no Nano Banana (prompt em `01-BASE/STICKMAN/PROMPTS-PERSONA.md`) e rodar `persona/recortar.py`.
 - `boneco({ x, y: pés, w, acc:'laco', poses:[[palavra|null, pose, expr], …], ciclo:'andando'|'correndo', mover:[x0,x1,'palavraFim'], segura:'ilustração', vira })`.
   - **Corpo/rosto que muda com a fala:** `barriga: 1` ou `[de, para, 'palavra']` (gordinho, estufada) · `inchado: [0, 1, 'palavra']` (rosto inchado) · `marcas: ['espinhas']`.
   - **Fundo sempre cheio** (correção 27/11): nunca `liso` claro; usar cenário ou raios/pontos coloridos.
