@@ -4,3 +4,4 @@ v1 · 27/11/2026 · orquestrador · aberta pelo dono
 | Corpo \ Gancho | G1 |
 |---|---|
 | A1 · "intestino é uma esteira" (Preguiça+Gula · intestino preso · 4/5) | **pronto 27/11** (Drive) |
+|  | G2 · "você sabia que seu intestino é uma esteira?" + fechamento racional · **roteiro ✋ G2** |
