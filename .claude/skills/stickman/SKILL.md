@@ -46,6 +46,11 @@ Todas aceitam `o = { w, o, d, a, som }`: `w` = palavra em que entra, `o` = palav
 - CTA: `botaoCarrinho(x, y)` + `ilu('backhand-index-pointing-down', …)`.
 - `ROTEIRO = [[cena, [falas]], …]` liga cena ↔ frases do `tempos.json`.
 
+## CTA (dono 28/11)
+- **Produto no CTA: centralizado e grande** (x ≈ 300–780, ~420 × 560), bem visível; o bonequinho do lado esquerdo, menor, sem cobrir o pote.
+- **Fechamento racional** (deseja na emoção, compra na razão): sempre terminar com o empurrão lógico. Ex.: preço de Black Friday "quase pela metade" e "já tá acabando, é só nesse período" (sem data); "pelo preço, vale testar: na melhor das hipóteses você sente os benefícios"; "nesse link tá quase metade do preço"; "se você sair desse vídeo, talvez não ache mais esse link". ⚠️ Fala de preço/promoção envelhece (REGRAS 8): na Black Friday vale (decisão do dono); depois dela, trocar o CTA e re-renderizar.
+- **Conferir na folha de checagem: nenhuma pose com braço a mais** (as 2 "apontando" foram corrigidas em 28/11).
+
 ## Layout (1080 × 1920)
 Legenda em pílula no topo (y262–352, automática). Palco: x120–960 até y840 · x120–780 de y840 a y1240. Boneco com `w:430`, pés em `y:1200`, `x` 270–340 (lado esquerdo); peças à direita e no alto. Título em `top:400` (some com `o:` quando o produto entra no mesmo lugar).
 

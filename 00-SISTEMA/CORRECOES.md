@@ -31,3 +31,6 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 27/11/2026 | stickman | Visual 2D chapado | Cena 3D de massinha igual aos virais (three.js, grátis) + persona por cima, à esquerda/centro | → teste V-C01-MG3-E11-A1-G1 |
 | 27/11/2026 | roteiro | Gancho começando com "Ei" | Começar falando com a pessoa direto: "Você já…?" | pendente |
 | 27/11/2026 | roteiro | Emagrecimento proibido | Pode citar como "pode ajudar a emagrecer", explicando o mecanismo, sem promessa (decisão do dono; ⚠️ política) | pendente |
+| 28/11/2026 | stickman | Pose com braço a mais flutuando (apontando_a/c tinham o braço do vizinho da folha) | Poses limpas; conferir toda pose na folha de checagem | → corrigido nas poses |
+| 28/11/2026 | stickman | Pote no CTA descentralizado e pequeno | Produto centralizado e grande no CTA; boneco ao lado sem cobrir | → promovida (skill stickman, CTA) |
+| 28/11/2026 | roteiro | Final só emocional | Fechar com razão: preço BF quase metade, "tá acabando", "vale testar pelo preço", "nesse link", "se sair do vídeo talvez não ache" (⚠️ envelhece: trocar após a BF) | → promovida (skill stickman, CTA) |
