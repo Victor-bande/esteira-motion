@@ -1,0 +1,1042 @@
+[
+ {
+  "quem": "malu",
+  "frase": "Você já ficou dias sem ir ao banheiro e sentiu a barriga estufada feito um balão?",
+  "inicio": 0.047,
+  "fim": 4.009,
+  "palavras": [
+   {
+    "p": "Você",
+    "inicio": 0.047
+   },
+   {
+    "p": "já",
+    "inicio": 0.236
+   },
+   {
+    "p": "ficou",
+    "inicio": 0.33
+   },
+   {
+    "p": "dias",
+    "inicio": 0.625
+   },
+   {
+    "p": "sem",
+    "inicio": 0.943
+   },
+   {
+    "p": "ir",
+    "inicio": 1.215
+   },
+   {
+    "p": "ao",
+    "inicio": 1.285
+   },
+   {
+    "p": "banheiro",
+    "inicio": 1.368
+   },
+   {
+    "p": "e",
+    "inicio": 1.91
+   },
+   {
+    "p": "sentiu",
+    "inicio": 1.946
+   },
+   {
+    "p": "a",
+    "inicio": 2.323
+   },
+   {
+    "p": "barriga",
+    "inicio": 2.358
+   },
+   {
+    "p": "estufada",
+    "inicio": 2.736
+   },
+   {
+    "p": "feito",
+    "inicio": 3.29
+   },
+   {
+    "p": "um",
+    "inicio": 3.573
+   },
+   {
+    "p": "balão?",
+    "inicio": 3.608
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E aí você come direitinho, bebe água, e nada. Sabe por quê?",
+  "inicio": 4.329,
+  "fim": 8.373,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 4.329
+   },
+   {
+    "p": "aí",
+    "inicio": 4.411
+   },
+   {
+    "p": "você",
+    "inicio": 4.659
+   },
+   {
+    "p": "come",
+    "inicio": 4.871
+   },
+   {
+    "p": "direitinho,",
+    "inicio": 5.06
+   },
+   {
+    "p": "bebe",
+    "inicio": 5.873
+   },
+   {
+    "p": "água,",
+    "inicio": 6.18
+   },
+   {
+    "p": "e",
+    "inicio": 6.722
+   },
+   {
+    "p": "nada.",
+    "inicio": 6.793
+   },
+   {
+    "p": "Sabe",
+    "inicio": 7.547
+   },
+   {
+    "p": "por",
+    "inicio": 7.925
+   },
+   {
+    "p": "quê?",
+    "inicio": 8.09
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "O seu intestino funciona como uma esteira de supermercado.",
+  "inicio": 8.692,
+  "fim": 11.97,
+  "palavras": [
+   {
+    "p": "O",
+    "inicio": 8.692
+   },
+   {
+    "p": "seu",
+    "inicio": 8.774
+   },
+   {
+    "p": "intestino",
+    "inicio": 8.987
+   },
+   {
+    "p": "funciona",
+    "inicio": 9.482
+   },
+   {
+    "p": "como",
+    "inicio": 10.06
+   },
+   {
+    "p": "uma",
+    "inicio": 10.248
+   },
+   {
+    "p": "esteira",
+    "inicio": 10.366
+   },
+   {
+    "p": "de",
+    "inicio": 10.909
+   },
+   {
+    "p": "supermercado.",
+    "inicio": 11.003
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Pra ela andar, precisa de duas coisas: volume e água. E quem dá esse volume é a fibra.",
+  "inicio": 12.3,
+  "fim": 18.09,
+  "palavras": [
+   {
+    "p": "Pra",
+    "inicio": 12.3
+   },
+   {
+    "p": "ela",
+    "inicio": 12.465
+   },
+   {
+    "p": "andar,",
+    "inicio": 12.689
+   },
+   {
+    "p": "precisa",
+    "inicio": 13.243
+   },
+   {
+    "p": "de",
+    "inicio": 13.656
+   },
+   {
+    "p": "duas",
+    "inicio": 13.75
+   },
+   {
+    "p": "coisas:",
+    "inicio": 14.068
+   },
+   {
+    "p": "volume",
+    "inicio": 14.823
+   },
+   {
+    "p": "e",
+    "inicio": 15.507
+   },
+   {
+    "p": "água.",
+    "inicio": 15.613
+   },
+   {
+    "p": "E",
+    "inicio": 16.298
+   },
+   {
+    "p": "quem",
+    "inicio": 16.392
+   },
+   {
+    "p": "dá",
+    "inicio": 16.593
+   },
+   {
+    "p": "esse",
+    "inicio": 16.793
+   },
+   {
+    "p": "volume",
+    "inicio": 16.97
+   },
+   {
+    "p": "é",
+    "inicio": 17.442
+   },
+   {
+    "p": "a",
+    "inicio": 17.571
+   },
+   {
+    "p": "fibra.",
+    "inicio": 17.619
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Só que a maioria das pessoas come bem menos fibra do que o corpo precisa por dia.",
+  "inicio": 18.409,
+  "fim": 22.395,
+  "palavras": [
+   {
+    "p": "Só",
+    "inicio": 18.409
+   },
+   {
+    "p": "que",
+    "inicio": 18.656
+   },
+   {
+    "p": "a",
+    "inicio": 18.739
+   },
+   {
+    "p": "maioria",
+    "inicio": 18.762
+   },
+   {
+    "p": "das",
+    "inicio": 19.152
+   },
+   {
+    "p": "pessoas",
+    "inicio": 19.305
+   },
+   {
+    "p": "come",
+    "inicio": 19.718
+   },
+   {
+    "p": "bem",
+    "inicio": 19.954
+   },
+   {
+    "p": "menos",
+    "inicio": 20.237
+   },
+   {
+    "p": "fibra",
+    "inicio": 20.52
+   },
+   {
+    "p": "do",
+    "inicio": 20.932
+   },
+   {
+    "p": "que",
+    "inicio": 21.027
+   },
+   {
+    "p": "o",
+    "inicio": 21.121
+   },
+   {
+    "p": "corpo",
+    "inicio": 21.204
+   },
+   {
+    "p": "precisa",
+    "inicio": 21.475
+   },
+   {
+    "p": "por",
+    "inicio": 21.887
+   },
+   {
+    "p": "dia.",
+    "inicio": 22.064
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Aí você tenta comer mamão todo dia, e na terceira semana já enjoou.",
+  "inicio": 22.712,
+  "fim": 26.45,
+  "palavras": [
+   {
+    "p": "Aí",
+    "inicio": 22.712
+   },
+   {
+    "p": "você",
+    "inicio": 23.007
+   },
+   {
+    "p": "tenta",
+    "inicio": 23.219
+   },
+   {
+    "p": "comer",
+    "inicio": 23.502
+   },
+   {
+    "p": "mamão",
+    "inicio": 23.715
+   },
+   {
+    "p": "todo",
+    "inicio": 24.057
+   },
+   {
+    "p": "dia,",
+    "inicio": 24.387
+   },
+   {
+    "p": "e",
+    "inicio": 24.906
+   },
+   {
+    "p": "na",
+    "inicio": 24.953
+   },
+   {
+    "p": "terceira",
+    "inicio": 25.083
+   },
+   {
+    "p": "semana",
+    "inicio": 25.448
+   },
+   {
+    "p": "já",
+    "inicio": 25.861
+   },
+   {
+    "p": "enjoou.",
+    "inicio": 25.979
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Tenta laxante, que até resolve no dia, mas não é coisa pra tomar todo dia.",
+  "inicio": 26.769,
+  "fim": 30.884,
+  "palavras": [
+   {
+    "p": "Tenta",
+    "inicio": 26.769
+   },
+   {
+    "p": "laxante,",
+    "inicio": 27.052
+   },
+   {
+    "p": "que",
+    "inicio": 27.783
+   },
+   {
+    "p": "até",
+    "inicio": 27.83
+   },
+   {
+    "p": "resolve",
+    "inicio": 28.066
+   },
+   {
+    "p": "no",
+    "inicio": 28.526
+   },
+   {
+    "p": "dia,",
+    "inicio": 28.656
+   },
+   {
+    "p": "mas",
+    "inicio": 29.21
+   },
+   {
+    "p": "não",
+    "inicio": 29.351
+   },
+   {
+    "p": "é",
+    "inicio": 29.611
+   },
+   {
+    "p": "coisa",
+    "inicio": 29.682
+   },
+   {
+    "p": "pra",
+    "inicio": 29.965
+   },
+   {
+    "p": "tomar",
+    "inicio": 30.071
+   },
+   {
+    "p": "todo",
+    "inicio": 30.33
+   },
+   {
+    "p": "dia.",
+    "inicio": 30.566
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E aí você descobre o psyllium em pó, mistura na água, e o copo vira uma gosma que ninguém consegue engolir.",
+  "inicio": 31.204,
+  "fim": 36.687,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 31.204
+   },
+   {
+    "p": "aí",
+    "inicio": 31.274
+   },
+   {
+    "p": "você",
+    "inicio": 31.463
+   },
+   {
+    "p": "descobre",
+    "inicio": 31.687
+   },
+   {
+    "p": "o",
+    "inicio": 32.064
+   },
+   {
+    "p": "psyllium",
+    "inicio": 32.112
+   },
+   {
+    "p": "em",
+    "inicio": 32.571
+   },
+   {
+    "p": "pó,",
+    "inicio": 32.678
+   },
+   {
+    "p": "mistura",
+    "inicio": 33.196
+   },
+   {
+    "p": "na",
+    "inicio": 33.621
+   },
+   {
+    "p": "água,",
+    "inicio": 33.692
+   },
+   {
+    "p": "e",
+    "inicio": 34.258
+   },
+   {
+    "p": "o",
+    "inicio": 34.329
+   },
+   {
+    "p": "copo",
+    "inicio": 34.411
+   },
+   {
+    "p": "vira",
+    "inicio": 34.718
+   },
+   {
+    "p": "uma",
+    "inicio": 34.942
+   },
+   {
+    "p": "gosma",
+    "inicio": 35.095
+   },
+   {
+    "p": "que",
+    "inicio": 35.437
+   },
+   {
+    "p": "ninguém",
+    "inicio": 35.543
+   },
+   {
+    "p": "consegue",
+    "inicio": 35.897
+   },
+   {
+    "p": "engolir.",
+    "inicio": 36.286
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E isso tem explicação: o psyllium é a casca de uma sementinha que, quando encontra água, vira um gel.",
+  "inicio": 37.005,
+  "fim": 42.878,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 37.005
+   },
+   {
+    "p": "isso",
+    "inicio": 37.147
+   },
+   {
+    "p": "tem",
+    "inicio": 37.359
+   },
+   {
+    "p": "explicação:",
+    "inicio": 37.489
+   },
+   {
+    "p": "o",
+    "inicio": 38.421
+   },
+   {
+    "p": "psyllium",
+    "inicio": 38.491
+   },
+   {
+    "p": "é",
+    "inicio": 39.128
+   },
+   {
+    "p": "a",
+    "inicio": 39.246
+   },
+   {
+    "p": "casca",
+    "inicio": 39.305
+   },
+   {
+    "p": "de",
+    "inicio": 39.694
+   },
+   {
+    "p": "uma",
+    "inicio": 39.765
+   },
+   {
+    "p": "sementinha",
+    "inicio": 39.859
+   },
+   {
+    "p": "que,",
+    "inicio": 40.59
+   },
+   {
+    "p": "quando",
+    "inicio": 41.003
+   },
+   {
+    "p": "encontra",
+    "inicio": 41.204
+   },
+   {
+    "p": "água,",
+    "inicio": 41.64
+   },
+   {
+    "p": "vira",
+    "inicio": 42.182
+   },
+   {
+    "p": "um",
+    "inicio": 42.442
+   },
+   {
+    "p": "gel.",
+    "inicio": 42.524
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E esse gel ocupa espaço no estômago e ajuda a dar saciedade. Com menos vontade de beliscar, fica mais fácil emagrecer. Não é mágica, mas pode ajudar.",
+  "inicio": 43.208,
+  "fim": 52.725,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 43.208
+   },
+   {
+    "p": "esse",
+    "inicio": 43.35
+   },
+   {
+    "p": "gel",
+    "inicio": 43.586
+   },
+   {
+    "p": "ocupa",
+    "inicio": 43.951
+   },
+   {
+    "p": "espaço",
+    "inicio": 44.246
+   },
+   {
+    "p": "no",
+    "inicio": 44.718
+   },
+   {
+    "p": "estômago",
+    "inicio": 44.8
+   },
+   {
+    "p": "e",
+    "inicio": 45.449
+   },
+   {
+    "p": "ajuda",
+    "inicio": 45.531
+   },
+   {
+    "p": "a",
+    "inicio": 45.932
+   },
+   {
+    "p": "dar",
+    "inicio": 45.968
+   },
+   {
+    "p": "saciedade.",
+    "inicio": 46.097
+   },
+   {
+    "p": "Com",
+    "inicio": 47.146
+   },
+   {
+    "p": "menos",
+    "inicio": 47.323
+   },
+   {
+    "p": "vontade",
+    "inicio": 47.642
+   },
+   {
+    "p": "de",
+    "inicio": 48.172
+   },
+   {
+    "p": "beliscar,",
+    "inicio": 48.231
+   },
+   {
+    "p": "fica",
+    "inicio": 49.009
+   },
+   {
+    "p": "mais",
+    "inicio": 49.222
+   },
+   {
+    "p": "fácil",
+    "inicio": 49.469
+   },
+   {
+    "p": "emagrecer.",
+    "inicio": 49.87
+   },
+   {
+    "p": "Não",
+    "inicio": 50.803
+   },
+   {
+    "p": "é",
+    "inicio": 51.074
+   },
+   {
+    "p": "mágica,",
+    "inicio": 51.145
+   },
+   {
+    "p": "mas",
+    "inicio": 51.899
+   },
+   {
+    "p": "pode",
+    "inicio": 52.1
+   },
+   {
+    "p": "ajudar.",
+    "inicio": 52.347
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Finalmente, entra o psyllium em cápsula.",
+  "inicio": 53.055,
+  "fim": 55.413,
+  "palavras": [
+   {
+    "p": "Finalmente,",
+    "inicio": 53.055
+   },
+   {
+    "p": "entra",
+    "inicio": 53.963
+   },
+   {
+    "p": "o",
+    "inicio": 54.246
+   },
+   {
+    "p": "psyllium",
+    "inicio": 54.293
+   },
+   {
+    "p": "em",
+    "inicio": 54.812
+   },
+   {
+    "p": "cápsula.",
+    "inicio": 54.906
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Você toma duas cápsulas com um copo de água, sem gosto e sem gosma, e mantém o psyllium na rotina.",
+  "inicio": 55.744,
+  "fim": 61.215,
+  "palavras": [
+   {
+    "p": "Você",
+    "inicio": 55.744
+   },
+   {
+    "p": "toma",
+    "inicio": 55.944
+   },
+   {
+    "p": "duas",
+    "inicio": 56.18
+   },
+   {
+    "p": "cápsulas",
+    "inicio": 56.463
+   },
+   {
+    "p": "com",
+    "inicio": 56.982
+   },
+   {
+    "p": "um",
+    "inicio": 57.112
+   },
+   {
+    "p": "copo",
+    "inicio": 57.171
+   },
+   {
+    "p": "de",
+    "inicio": 57.454
+   },
+   {
+    "p": "água,",
+    "inicio": 57.56
+   },
+   {
+    "p": "sem",
+    "inicio": 58.055
+   },
+   {
+    "p": "gosto",
+    "inicio": 58.314
+   },
+   {
+    "p": "e",
+    "inicio": 58.798
+   },
+   {
+    "p": "sem",
+    "inicio": 58.833
+   },
+   {
+    "p": "gosma,",
+    "inicio": 59.081
+   },
+   {
+    "p": "e",
+    "inicio": 59.635
+   },
+   {
+    "p": "mantém",
+    "inicio": 59.682
+   },
+   {
+    "p": "o",
+    "inicio": 60.048
+   },
+   {
+    "p": "psyllium",
+    "inicio": 60.107
+   },
+   {
+    "p": "na",
+    "inicio": 60.567
+   },
+   {
+    "p": "rotina.",
+    "inicio": 60.673
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Sem glúten, sem açúcar, sem lactose, e já passou de duzentos mil vendidos.",
+  "inicio": 61.546,
+  "fim": 66.428,
+  "palavras": [
+   {
+    "p": "Sem",
+    "inicio": 61.546
+   },
+   {
+    "p": "glúten,",
+    "inicio": 61.864
+   },
+   {
+    "p": "sem",
+    "inicio": 62.465
+   },
+   {
+    "p": "açúcar,",
+    "inicio": 62.713
+   },
+   {
+    "p": "sem",
+    "inicio": 63.432
+   },
+   {
+    "p": "lactose,",
+    "inicio": 63.668
+   },
+   {
+    "p": "e",
+    "inicio": 64.446
+   },
+   {
+    "p": "já",
+    "inicio": 64.494
+   },
+   {
+    "p": "passou",
+    "inicio": 64.659
+   },
+   {
+    "p": "de",
+    "inicio": 65.013
+   },
+   {
+    "p": "duzentos",
+    "inicio": 65.107
+   },
+   {
+    "p": "mil",
+    "inicio": 65.602
+   },
+   {
+    "p": "vendidos.",
+    "inicio": 65.779
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Intestino é esteira: sem fibra, ela para.",
+  "inicio": 66.746,
+  "fim": 69.541,
+  "palavras": [
+   {
+    "p": "Intestino",
+    "inicio": 66.746
+   },
+   {
+    "p": "é",
+    "inicio": 67.324
+   },
+   {
+    "p": "esteira:",
+    "inicio": 67.383
+   },
+   {
+    "p": "sem",
+    "inicio": 68.09
+   },
+   {
+    "p": "fibra,",
+    "inicio": 68.35
+   },
+   {
+    "p": "ela",
+    "inicio": 68.975
+   },
+   {
+    "p": "para.",
+    "inicio": 69.211
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Já que você chegou até aqui, é o psyllium da Etron. Toca no carrinho laranja e confere.",
+  "inicio": 69.859,
+  "fim": 75.035,
+  "palavras": [
+   {
+    "p": "Já",
+    "inicio": 69.859
+   },
+   {
+    "p": "que",
+    "inicio": 70.071
+   },
+   {
+    "p": "você",
+    "inicio": 70.154
+   },
+   {
+    "p": "chegou",
+    "inicio": 70.355
+   },
+   {
+    "p": "até",
+    "inicio": 70.638
+   },
+   {
+    "p": "aqui,",
+    "inicio": 70.862
+   },
+   {
+    "p": "é",
+    "inicio": 71.428
+   },
+   {
+    "p": "o",
+    "inicio": 71.498
+   },
+   {
+    "p": "psyllium",
+    "inicio": 71.569
+   },
+   {
+    "p": "da",
+    "inicio": 72.076
+   },
+   {
+    "p": "Etron.",
+    "inicio": 72.241
+   },
+   {
+    "p": "Toca",
+    "inicio": 72.936
+   },
+   {
+    "p": "no",
+    "inicio": 73.219
+   },
+   {
+    "p": "carrinho",
+    "inicio": 73.314
+   },
+   {
+    "p": "laranja",
+    "inicio": 73.679
+   },
+   {
+    "p": "e",
+    "inicio": 74.34
+   },
+   {
+    "p": "confere.",
+    "inicio": 74.422
+   }
+  ]
+ }
+]

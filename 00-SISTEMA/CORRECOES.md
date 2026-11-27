@@ -29,3 +29,5 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 27/11/2026 | stickman | Foto do produto no motion | Produto animado/desenhado na cena como nos virais (⚠️ fiel ao pote real; foto 1 s no CTA) | pendente (dono decide o ⚠️) |
 | 27/11/2026 | stickman | Motion sem roteiro antes | Antes de todo vídeo: Produto + Resumo + Roteiro (tabela) e esperar o ok | → promovida (FORMATO v2 §0c, skill) |
 | 27/11/2026 | stickman | Visual 2D chapado | Cena 3D de massinha igual aos virais (three.js, grátis) + persona por cima, à esquerda/centro | → teste V-C01-MG3-E11-A1-G1 |
+| 27/11/2026 | roteiro | Gancho começando com "Ei" | Começar falando com a pessoa direto: "Você já…?" | pendente |
+| 27/11/2026 | roteiro | Emagrecimento proibido | Pode citar como "pode ajudar a emagrecer", explicando o mecanismo, sem promessa (decisão do dono; ⚠️ política) | pendente |

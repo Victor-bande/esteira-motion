@@ -1,4 +1,5 @@
 # ROTEIRO · V-C01-PSY-E11-A1-G1 · Malu · Psyllium Etron · "intestino é uma esteira" · gancho 1 · STICKMAN 3D
+v2 · 27/11/2026 · ✅ G2 aprovado com ajustes do dono: gancho começa com "Você…"; pode falar de emagrecer como "pode ajudar", com o porquê (gel → saciedade → menos beliscar), sem promessa · a fala final de cada linha está em `motion/falas.tsv`
 v1 · 27/11/2026 · orquestrador · ✋ G2 · modelo: E11 (3 tentativas + "finalmente") com gancho de conversa (E12), analogia (E06) e nível 4/5 da Jéssica (já testou de tudo) · ~65 s
 
 **Produto:** PSY · Psyllium em cápsulas · Etron (anúncio "Mounjarin Psyllium") · 2 cápsulas/dia · 231 mil vendidos · nota 4,5 · comissão 27% + 10%
