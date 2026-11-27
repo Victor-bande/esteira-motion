@@ -10,6 +10,9 @@ v1 · 27/11/2026 · orquestrador. Formato e psicologia: `01-BASE/STICKMAN/FORMAT
 ## Entrada (o mínimo)
 Produto na biblioteca (`03-PRODUTOS/P-…/CARTAO.md` + `fotos/`) · uma estrutura (E06–E09 ou nova) · o tema (dor + porquê escondido). Faltou produto → `dossie-produto` antes. Faltou tema → propor 3 do MVM/dossiê em 1 linha cada.
 
+## Regra de ouro (v2 · 27/11)
+Ler `FORMATO.md` §0, §0b e §0c (o padrão-mestre). Gancho de conversa com frase completa · 1 coisa nova com nome + analogia · aula primeiro, produto entre 40% e 60% · **entregar Produto + Resumo + Roteiro e esperar o ok antes do motion**.
+
 ## Passo a passo (1 sessão nova por vídeo)
 1. **Roteiro** (`05-VIDEOS/{CONTA}-{SIGLA}-{EST}/A{n}/motion/falas.tsv`, uma frase por linha `malu<TAB>frase`): modela o DNA **frase a frase** (mesma função, mesma ordem, ±10% de palavras). Regras do FORMATO §4: fato checável, nada fora do CARTÃO, oferta atemporal, marca só no fim. ⚠️ de política em 1 linha.
 2. **Voz:** `python3 06-FERRAMENTAS/voz/falar_neural.py <motion>/falas.tsv <motion>` → `voz.wav` + `tempos.json` (tempo real por palavra).

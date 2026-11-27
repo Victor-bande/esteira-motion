@@ -1,3 +1,36 @@
+# FORMATO STICKMAN · "uma aulinha curta; o produto é a resposta no fim"
+v2 · 27/11/2026 · orquestrador · **VALE ESTA SEÇÃO (v2)** · fontes: 7 virais de motion que venderam (E06–E09, E11, E12, E13) + correções do dono 27/11
+
+## 0. O padrão-mestre (o que TODOS os virais fazem)
+1. **Gancho = conversa + curiosidade**, frase completa, falando COM a pessoa. 6 tipos que venderam:
+   - **Analogia:** "Sabe por que loira usa shampoo roxo?" (E06)
+   - **Fato surpreendente sobre você:** "Se o seu hálito estivesse ruim agora, você seria a última pessoa a saber." (E12)
+   - **Crença derrubada:** "Esse pontinho preto no seu nariz não é sujeira." (E13)
+   - **Rotina que falha:** "Você escova os dentes todo dia e mesmo assim o bafo continua lá. Sabe por quê?" (E09)
+   - **Reconhecimento bom:** "Já reparou que o seu cabelo fica melhor depois de um dia de praia?" (E11)
+   - **Pergunta-sintoma:** "Ei, você acorda e se sente assim?" / "Já aconteceu isso com você?" (E08, E10)
+2. **Algo novo em todo vídeo** (obrigatório): um fato que a pessoa não sabia, ou sabia mas não entendia, **com nome** ("adaptação olfativa", "saburra", "oxida igual maçã cortada", "teoria das cores") e **uma analogia do dia a dia** (maçã cortada, lagoa parada, tapete, shampoo roxo).
+3. **Mecanismo mostrado acontecendo:** a câmera entra no corpo ou no objeto (pele em corte, língua de perto, fio de cabelo) e o processo acontece na tela.
+4. **O que você faz não resolve:** só disfarça, piora ou é caro/absurdo. A regra das 3 tentativas (2 conhecidas + 1 absurda e engraçada) é a versão mais forte (E11).
+5. **"É aqui que entra…" / "Finalmente…"**: o produto chega como **a resposta lógica** da aula, com 1 número-curiosidade do ingrediente ou de um estudo (1 g de carvão = 1000 m²; raspador reduziu 75% × escova 45%).
+6. **O jeito certo + resultado visível:** 3 verbos de uso, "faz o teste", "olha a tirinha".
+7. **Frase-síntese que vira regra + recompensa:** "Não disfarça, remove." · "Parabéns, você levou a praia pro banheiro." · "Nariz lisinho de novo." Depois, **uma ação** (carrinho laranja).
+- O produto entra entre **40% e 60%**. Antes disso é só aula: **não pode parecer venda**.
+
+## 0b. Visual do padrão (motion dos virais + bonequinho apresentador)
+- Uma **cena-mundo** por vídeo (boca gigante, nariz, pele em corte, fio de cabelo) que vai mudando com a fala; câmera entra e sai.
+- **O bonequinho é o apresentador:** está sempre no take, ao lado da cena, aponta, pula de um lado para o outro, reage, demonstra.
+- **Produto:** desenhado/animado na cena, como os virais fazem, e não foto. ⚠️ REGRAS 7 (produto idêntico ao vinculado): o desenho tem que ter a mesma cor, forma e nome do pote real, e no CTA entra 1 s da foto real. O dono decide.
+- Sem emoji com cara de amador. Ilustração com acabamento.
+
+## 0c. Entrega antes de todo vídeo (✋ G2, sempre)
+1. **Produto** (código · nome · o que vende).
+2. **Resumo do roteiro** em 3 linhas: gancho, o algo novo/analogia, como o produto resolve.
+3. **Roteiro** em tabela: fala completa + o que aparece na cena + o que o bonequinho faz.
+Motion só depois do ok.
+
+---
+# (histórico) v1
 # FORMATO STICKMAN · "explica primeiro, o produto é o meio"
 v1 · 27/11/2026 · orquestrador · fonte: 4 vídeos de motion que venderam muito no TikTok Shop (REF-S01–S04, `referencias/`) + estilo do bonequinho do LicbeAI (REF-S05) · estruturas salvas como E06–E09.
 

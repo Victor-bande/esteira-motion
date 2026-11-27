@@ -1,6 +1,6 @@
 # ÍNDICE DE ESTRUTURAS
 
-Numeração: `E{NN}` em sequência, nunca reaproveitada (E01, E02, E03, E04… a próxima é **E12**). Pasta = `E{NN}-{CENA}-{VIRADA}`.
+Numeração: `E{NN}` em sequência, nunca reaproveitada (E01, E02, E03, E04… a próxima é **E14**). Pasta = `E{NN}-{CENA}-{VIRADA}`.
 v1 · 20/11/2026 · Garrincha
 
 | Código | Formato | Em uma linha | Status do DNA | Onde já rodou |
@@ -16,3 +16,5 @@ v1 · 20/11/2026 · Garrincha
 | E09-LINGUA-SABURRA | [MOTION] | Rotina que falha + culpado escondido + estudo (raspador de língua) | ✅ 27/11 (referência do dono) | — |
 | E10-CALCINHA-SINAIS | [TH] | checklist de sinais do corpo → cortisol → magnésio 3 em 1 (viral do MG3) | ✅ 27/11 | V-C01-MG3-E10-A1-G1 (roteiro) |
 | E11-PRAIA-TRESTENTATIVAS | [MOTION 3D] | "já reparou que…?" → mecanismo → 3 tentativas que falham → "finalmente" (Sea Salt Spray) | ✅ 27/11 | — |
+| E12-HALITO-ULTIMAASABER | [MOTION 3D] | fato surpreendente sobre você → nome técnico → disfarce falha → fonte + analogia → "não disfarça, remove" | ✅ 27/11 | — |
+| E13-CRAVO-MACACORTADA | [MOTION 3D] | crença derrubada → mecanismo + analogia (maçã) → espremer piora → número-curiosidade → jeito certo → resultado visível | ✅ 27/11 | — |
