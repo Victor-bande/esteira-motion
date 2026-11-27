@@ -1,5 +1,5 @@
 # ROTEIRO · V-C01-MG3-E10-A1-G1 · Malu · Magnésio 3 em 1 Blasmax · E10 · "modo estresse" · gancho 1 · STICKMAN
-v1 · 27/11/2026 · orquestrador · ✋ G2 (rascunho) · ~65 s (viral 94 s: checklist enxuto de 10 → 7 sinais) · produto entra ~60%
+v1 · 27/11/2026 · orquestrador · ✅ G2 aprovado 27/11 (gancho a, causa a) · voz Thalita 69,2 s · ~65 s (viral 94 s: checklist enxuto de 10 → 7 sinais) · produto entra ~60%
 
 | # | E10 | Fala | Cena (bonequinho = ela) |
 |---|---|---|---|

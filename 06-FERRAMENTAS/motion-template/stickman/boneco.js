@@ -115,7 +115,7 @@
     const base = est.ciclo ? ciclo(est.ciclo, t * (est.ciclo === 'correndo' ? 11 : 7)) : est.p;
     // respiração e balanço (nunca parado)
     const resp = Math.sin(t * 2.4 + (est.fase || 0)) * 1.6, bal = Math.sin(t * 1.3 + (est.fase || 0)) * 2.2;
-    const p = Object.assign({}, base); if (!est.ciclo) { p.bE += bal; p.bD -= bal; p.cb += bal * .6; }
+    const p = Object.assign({}, base); if (!est.ciclo) { p.bE += bal; p.bD -= bal; p.cb += bal * .6; } if (est.barriga) { p.bE += 26 * est.barriga; p.bD -= 26 * est.barriga; p.aE += 10 * est.barriga; p.aD -= 10 * est.barriga; }
     const quad = [p.x || 0, (p.y || 0) + resp];
     const pesc = dir(180 + p.tr, U.tronco); // pescoço a partir do quadril
     const ombro = [pesc[0] * .9, pesc[1] * .9];
@@ -136,9 +136,11 @@
         ${p.banco > .5 ? `<g opacity="${Math.min(1, p.banco)}"><rect x="-70" y="18" width="140" height="22" rx="8" fill="#B07A4F" stroke="#111" stroke-width="6"/><path d="M-50 40 L-60 ${110 - (p.y || 0) + 70} M50 40 L60 ${110 - (p.y || 0) + 70}" stroke="#111" stroke-width="10" stroke-linecap="round"/></g>` : ''}
         ${ln([0, 0], joD, peD)}${pe(peD, 1)}${ln(ombro, cotD, maoD)}
         ${ln([0, 0], pesc)}
-        ${ln([0, 0], joE, peE)}${pe(peE, -1)}${ln(ombro, cotE, maoE)}
+        ${ln([0, 0], joE, peE)}${pe(peE, -1)}
+        ${ln(ombro, cotE, maoE)}
+        ${(est.barriga || 0) > .02 ? (() => { const bb = est.barriga, cx = pesc[0] * .45 + 8 * bb, cy = pesc[1] * .42; return `<ellipse cx="${cx}" cy="${cy}" rx="${26 + 52 * bb}" ry="${44 + 30 * bb}" fill="url(#pele${id})" stroke="#111" stroke-width="8"/><path d="M${cx - 6} ${cy + 8} q6 6 12 0" stroke="#111" stroke-width="4" fill="none" stroke-linecap="round"/>`; })() : ''}
         <g transform="translate(${cab[0]} ${cab[1]}) rotate(${p.cb * .6})">
-          <circle r="${U.cab}" fill="url(#pele${id})" stroke="#111" stroke-width="${U.contorno}"/>
+          <ellipse rx="${U.cab * (1 + .34 * (est.inchado || 0))}" ry="${U.cab * (1 + .1 * (est.inchado || 0))}" fill="url(#pele${id})" stroke="#111" stroke-width="${U.contorno}"/>${(est.inchado || 0) > .1 ? `<ellipse cx="-46" cy="22" rx="${16 * est.inchado}" ry="${11 * est.inchado}" fill="#FF9DB0" opacity=".75"/><ellipse cx="46" cy="22" rx="${16 * est.inchado}" ry="${11 * est.inchado}" fill="#FF9DB0" opacity=".75"/>` : ""}${(est.marcas || []).includes("espinhas") ? [[-40, 4], [36, 12], [-22, 38], [44, -30], [-48, -28], [18, 44]].map(([a, b]) => `<circle cx="${a}" cy="${b}" r="5.5" fill="#E8546A" stroke="#B83246" stroke-width="2"/>`).join("") : ""}
           ${rosto(ex, est.olhar, t, piscar, id)}
         </g>${acc}
         ${mao(maoE, p.aE + p.tr)}${mao(maoD, p.aD + p.tr)}

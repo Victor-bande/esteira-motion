@@ -138,6 +138,7 @@ function desenhaBoneco(el, t, p) {
   let x = b.x; if (b.mover) { const fim = b._fim ?? p.fim; x = b.mover[0] + (b.mover[1] - b.mover[0]) * cl((t - p.ini) / Math.max(.1, fim - p.ini)); }
   const andando = b.ciclo && (!b.mover || t < (b._fim ?? p.fim));
   const w = b.w || 380, h = w * 600 / 340, topo = b.y - h * (590 / 600);
-  el.innerHTML = `<div style="position:absolute;left:${x - w / 2}px;top:${topo}px;width:${w}px;${b.vira ? 'transform:scaleX(-1)' : ''}">${STK.svg({ p: pose, ciclo: andando ? b.ciclo : null, expr: cur.expr || 'neutro', olhar: b.olhar, acc: b.acc, w, fase: +el.dataset.bi * 1.7, segura: b.segura ? `<image href="ilustras/${b.segura}.png" x="-60" y="-60" width="120" height="120"/>` : '' }, t)}</div>`;
+  const anima = (v) => { if (!Array.isArray(v)) return v || 0; const t0 = hitT(p, v[2]) ?? p.ini; return v[0] + (v[1] - v[0]) * easeIO((t - t0) / 0.9); };
+  el.innerHTML = `<div style="position:absolute;left:${x - w / 2}px;top:${topo}px;width:${w}px;${b.vira ? 'transform:scaleX(-1)' : ''}">${STK.svg({ p: pose, ciclo: andando ? b.ciclo : null, expr: cur.expr || 'neutro', olhar: b.olhar, acc: b.acc, w, barriga: anima(b.barriga), inchado: anima(b.inchado), marcas: b.marcas, fase: +el.dataset.bi * 1.7, segura: b.segura ? `<image href="ilustras/${b.segura}.png" x="-60" y="-60" width="120" height="120"/>` : '' }, t)}</div>`;
 }
 })();

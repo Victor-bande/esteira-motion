@@ -26,6 +26,9 @@ Todas aceitam `o = { w, o, d, a, som }`: `w` = palavra em que entra, `o` = palav
   - Mecanismo: `dentro` (corpo por dentro).
   - Pacote pintado: `img('nome')` (se existir `stickman/cenarios/nome.jpg`).
 - `boneco({ x, y: pés, w, acc:'laco', poses:[[palavra|null, pose, expr], …], ciclo:'andando'|'correndo', mover:[x0,x1,'palavraFim'], segura:'ilustração', vira })`.
+  - **Corpo/rosto que muda com a fala:** `barriga: 1` ou `[de, para, 'palavra']` (gordinho, estufada) · `inchado: [0, 1, 'palavra']` (rosto inchado) · `marcas: ['espinhas']`.
+  - **Fundo sempre cheio** (correção 27/11): nunca `liso` claro; usar cenário ou raios/pontos coloridos.
+  - **Roteiro primeiro** (✋ G2): falas + cena prevista numa tabela no ROTEIRO.md; motion só depois do ok.
   - **Poses:** em_pe, falando, apontando, apontando_e, acenando, pensando, mao_queixo, mao_testa, cansado, triste, comemorando, bracos_abertos, bracos_cruzados, maos_cintura, segurando, oferecendo, dor_barriga, assustado, encolhido, sentado, sentado_triste, deitado, levantando_peso, bebendo, pulando.
   - **Expressões:** neutro, feliz, muito_feliz, apaixonado, confiante, triste, chorando, bravo, surpreso, assustado, cansado, pensativo, dor, nojo, duvida, dormindo, tonto, satisfeito.
   - Ver tudo de uma vez: abrir `stickman/folha-modelo.html`.

@@ -1,0 +1,1030 @@
+[
+ {
+  "quem": "malu",
+  "frase": "Repara: quando a sua calça aperta assim na cintura,",
+  "inicio": 0.049,
+  "fim": 2.619,
+  "palavras": [
+   {
+    "p": "Repara:",
+    "inicio": 0.049
+   },
+   {
+    "p": "quando",
+    "inicio": 0.744
+   },
+   {
+    "p": "a",
+    "inicio": 0.898
+   },
+   {
+    "p": "sua",
+    "inicio": 0.921
+   },
+   {
+    "p": "calça",
+    "inicio": 1.086
+   },
+   {
+    "p": "aperta",
+    "inicio": 1.405
+   },
+   {
+    "p": "assim",
+    "inicio": 1.735
+   },
+   {
+    "p": "na",
+    "inicio": 1.994
+   },
+   {
+    "p": "cintura,",
+    "inicio": 2.089
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "o seu rosto acorda inchado assim,",
+  "inicio": 2.773,
+  "fim": 4.376,
+  "palavras": [
+   {
+    "p": "o",
+    "inicio": 2.773
+   },
+   {
+    "p": "seu",
+    "inicio": 2.796
+   },
+   {
+    "p": "rosto",
+    "inicio": 2.985
+   },
+   {
+    "p": "acorda",
+    "inicio": 3.292
+   },
+   {
+    "p": "inchado",
+    "inicio": 3.61
+   },
+   {
+    "p": "assim,",
+    "inicio": 4.058
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "você dorme oito horas e acorda exausta,",
+  "inicio": 4.589,
+  "fim": 6.582,
+  "palavras": [
+   {
+    "p": "você",
+    "inicio": 4.589
+   },
+   {
+    "p": "dorme",
+    "inicio": 4.754
+   },
+   {
+    "p": "oito",
+    "inicio": 5.025
+   },
+   {
+    "p": "horas",
+    "inicio": 5.355
+   },
+   {
+    "p": "e",
+    "inicio": 5.65
+   },
+   {
+    "p": "acorda",
+    "inicio": 5.768
+   },
+   {
+    "p": "exausta,",
+    "inicio": 6.075
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "corre pro banheiro depois de comer qualquer coisa,",
+  "inicio": 6.758,
+  "fim": 8.976,
+  "palavras": [
+   {
+    "p": "corre",
+    "inicio": 6.758
+   },
+   {
+    "p": "pro",
+    "inicio": 6.959
+   },
+   {
+    "p": "banheiro",
+    "inicio": 7.089
+   },
+   {
+    "p": "depois",
+    "inicio": 7.513
+   },
+   {
+    "p": "de",
+    "inicio": 7.784
+   },
+   {
+    "p": "comer",
+    "inicio": 7.843
+   },
+   {
+    "p": "qualquer",
+    "inicio": 8.103
+   },
+   {
+    "p": "coisa,",
+    "inicio": 8.563
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "tem espinha que não some,",
+  "inicio": 9.117,
+  "fim": 10.249,
+  "palavras": [
+   {
+    "p": "tem",
+    "inicio": 9.117
+   },
+   {
+    "p": "espinha",
+    "inicio": 9.223
+   },
+   {
+    "p": "que",
+    "inicio": 9.553
+   },
+   {
+    "p": "não",
+    "inicio": 9.648
+   },
+   {
+    "p": "some,",
+    "inicio": 9.848
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "sente uma vontade louca de doce,",
+  "inicio": 10.45,
+  "fim": 12.053,
+  "palavras": [
+   {
+    "p": "sente",
+    "inicio": 10.45
+   },
+   {
+    "p": "uma",
+    "inicio": 10.697
+   },
+   {
+    "p": "vontade",
+    "inicio": 10.791
+   },
+   {
+    "p": "louca",
+    "inicio": 11.204
+   },
+   {
+    "p": "de",
+    "inicio": 11.546
+   },
+   {
+    "p": "doce,",
+    "inicio": 11.641
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "e fica estufada depois de comer até uma banana.",
+  "inicio": 12.207,
+  "fim": 14.412,
+  "palavras": [
+   {
+    "p": "e",
+    "inicio": 12.207
+   },
+   {
+    "p": "fica",
+    "inicio": 12.277
+   },
+   {
+    "p": "estufada",
+    "inicio": 12.478
+   },
+   {
+    "p": "depois",
+    "inicio": 13.091
+   },
+   {
+    "p": "de",
+    "inicio": 13.35
+   },
+   {
+    "p": "comer",
+    "inicio": 13.421
+   },
+   {
+    "p": "até",
+    "inicio": 13.704
+   },
+   {
+    "p": "uma",
+    "inicio": 13.881
+   },
+   {
+    "p": "banana.",
+    "inicio": 13.975
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Presta atenção, porque tudo isso pode ser sinal de uma coisa só:",
+  "inicio": 14.729,
+  "fim": 17.866,
+  "palavras": [
+   {
+    "p": "Presta",
+    "inicio": 14.729
+   },
+   {
+    "p": "atenção,",
+    "inicio": 14.989
+   },
+   {
+    "p": "porque",
+    "inicio": 15.649
+   },
+   {
+    "p": "tudo",
+    "inicio": 15.85
+   },
+   {
+    "p": "isso",
+    "inicio": 16.145
+   },
+   {
+    "p": "pode",
+    "inicio": 16.369
+   },
+   {
+    "p": "ser",
+    "inicio": 16.546
+   },
+   {
+    "p": "sinal",
+    "inicio": 16.687
+   },
+   {
+    "p": "de",
+    "inicio": 17.088
+   },
+   {
+    "p": "uma",
+    "inicio": 17.159
+   },
+   {
+    "p": "coisa",
+    "inicio": 17.3
+   },
+   {
+    "p": "só:",
+    "inicio": 17.548
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "o seu corpo vivendo no modo estresse, com o cortisol, o hormônio do estresse, lá em cima.",
+  "inicio": 18.149,
+  "fim": 23.067,
+  "palavras": [
+   {
+    "p": "o",
+    "inicio": 18.149
+   },
+   {
+    "p": "seu",
+    "inicio": 18.173
+   },
+   {
+    "p": "corpo",
+    "inicio": 18.362
+   },
+   {
+    "p": "vivendo",
+    "inicio": 18.704
+   },
+   {
+    "p": "no",
+    "inicio": 19.163
+   },
+   {
+    "p": "modo",
+    "inicio": 19.234
+   },
+   {
+    "p": "estresse,",
+    "inicio": 19.458
+   },
+   {
+    "p": "com",
+    "inicio": 20.178
+   },
+   {
+    "p": "o",
+    "inicio": 20.296
+   },
+   {
+    "p": "cortisol,",
+    "inicio": 20.331
+   },
+   {
+    "p": "o",
+    "inicio": 21.109
+   },
+   {
+    "p": "hormônio",
+    "inicio": 21.156
+   },
+   {
+    "p": "do",
+    "inicio": 21.628
+   },
+   {
+    "p": "estresse,",
+    "inicio": 21.687
+   },
+   {
+    "p": "lá",
+    "inicio": 22.43
+   },
+   {
+    "p": "em",
+    "inicio": 22.607
+   },
+   {
+    "p": "cima.",
+    "inicio": 22.678
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É aquele cansaço que não passa, a tensão o dia inteiro e um sono que não descansa.",
+  "inicio": 23.408,
+  "fim": 27.7,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 23.408
+   },
+   {
+    "p": "aquele",
+    "inicio": 23.514
+   },
+   {
+    "p": "cansaço",
+    "inicio": 23.774
+   },
+   {
+    "p": "que",
+    "inicio": 24.269
+   },
+   {
+    "p": "não",
+    "inicio": 24.34
+   },
+   {
+    "p": "passa,",
+    "inicio": 24.493
+   },
+   {
+    "p": "a",
+    "inicio": 25.059
+   },
+   {
+    "p": "tensão",
+    "inicio": 25.13
+   },
+   {
+    "p": "o",
+    "inicio": 25.531
+   },
+   {
+    "p": "dia",
+    "inicio": 25.601
+   },
+   {
+    "p": "inteiro",
+    "inicio": 25.755
+   },
+   {
+    "p": "e",
+    "inicio": 26.238
+   },
+   {
+    "p": "um",
+    "inicio": 26.309
+   },
+   {
+    "p": "sono",
+    "inicio": 26.392
+   },
+   {
+    "p": "que",
+    "inicio": 26.792
+   },
+   {
+    "p": "não",
+    "inicio": 26.899
+   },
+   {
+    "p": "descansa.",
+    "inicio": 27.123
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E pesquisando, eu descobri um mineral que participa de mais de trezentas reações no corpo, e que muita gente não consome o suficiente: o magnésio.",
+  "inicio": 28.02,
+  "fim": 36.215,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 28.02
+   },
+   {
+    "p": "pesquisando,",
+    "inicio": 28.079
+   },
+   {
+    "p": "eu",
+    "inicio": 28.939
+   },
+   {
+    "p": "descobri",
+    "inicio": 29.022
+   },
+   {
+    "p": "um",
+    "inicio": 29.435
+   },
+   {
+    "p": "mineral",
+    "inicio": 29.482
+   },
+   {
+    "p": "que",
+    "inicio": 29.977
+   },
+   {
+    "p": "participa",
+    "inicio": 30.06
+   },
+   {
+    "p": "de",
+    "inicio": 30.59
+   },
+   {
+    "p": "mais",
+    "inicio": 30.673
+   },
+   {
+    "p": "de",
+    "inicio": 30.968
+   },
+   {
+    "p": "trezentas",
+    "inicio": 31.097
+   },
+   {
+    "p": "reações",
+    "inicio": 31.675
+   },
+   {
+    "p": "no",
+    "inicio": 32.206
+   },
+   {
+    "p": "corpo,",
+    "inicio": 32.336
+   },
+   {
+    "p": "e",
+    "inicio": 32.855
+   },
+   {
+    "p": "que",
+    "inicio": 32.925
+   },
+   {
+    "p": "muita",
+    "inicio": 33.043
+   },
+   {
+    "p": "gente",
+    "inicio": 33.468
+   },
+   {
+    "p": "não",
+    "inicio": 33.821
+   },
+   {
+    "p": "consome",
+    "inicio": 34.093
+   },
+   {
+    "p": "o",
+    "inicio": 34.564
+   },
+   {
+    "p": "suficiente:",
+    "inicio": 34.6
+   },
+   {
+    "p": "o",
+    "inicio": 35.52
+   },
+   {
+    "p": "magnésio.",
+    "inicio": 35.579
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Ele ajuda no funcionamento dos músculos, do sistema nervoso e na produção de energia.",
+  "inicio": 36.546,
+  "fim": 41.204,
+  "palavras": [
+   {
+    "p": "Ele",
+    "inicio": 36.546
+   },
+   {
+    "p": "ajuda",
+    "inicio": 36.699
+   },
+   {
+    "p": "no",
+    "inicio": 37.159
+   },
+   {
+    "p": "funcionamento",
+    "inicio": 37.23
+   },
+   {
+    "p": "dos",
+    "inicio": 37.855
+   },
+   {
+    "p": "músculos,",
+    "inicio": 38.02
+   },
+   {
+    "p": "do",
+    "inicio": 38.727
+   },
+   {
+    "p": "sistema",
+    "inicio": 38.798
+   },
+   {
+    "p": "nervoso",
+    "inicio": 39.187
+   },
+   {
+    "p": "e",
+    "inicio": 39.895
+   },
+   {
+    "p": "na",
+    "inicio": 39.965
+   },
+   {
+    "p": "produção",
+    "inicio": 40.083
+   },
+   {
+    "p": "de",
+    "inicio": 40.59
+   },
+   {
+    "p": "energia.",
+    "inicio": 40.661
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E o mais completo que eu achei foi esse aqui: três tipos de magnésio numa cápsula só.",
+  "inicio": 41.534,
+  "fim": 45.897,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 41.534
+   },
+   {
+    "p": "o",
+    "inicio": 41.628
+   },
+   {
+    "p": "mais",
+    "inicio": 41.663
+   },
+   {
+    "p": "completo",
+    "inicio": 41.876
+   },
+   {
+    "p": "que",
+    "inicio": 42.359
+   },
+   {
+    "p": "eu",
+    "inicio": 42.406
+   },
+   {
+    "p": "achei",
+    "inicio": 42.454
+   },
+   {
+    "p": "foi",
+    "inicio": 42.713
+   },
+   {
+    "p": "esse",
+    "inicio": 42.902
+   },
+   {
+    "p": "aqui:",
+    "inicio": 43.055
+   },
+   {
+    "p": "três",
+    "inicio": 43.597
+   },
+   {
+    "p": "tipos",
+    "inicio": 43.88
+   },
+   {
+    "p": "de",
+    "inicio": 44.27
+   },
+   {
+    "p": "magnésio",
+    "inicio": 44.352
+   },
+   {
+    "p": "numa",
+    "inicio": 44.954
+   },
+   {
+    "p": "cápsula",
+    "inicio": 45.154
+   },
+   {
+    "p": "só.",
+    "inicio": 45.602
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "O quelato, que o corpo absorve bem, o dimalato, ligado à energia do dia a dia, e o treonato, o tipo mais estudado pro cérebro.",
+  "inicio": 46.228,
+  "fim": 53.657,
+  "palavras": [
+   {
+    "p": "O",
+    "inicio": 46.228
+   },
+   {
+    "p": "quelato,",
+    "inicio": 46.31
+   },
+   {
+    "p": "que",
+    "inicio": 47.03
+   },
+   {
+    "p": "o",
+    "inicio": 47.1
+   },
+   {
+    "p": "corpo",
+    "inicio": 47.171
+   },
+   {
+    "p": "absorve",
+    "inicio": 47.442
+   },
+   {
+    "p": "bem,",
+    "inicio": 47.973
+   },
+   {
+    "p": "o",
+    "inicio": 48.457
+   },
+   {
+    "p": "dimalato,",
+    "inicio": 48.516
+   },
+   {
+    "p": "ligado",
+    "inicio": 49.306
+   },
+   {
+    "p": "à",
+    "inicio": 49.624
+   },
+   {
+    "p": "energia",
+    "inicio": 49.648
+   },
+   {
+    "p": "do",
+    "inicio": 50.108
+   },
+   {
+    "p": "dia",
+    "inicio": 50.202
+   },
+   {
+    "p": "a",
+    "inicio": 50.391
+   },
+   {
+    "p": "dia,",
+    "inicio": 50.414
+   },
+   {
+    "p": "e",
+    "inicio": 50.945
+   },
+   {
+    "p": "o",
+    "inicio": 51.027
+   },
+   {
+    "p": "treonato,",
+    "inicio": 51.098
+   },
+   {
+    "p": "o",
+    "inicio": 51.841
+   },
+   {
+    "p": "tipo",
+    "inicio": 51.9
+   },
+   {
+    "p": "mais",
+    "inicio": 52.171
+   },
+   {
+    "p": "estudado",
+    "inicio": 52.454
+   },
+   {
+    "p": "pro",
+    "inicio": 52.961
+   },
+   {
+    "p": "cérebro.",
+    "inicio": 53.103
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Em vez de três potes separados, é tudo num só, sem açúcar e sem glúten.",
+  "inicio": 53.987,
+  "fim": 58.373,
+  "palavras": [
+   {
+    "p": "Em",
+    "inicio": 53.987
+   },
+   {
+    "p": "vez",
+    "inicio": 54.163
+   },
+   {
+    "p": "de",
+    "inicio": 54.399
+   },
+   {
+    "p": "três",
+    "inicio": 54.529
+   },
+   {
+    "p": "potes",
+    "inicio": 54.812
+   },
+   {
+    "p": "separados,",
+    "inicio": 55.107
+   },
+   {
+    "p": "é",
+    "inicio": 55.921
+   },
+   {
+    "p": "tudo",
+    "inicio": 55.956
+   },
+   {
+    "p": "num",
+    "inicio": 56.263
+   },
+   {
+    "p": "só,",
+    "inicio": 56.38
+   },
+   {
+    "p": "sem",
+    "inicio": 56.899
+   },
+   {
+    "p": "açúcar",
+    "inicio": 57.112
+   },
+   {
+    "p": "e",
+    "inicio": 57.63
+   },
+   {
+    "p": "sem",
+    "inicio": 57.678
+   },
+   {
+    "p": "glúten.",
+    "inicio": 57.925
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E já passou de dezoito mil vendidos, com nota quatro vírgula oito.",
+  "inicio": 58.703,
+  "fim": 62.63,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 58.703
+   },
+   {
+    "p": "já",
+    "inicio": 58.774
+   },
+   {
+    "p": "passou",
+    "inicio": 58.986
+   },
+   {
+    "p": "de",
+    "inicio": 59.469
+   },
+   {
+    "p": "dezoito",
+    "inicio": 59.575
+   },
+   {
+    "p": "mil",
+    "inicio": 60.059
+   },
+   {
+    "p": "vendidos,",
+    "inicio": 60.283
+   },
+   {
+    "p": "com",
+    "inicio": 61.038
+   },
+   {
+    "p": "nota",
+    "inicio": 61.179
+   },
+   {
+    "p": "quatro",
+    "inicio": 61.45
+   },
+   {
+    "p": "vírgula",
+    "inicio": 61.91
+   },
+   {
+    "p": "oito.",
+    "inicio": 62.3
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É o magnésio três em um da Blasmax. Se o carrinho laranja ainda aparecer aqui embaixo, toca e confere.",
+  "inicio": 62.96,
+  "fim": 69.222,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 62.96
+   },
+   {
+    "p": "o",
+    "inicio": 63.066
+   },
+   {
+    "p": "magnésio",
+    "inicio": 63.09
+   },
+   {
+    "p": "três",
+    "inicio": 63.75
+   },
+   {
+    "p": "em",
+    "inicio": 64.045
+   },
+   {
+    "p": "um",
+    "inicio": 64.281
+   },
+   {
+    "p": "da",
+    "inicio": 64.387
+   },
+   {
+    "p": "Blasmax.",
+    "inicio": 64.493
+   },
+   {
+    "p": "Se",
+    "inicio": 65.59
+   },
+   {
+    "p": "o",
+    "inicio": 65.755
+   },
+   {
+    "p": "carrinho",
+    "inicio": 65.79
+   },
+   {
+    "p": "laranja",
+    "inicio": 66.179
+   },
+   {
+    "p": "ainda",
+    "inicio": 66.651
+   },
+   {
+    "p": "aparecer",
+    "inicio": 66.851
+   },
+   {
+    "p": "aqui",
+    "inicio": 67.229
+   },
+   {
+    "p": "embaixo,",
+    "inicio": 67.429
+   },
+   {
+    "p": "toca",
+    "inicio": 68.125
+   },
+   {
+    "p": "e",
+    "inicio": 68.561
+   },
+   {
+    "p": "confere.",
+    "inicio": 68.632
+   }
+  ]
+ }
+]
