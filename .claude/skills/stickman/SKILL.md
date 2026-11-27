@@ -48,7 +48,7 @@ Todas aceitam `o = { w, o, d, a, som }`: `w` = palavra em que entra, `o` = palav
 
 ## CTA (dono 28/11)
 - **Produto no CTA: centralizado e grande** (x ≈ 300–780, ~420 × 560), bem visível; o bonequinho do lado esquerdo, menor, sem cobrir o pote.
-- **Fechamento racional** (deseja na emoção, compra na razão): sempre terminar com o empurrão lógico. Ex.: preço de Black Friday "quase pela metade" e "já tá acabando, é só nesse período" (sem data); "pelo preço, vale testar: na melhor das hipóteses você sente os benefícios"; "nesse link tá quase metade do preço"; "se você sair desse vídeo, talvez não ache mais esse link". ⚠️ Fala de preço/promoção envelhece (REGRAS 8): na Black Friday vale (decisão do dono); depois dela, trocar o CTA e re-renderizar.
+- **Fechamento racional** (deseja na emoção, compra na razão): sempre terminar com o empurrão lógico. Ex.: "nesse link tá quase pela metade do preço" e "esse preço não dura muito" — **nunca citar Black Friday nem data** (o vídeo fica no perfil para sempre); "pelo preço, vale testar: na melhor das hipóteses você sente os benefícios"; "nesse link tá quase metade do preço"; "se você sair desse vídeo, talvez não ache mais esse link". ⚠️ Fala de preço/promoção envelhece (REGRAS 8): na Black Friday vale (decisão do dono); depois dela, trocar o CTA e re-renderizar.
 - **Conferir na folha de checagem: nenhuma pose com braço a mais** (as 2 "apontando" foram corrigidas em 28/11).
 
 ## Layout (1080 × 1920)
