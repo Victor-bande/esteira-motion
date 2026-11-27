@@ -18,3 +18,6 @@ v1 · 20/11/2026 · orquestrador. Toda correção do dono entra aqui. Repetiu 2 
 | 22/11/2026 | motion | Visual 2D escuro e chapado, "muito feio", pouco desenho, tela vazia | Estilo REF-02: fundo claro + manchas pastel, ilustração 3D colorida a cada ~1 s, legenda com palavra amarela, ocupando a zona útil | → promovida (KIT-VISUAL v2, template v3) |
 | 22/11/2026 | voz | Kokoro "robótica e sem graça" | Voz neural Microsoft (Thalita), texto inteiro de uma vez, tempo real por palavra | → promovida (VOZ.md v2) |
 | 27/11/2026 | orquestrador | Venda no meio do vídeo; ferramentas pagas sugeridas pelo LicbeAI (Clippie, Seedance, VidIQ) | Formato STICKMAN: educa primeiro, produto é o meio e entra no fim; só ferramentas grátis (Claude, voz neural, motor em código; Nano Banana/Flow só se preciso) | → promovida (FORMATO.md, skill stickman, CLAUDE.md) |
+| 27/11/2026 | stickman | Vídeo 1 com cara de amador: fundo claro/branco, pouco acabamento | Fundo sempre cheio, cenário ou cor (nunca liso claro); mais acabamento, parecido com REF-S01/S02 | pendente |
+| 27/11/2026 | stickman | Bonequinho sempre igual | Variações de corpo e rosto conforme a fala (gordinho, barriga inchada, espinhas, cabelo…) | pendente |
+| 27/11/2026 | stickman | Motion antes do roteiro aprovado | Sempre roteiro primeiro (✋ G2), como no master prompt; depois motion | pendente |
