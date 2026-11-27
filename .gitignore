@@ -9,3 +9,5 @@ node_modules/
 
 # voz de trabalho do motion (a versão .mp3 é a que fica)
 05-VIDEOS/**/motion/voz.wav
+05-VIDEOS/**/motion/voz-sfx.wav
+05-VIDEOS/**/motion/eventos.json

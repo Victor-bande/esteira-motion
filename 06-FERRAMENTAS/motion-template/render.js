@@ -18,8 +18,13 @@ const { chromium } = require('playwright'); const { execFileSync } = require('ch
     await p.evaluate(x => window.render(x), i / fps);
     await p.screenshot({ path: path.join(tmp, String(i).padStart(5, '0') + '.jpg'), type: 'jpeg', quality: 90 });
     if (k === 0 && i % 300 === 0) console.log(`${i}/${n} · ${((Date.now() - t0) / 1000).toFixed(0)}s`); } }));
+  // trilha de efeitos (só no template stickman, que expõe window.eventos)
+  let audio = path.join(dir, 'voz.wav');
+  const ev = await pags[0][0].evaluate(() => window.eventos ? window.eventos() : null);
+  if (ev && !process.env.SEM_SFX) { fs.writeFileSync(path.join(dir, 'eventos.json'), JSON.stringify(ev)); audio = path.join(dir, 'voz-sfx.wav');
+    execFileSync('python3', [path.join(__dirname, 'stickman', 'sfx.py'), path.join(dir, 'voz.wav'), path.join(dir, 'eventos.json'), audio], { stdio: 'inherit' }); }
   await b.close();
-  execFileSync('ffmpeg', ['-v','error','-y','-framerate',String(fps),'-i',path.join(tmp,'%05d.jpg'),'-i',path.join(dir,'voz.wav'),
+  execFileSync('ffmpeg', ['-v','error','-y','-framerate',String(fps),'-i',path.join(tmp,'%05d.jpg'),'-i',audio,
     '-c:v','libx264','-pix_fmt','yuv420p','-preset','medium','-crf','21','-c:a','aac','-b:a','160k','-shortest','-movflags','+faststart', out]);
   fs.rmSync(tmp, { recursive: true, force: true }); console.log('ok', out, n, 'quadros', ((Date.now() - t0) / 1000).toFixed(0) + 's');
 })();

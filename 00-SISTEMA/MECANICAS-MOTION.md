@@ -10,3 +10,6 @@ v1 · 20/11/2026 · orquestrador. Cresce a cada vídeo: toda tradução aprovada
 | Dois potes (um no fim, um chegando) | recompra | 2 fotos do pote + barra "FINALZINHO" vermelha + "📦 CHEGANDO" | V-C01-CR-E05-A1-G1 | testada 22/11 |
 | Ilustração por frase (REF-02) | prende o olho | Fluent 3D grande na palavra + bonequinho reagindo + manchas pastel | V-C01-CR-E05-A1-G2 | testada 22/11 |
 | "força indo embora" | dor que dá medo | medidor com ponteiro caindo do verde ao vermelho + gráfico descendo | V-C01-CR-E05-A1-G2 | testada 22/11 |
+| Corte por dentro / analogia (REF-S02, S04) | entendimento | fundo `dentro` + ilustração grande + seta + etiqueta | V-C01-CR-E09-A1-G1 | testada 27/11 |
+| ✕ no método que falha · ✓ na solução · $$$ na alternativa cara | contraste | `etq(tipo:'nao'/'sim')`, `xis`, `ok`, `preco` com efeito sonoro | V-C01-CR-E09-A1-G1 | testada 27/11 |
+| Personagem vive o problema (REF-S05) | identificação | bonequinho com poses/expressões trocando na palavra | V-C01-CR-E09-A1-G1 | testada 27/11 |

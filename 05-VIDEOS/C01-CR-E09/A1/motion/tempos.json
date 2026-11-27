@@ -1,0 +1,922 @@
+[
+ {
+  "quem": "malu",
+  "frase": "Você caminha todo dia, come direitinho, e mesmo assim sente as pernas cada vez mais fracas.",
+  "inicio": 0.048,
+  "fim": 5.307,
+  "palavras": [
+   {
+    "p": "Você",
+    "inicio": 0.048
+   },
+   {
+    "p": "caminha",
+    "inicio": 0.248
+   },
+   {
+    "p": "todo",
+    "inicio": 0.59
+   },
+   {
+    "p": "dia,",
+    "inicio": 0.873
+   },
+   {
+    "p": "come",
+    "inicio": 1.404
+   },
+   {
+    "p": "direitinho,",
+    "inicio": 1.628
+   },
+   {
+    "p": "e",
+    "inicio": 2.465
+   },
+   {
+    "p": "mesmo",
+    "inicio": 2.524
+   },
+   {
+    "p": "assim",
+    "inicio": 2.854
+   },
+   {
+    "p": "sente",
+    "inicio": 3.185
+   },
+   {
+    "p": "as",
+    "inicio": 3.491
+   },
+   {
+    "p": "pernas",
+    "inicio": 3.597
+   },
+   {
+    "p": "cada",
+    "inicio": 3.939
+   },
+   {
+    "p": "vez",
+    "inicio": 4.246
+   },
+   {
+    "p": "mais",
+    "inicio": 4.517
+   },
+   {
+    "p": "fracas.",
+    "inicio": 4.765
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Sabe por quê?",
+  "inicio": 5.637,
+  "fim": 6.498,
+  "palavras": [
+   {
+    "p": "Sabe",
+    "inicio": 5.637
+   },
+   {
+    "p": "por",
+    "inicio": 6.026
+   },
+   {
+    "p": "quê?",
+    "inicio": 6.226
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Porque depois dos trinta, o corpo perde um pouquinho de músculo a cada ano, até quem é ativo.",
+  "inicio": 6.816,
+  "fim": 11.509,
+  "palavras": [
+   {
+    "p": "Porque",
+    "inicio": 6.816
+   },
+   {
+    "p": "depois",
+    "inicio": 7.028
+   },
+   {
+    "p": "dos",
+    "inicio": 7.311
+   },
+   {
+    "p": "trinta,",
+    "inicio": 7.5
+   },
+   {
+    "p": "o",
+    "inicio": 8.113
+   },
+   {
+    "p": "corpo",
+    "inicio": 8.184
+   },
+   {
+    "p": "perde",
+    "inicio": 8.526
+   },
+   {
+    "p": "um",
+    "inicio": 8.774
+   },
+   {
+    "p": "pouquinho",
+    "inicio": 8.833
+   },
+   {
+    "p": "de",
+    "inicio": 9.245
+   },
+   {
+    "p": "músculo",
+    "inicio": 9.34
+   },
+   {
+    "p": "a",
+    "inicio": 9.729
+   },
+   {
+    "p": "cada",
+    "inicio": 9.788
+   },
+   {
+    "p": "ano,",
+    "inicio": 10.071
+   },
+   {
+    "p": "até",
+    "inicio": 10.554
+   },
+   {
+    "p": "quem",
+    "inicio": 10.755
+   },
+   {
+    "p": "é",
+    "inicio": 10.955
+   },
+   {
+    "p": "ativo.",
+    "inicio": 11.014
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E o músculo precisa de uma reserva de energia rápida pra fazer força, chamada creatina.",
+  "inicio": 11.84,
+  "fim": 16.852,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 11.84
+   },
+   {
+    "p": "o",
+    "inicio": 11.958
+   },
+   {
+    "p": "músculo",
+    "inicio": 11.994
+   },
+   {
+    "p": "precisa",
+    "inicio": 12.489
+   },
+   {
+    "p": "de",
+    "inicio": 12.89
+   },
+   {
+    "p": "uma",
+    "inicio": 12.949
+   },
+   {
+    "p": "reserva",
+    "inicio": 13.043
+   },
+   {
+    "p": "de",
+    "inicio": 13.55
+   },
+   {
+    "p": "energia",
+    "inicio": 13.597
+   },
+   {
+    "p": "rápida",
+    "inicio": 14.01
+   },
+   {
+    "p": "pra",
+    "inicio": 14.517
+   },
+   {
+    "p": "fazer",
+    "inicio": 14.635
+   },
+   {
+    "p": "força,",
+    "inicio": 14.918
+   },
+   {
+    "p": "chamada",
+    "inicio": 15.614
+   },
+   {
+    "p": "creatina.",
+    "inicio": 16.074
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Ela funciona como uma bateria dentro do músculo.",
+  "inicio": 17.193,
+  "fim": 19.87,
+  "palavras": [
+   {
+    "p": "Ela",
+    "inicio": 17.193
+   },
+   {
+    "p": "funciona",
+    "inicio": 17.406
+   },
+   {
+    "p": "como",
+    "inicio": 18.007
+   },
+   {
+    "p": "uma",
+    "inicio": 18.196
+   },
+   {
+    "p": "bateria",
+    "inicio": 18.302
+   },
+   {
+    "p": "dentro",
+    "inicio": 18.856
+   },
+   {
+    "p": "do",
+    "inicio": 19.304
+   },
+   {
+    "p": "músculo.",
+    "inicio": 19.399
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E com menos músculo e bateria baixa, subir escada e carregar sacola começam a pesar.",
+  "inicio": 20.202,
+  "fim": 24.99,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 20.202
+   },
+   {
+    "p": "com",
+    "inicio": 20.284
+   },
+   {
+    "p": "menos",
+    "inicio": 20.45
+   },
+   {
+    "p": "músculo",
+    "inicio": 20.768
+   },
+   {
+    "p": "e",
+    "inicio": 21.204
+   },
+   {
+    "p": "bateria",
+    "inicio": 21.24
+   },
+   {
+    "p": "baixa,",
+    "inicio": 21.629
+   },
+   {
+    "p": "subir",
+    "inicio": 22.254
+   },
+   {
+    "p": "escada",
+    "inicio": 22.549
+   },
+   {
+    "p": "e",
+    "inicio": 23.233
+   },
+   {
+    "p": "carregar",
+    "inicio": 23.291
+   },
+   {
+    "p": "sacola",
+    "inicio": 23.704
+   },
+   {
+    "p": "começam",
+    "inicio": 24.152
+   },
+   {
+    "p": "a",
+    "inicio": 24.6
+   },
+   {
+    "p": "pesar.",
+    "inicio": 24.636
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Aí você tenta compensar comendo mais carne, só que pra tirar cinco gramas de creatina da comida, seria quase um quilo de carne por dia.",
+  "inicio": 25.319,
+  "fim": 32.454,
+  "palavras": [
+   {
+    "p": "Aí",
+    "inicio": 25.319
+   },
+   {
+    "p": "você",
+    "inicio": 25.59
+   },
+   {
+    "p": "tenta",
+    "inicio": 25.779
+   },
+   {
+    "p": "compensar",
+    "inicio": 26.015
+   },
+   {
+    "p": "comendo",
+    "inicio": 26.522
+   },
+   {
+    "p": "mais",
+    "inicio": 26.852
+   },
+   {
+    "p": "carne,",
+    "inicio": 27.1
+   },
+   {
+    "p": "só",
+    "inicio": 27.689
+   },
+   {
+    "p": "que",
+    "inicio": 27.819
+   },
+   {
+    "p": "pra",
+    "inicio": 27.902
+   },
+   {
+    "p": "tirar",
+    "inicio": 28.031
+   },
+   {
+    "p": "cinco",
+    "inicio": 28.303
+   },
+   {
+    "p": "gramas",
+    "inicio": 28.715
+   },
+   {
+    "p": "de",
+    "inicio": 29.034
+   },
+   {
+    "p": "creatina",
+    "inicio": 29.14
+   },
+   {
+    "p": "da",
+    "inicio": 29.659
+   },
+   {
+    "p": "comida,",
+    "inicio": 29.753
+   },
+   {
+    "p": "seria",
+    "inicio": 30.39
+   },
+   {
+    "p": "quase",
+    "inicio": 30.649
+   },
+   {
+    "p": "um",
+    "inicio": 31.05
+   },
+   {
+    "p": "quilo",
+    "inicio": 31.156
+   },
+   {
+    "p": "de",
+    "inicio": 31.451
+   },
+   {
+    "p": "carne",
+    "inicio": 31.546
+   },
+   {
+    "p": "por",
+    "inicio": 31.864
+   },
+   {
+    "p": "dia.",
+    "inicio": 32.088
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Finalmente, entra a creatina em pó. E essa aqui tem cinco gramas por dose, com GABA e L-teanina no mesmo pote.",
+  "inicio": 32.783,
+  "fim": 39.682,
+  "palavras": [
+   {
+    "p": "Finalmente,",
+    "inicio": 32.783
+   },
+   {
+    "p": "entra",
+    "inicio": 33.715
+   },
+   {
+    "p": "a",
+    "inicio": 33.998
+   },
+   {
+    "p": "creatina",
+    "inicio": 34.033
+   },
+   {
+    "p": "em",
+    "inicio": 34.505
+   },
+   {
+    "p": "pó.",
+    "inicio": 34.623
+   },
+   {
+    "p": "E",
+    "inicio": 35.189
+   },
+   {
+    "p": "essa",
+    "inicio": 35.284
+   },
+   {
+    "p": "aqui",
+    "inicio": 35.52
+   },
+   {
+    "p": "tem",
+    "inicio": 35.779
+   },
+   {
+    "p": "cinco",
+    "inicio": 35.92
+   },
+   {
+    "p": "gramas",
+    "inicio": 36.298
+   },
+   {
+    "p": "por",
+    "inicio": 36.605
+   },
+   {
+    "p": "dose,",
+    "inicio": 36.77
+   },
+   {
+    "p": "com",
+    "inicio": 37.347
+   },
+   {
+    "p": "GABA",
+    "inicio": 37.524
+   },
+   {
+    "p": "e",
+    "inicio": 37.996
+   },
+   {
+    "p": "L-teanina",
+    "inicio": 38.09
+   },
+   {
+    "p": "no",
+    "inicio": 38.786
+   },
+   {
+    "p": "mesmo",
+    "inicio": 38.88
+   },
+   {
+    "p": "pote.",
+    "inicio": 39.234
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "A creatina é um dos suplementos mais estudados do mundo, e essa já passou de sessenta mil vendidos.",
+  "inicio": 40.003,
+  "fim": 45.758,
+  "palavras": [
+   {
+    "p": "A",
+    "inicio": 40.003
+   },
+   {
+    "p": "creatina",
+    "inicio": 40.121
+   },
+   {
+    "p": "é",
+    "inicio": 40.934
+   },
+   {
+    "p": "um",
+    "inicio": 41.017
+   },
+   {
+    "p": "dos",
+    "inicio": 41.088
+   },
+   {
+    "p": "suplementos",
+    "inicio": 41.206
+   },
+   {
+    "p": "mais",
+    "inicio": 41.748
+   },
+   {
+    "p": "estudados",
+    "inicio": 42.066
+   },
+   {
+    "p": "do",
+    "inicio": 42.633
+   },
+   {
+    "p": "mundo,",
+    "inicio": 42.798
+   },
+   {
+    "p": "e",
+    "inicio": 43.387
+   },
+   {
+    "p": "essa",
+    "inicio": 43.458
+   },
+   {
+    "p": "já",
+    "inicio": 43.706
+   },
+   {
+    "p": "passou",
+    "inicio": 43.812
+   },
+   {
+    "p": "de",
+    "inicio": 44.225
+   },
+   {
+    "p": "sessenta",
+    "inicio": 44.319
+   },
+   {
+    "p": "mil",
+    "inicio": 44.908
+   },
+   {
+    "p": "vendidos.",
+    "inicio": 45.097
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "E tem bônus: ela tem gosto de pink lemonade. Parece suco, nada daquele pó sem graça que empelota.",
+  "inicio": 46.074,
+  "fim": 52.382,
+  "palavras": [
+   {
+    "p": "E",
+    "inicio": 46.074
+   },
+   {
+    "p": "tem",
+    "inicio": 46.156
+   },
+   {
+    "p": "bônus:",
+    "inicio": 46.321
+   },
+   {
+    "p": "ela",
+    "inicio": 46.994
+   },
+   {
+    "p": "tem",
+    "inicio": 47.147
+   },
+   {
+    "p": "gosto",
+    "inicio": 47.312
+   },
+   {
+    "p": "de",
+    "inicio": 47.678
+   },
+   {
+    "p": "pink",
+    "inicio": 47.796
+   },
+   {
+    "p": "lemonade.",
+    "inicio": 48.208
+   },
+   {
+    "p": "Parece",
+    "inicio": 49.186
+   },
+   {
+    "p": "suco,",
+    "inicio": 49.575
+   },
+   {
+    "p": "nada",
+    "inicio": 50.283
+   },
+   {
+    "p": "daquele",
+    "inicio": 50.637
+   },
+   {
+    "p": "pó",
+    "inicio": 50.955
+   },
+   {
+    "p": "sem",
+    "inicio": 51.167
+   },
+   {
+    "p": "graça",
+    "inicio": 51.427
+   },
+   {
+    "p": "que",
+    "inicio": 51.804
+   },
+   {
+    "p": "empelota.",
+    "inicio": 51.875
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Dois dosadores num copo de água, mexe e pronto. Dez segundos por dia.",
+  "inicio": 52.712,
+  "fim": 57.559,
+  "palavras": [
+   {
+    "p": "Dois",
+    "inicio": 52.712
+   },
+   {
+    "p": "dosadores",
+    "inicio": 53.031
+   },
+   {
+    "p": "num",
+    "inicio": 53.667
+   },
+   {
+    "p": "copo",
+    "inicio": 53.833
+   },
+   {
+    "p": "de",
+    "inicio": 54.104
+   },
+   {
+    "p": "água,",
+    "inicio": 54.222
+   },
+   {
+    "p": "mexe",
+    "inicio": 54.776
+   },
+   {
+    "p": "e",
+    "inicio": 55.307
+   },
+   {
+    "p": "pronto.",
+    "inicio": 55.377
+   },
+   {
+    "p": "Dez",
+    "inicio": 56.167
+   },
+   {
+    "p": "segundos",
+    "inicio": 56.462
+   },
+   {
+    "p": "por",
+    "inicio": 56.969
+   },
+   {
+    "p": "dia.",
+    "inicio": 57.193
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "Perna forte depois dos quarenta não volta do nada: se mantém todo dia.",
+  "inicio": 57.901,
+  "fim": 61.863,
+  "palavras": [
+   {
+    "p": "Perna",
+    "inicio": 57.901
+   },
+   {
+    "p": "forte",
+    "inicio": 58.208
+   },
+   {
+    "p": "depois",
+    "inicio": 58.644
+   },
+   {
+    "p": "dos",
+    "inicio": 58.927
+   },
+   {
+    "p": "quarenta",
+    "inicio": 59.068
+   },
+   {
+    "p": "não",
+    "inicio": 59.528
+   },
+   {
+    "p": "volta",
+    "inicio": 59.8
+   },
+   {
+    "p": "do",
+    "inicio": 60.106
+   },
+   {
+    "p": "nada:",
+    "inicio": 60.177
+   },
+   {
+    "p": "se",
+    "inicio": 60.719
+   },
+   {
+    "p": "mantém",
+    "inicio": 60.814
+   },
+   {
+    "p": "todo",
+    "inicio": 61.226
+   },
+   {
+    "p": "dia.",
+    "inicio": 61.533
+   }
+  ]
+ },
+ {
+  "quem": "malu",
+  "frase": "É a creatina rosa da Soufit. Se o carrinho laranja ainda aparecer aqui embaixo, toca e dá uma olhada nas avaliações.",
+  "inicio": 62.182,
+  "fim": 69.057,
+  "palavras": [
+   {
+    "p": "É",
+    "inicio": 62.182
+   },
+   {
+    "p": "a",
+    "inicio": 62.311
+   },
+   {
+    "p": "creatina",
+    "inicio": 62.37
+   },
+   {
+    "p": "rosa",
+    "inicio": 62.983
+   },
+   {
+    "p": "da",
+    "inicio": 63.384
+   },
+   {
+    "p": "Soufit.",
+    "inicio": 63.491
+   },
+   {
+    "p": "Se",
+    "inicio": 64.375
+   },
+   {
+    "p": "o",
+    "inicio": 64.564
+   },
+   {
+    "p": "carrinho",
+    "inicio": 64.599
+   },
+   {
+    "p": "laranja",
+    "inicio": 64.965
+   },
+   {
+    "p": "ainda",
+    "inicio": 65.401
+   },
+   {
+    "p": "aparecer",
+    "inicio": 65.613
+   },
+   {
+    "p": "aqui",
+    "inicio": 66.002
+   },
+   {
+    "p": "embaixo,",
+    "inicio": 66.191
+   },
+   {
+    "p": "toca",
+    "inicio": 66.875
+   },
+   {
+    "p": "e",
+    "inicio": 67.359
+   },
+   {
+    "p": "dá",
+    "inicio": 67.453
+   },
+   {
+    "p": "uma",
+    "inicio": 67.606
+   },
+   {
+    "p": "olhada",
+    "inicio": 67.736
+   },
+   {
+    "p": "nas",
+    "inicio": 68.137
+   },
+   {
+    "p": "avaliações.",
+    "inicio": 68.219
+   }
+  ]
+ }
+]

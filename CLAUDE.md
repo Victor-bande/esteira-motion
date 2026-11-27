@@ -5,6 +5,7 @@ v1 · 20/11/2026 · Claude (orquestrador). Este arquivo é lido em toda sessão 
 ## O que a operação faz
 Vídeo de venda para TikTok Shop em **motion** (gráfico em código, com voz de IA). A copy **modela a estrutura de um viral que já vendeu**; o visual sai em motion, não em avatar/Flow.
 Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
+**Formato principal desde 27/11: STICKMAN** (explicativo com bonequinho; ensina o porquê e o produto entra no fim como o meio). Formato: `01-BASE/STICKMAN/FORMATO.md` · skill `stickman` · estruturas E06–E09. Tudo grátis: Claude + voz neural + motor em código (Nano Banana/Flow só se o dono pedir).
 
 ## Leis da venda (do dono · valem em toda copy, toda skill)
 1. **A copy é o trabalho.** O motion só visualiza: dinâmico, prende o olho, segue os princípios de vídeo que vende. Template fixo (`02-CONTAS/{CONTA}/KIT-VISUAL.md`); cada vídeo troca só o conteúdo. Não gastar esforço reinventando visual.
@@ -33,6 +34,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 | **Produto** (Zico) | `dossie-produto` | guarda tudo do produto: dossiê, ângulos, fotos, oferta atemporal | `03-PRODUTOS/` |
 | **Roteiro** (Ronaldinho) | `cardapio-matriz` | encaixa o produto na estrutura: ângulos × ganchos, copy literal | `05-VIDEOS/{MATRIZ}/` |
 | **Motion** | `claude-video` | roteiro aprovado → MP4 pronto para postar | `05-VIDEOS/{MATRIZ}/{ÂNGULO}/` |
+| **Stickman** | `stickman` | tema + produto + estrutura E06–E09 → roteiro, voz, cenas do bonequinho, MP4 no Drive | `05-VIDEOS/{MATRIZ}/{ÂNGULO}/` |
 | **Métricas** (Sócrates) | `leitura-metricas` | lê os números que o dono manda, veredito pela régua do Nick | `02-CONTAS/{CONTA}/REGISTRO.md` |
 | **Próxima variação** | `proxima-variacao` | com a leitura, decide QUAL a próxima variação e ONDE (célula, matriz) e ordena a fila | `MATRIZ.md` · `PAINEL.md` |
 
@@ -43,6 +45,7 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 | Manda material de produto (prints, rótulo, fotos, briefing, copys) | `03-PRODUTOS/INDICE.md` | `dossie-produto` → ✋ G0 |
 | "Faz um vídeo de X na estrutura Y" / "abre matriz" | estrutura **e** produto na biblioteca; faltou → chamar a skill da biblioteca ANTES | abrir `MATRIZ.md` ✋ G1 → `cardapio-matriz` → ✋ G2 |
 | Copy aprovada → produzir | `ROTEIRO.md` aprovado, fotos do produto, `KIT-VISUAL.md` e `VOZ.md` da conta | `claude-video` (ver "Ponte para o motion") ✋ G3 → ✋ G4 |
+| "Faz um stickman de X" / tema ou produto para o bonequinho | produto na biblioteca (CARTAO + fotos) e estrutura E06–E09 | `stickman` (G2 roteiro e G4 vídeo podem ser direto se o dono pedir "me entrega pronto") |
 | Manda métricas / prints do TikTok Studio | linha do post no `REGISTRO.md` | `leitura-metricas` → `proxima-variacao` ✋ G5 |
 | "O que a gente faz hoje?" / "como está a C01?" | `PAINEL.md`, `MATRIZ.md` abertas, `REGISTRO.md` | card da conta (até 6 linhas) + sugestão |
 
@@ -95,12 +98,12 @@ Conta ativa: **C01 · Malu · BR** (@dicasdamalu8) · nicho saúde e bem-estar.
 CLAUDE.md                 este arquivo (orquestrador)
 .claude/skills/           extrair-dna · dossie-produto · cardapio-matriz · claude-video · leitura-metricas · proxima-variacao
 00-SISTEMA/               REGRAS · FLUXO (bibliotecas, matriz, fila) · CONTRATOS · NOMENCLATURA · CONDUCAO-EXEMPLO · MODELOS/ · CORRECOES · MECANICAS-MOTION
-01-BASE/                  métodos (Jéssica, Nick, PROCESSO, DOSSIE-ANGULOS…) · ver 01-BASE/LEIA.md
+01-BASE/                  métodos (Jéssica, Nick, PROCESSO, DOSSIE-ANGULOS…) · ver 01-BASE/LEIA.md · STICKMAN/ (FORMATO, master prompt original, referências)
 02-CONTAS/C01-MALU-BR/    PERFIL · REGISTRO · KIT-VISUAL · VOZ
 03-PRODUTOS/              INDICE · P-{MARCA}-{NOME}/ PRODUTO · ANGULOS · fotos/
 04-ESTRUTURAS/            INDICE · E{NN}-{CENA}-{VIRADA}/ DNA · viral.mp4 · transcricao.txt · quadros/
 05-VIDEOS/                {MATRIZ}/ MATRIZ · CARDAPIO · {ÂNGULO}/ ROTEIRO · motion/ · final/ · POST
-06-FERRAMENTAS/           scripts (buscar-galeria.sh, edição antiga)
+06-FERRAMENTAS/           voz/ (falar_neural.py) · motion-template/ (stickman.html + stickman/ boneco, motor, efeitos · ilustras/ 213 Fluent 3D) · mvm/
 07-PAINEL/                PAINEL (contas + fila do dia)
 _arquivo/                 o pacote OpenClaw original, inteiro (referência, não roda)
 ```
